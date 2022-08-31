@@ -1,0 +1,1869 @@
+Número receta, ingredientes
+1,   melón  +  oporto  +  aceite de oliva  +  sal
+2,   trufa negra  +  avellana  +  sal
+3,   pasta fresca  +  caviar  +  cigala  +  cebollino  +  limón
+4,   cigala  +  patata  +  trufa negra  +  calamar  +  jugo de carne  +  oporto  +  mantequilla  +  endivia  +  sal
+5,   piñón  +  mozzarella  +  tomate  +  orégano  +  trufa negra  +  calabacín en flor  +  nata  +  sal
+6,   muslitos de codorniz  +  salsa de soja  +  espárrago verde  +  patata  +  ajo tierno  +  jengibre  +  menta fresca
+7,   salmón fresco  +  patata  +  trufa negra  +  col  +  mayonesa  +  nata  +  sal
+8,   judía verde  +  pinza de bogavante  +  avellana tierna  +  jamón ibérico  +  molleja de ternera  +  orégano fresco
+9,   salmonete  +  patata  +  trufa de verano  +  perifollo  +  sal
+10,  salmonete  +  chalota  +  pimiento rojo   +  calabacín  +  cebollino  +  tomate  +  anchoa  +  piñón
+11,  dorada  +  patata  +  alioli  +  caldo de dorada  +  agua de mar  +  tomate  +  ajo  +  perejil  +  pimentón
+12,  escórpora  +  mantequilla  +  romesco  +  calamar
+13,  llucets  +  habita  +  esencia de cigala  +  mostaza  +  jamón ibérico
+14,  llucets  +  cep  +  perejil  +  esencia de cigala  +  cebollino  +  trufa negra  +  vinagre de jerez  +  perifollo
+15,  pularda  +  jugo de carne  +  trufa negra  +  oporto  +  mantequilla  +  foie-gras de pato  +  cep  +  sal
+16,   atún  +  anchoa  +  albahaca  +  limón  +  piñón  +  ensaladas  +  cebollino
+17,   erizo de mar  +  perejil  +  perifollo  +  cebollino  +  trufa negra  +  nata  +  mantequilla
+18,   ostra  +  habita  +  limón  +  aceite de oliva  +  caviar
+19,   almeja  +  trufa negra  +  cep  +  puerro  +  cava  +  cebollino
+20,   cep  +  cañaillas  +  cebolla tierna  +  piñón  +  cebollino  +  vinagre de jerez  +  sal
+21,   langosta  +  trufa negra  +  col  +  mayonesa  +  nata  +  cebolla  +  arroz  +  cebollino
+22,   patata  +  cigala  +  cep  +  piñón  +  cebollino  +  vinagre de jerez  +  calamar  +  tomate  +  mayonesa  +  estragón
+23,   espardenya  +  espárrago silvestre  +  rebozuelo  +  romesco  +  cebollino
+24,   cigala  +  kokotxas de llucet  +  rebozuelo  +  patata  +  minicalabacín  +  trufa negra  +  cebollino  +  sal
+25,   salmonete  +  morralet  +  jugo de carne  +  oreja de cerdo  +  alcachofa  +  níscalo  +  col  +  sal
+26,   escórpora  +  macarrón  +  minicalabacín  +  tomate  +  setas  +  sepia  +  cebolla  +  tinta  +  cinco pimientas  +  brandy  +  mantequilla  +  sal
+27,   bogavante  +  morilla  +  habita  +  perejil  +  perifollo  +  cebollino  +  molleja de ternera  +  bacalao  +  ajo  +  jugo de trufa negra  +  agua de mar
+28,   gambas  +  patata  +  alioli  +  caldo de gambas  +  ajo  +  perejil  +  tomate  +  pimentón  +  mantequilla  +  nata  +  agua de mar
+29,   alubia del ganxet  +  cebollita  +  oreja de cerdo  +  morro de cerdo  +  jugo de carne  +  bacalao  +  perejil
+30,   bogavante  +  trufa negra  +  perejil  +  níscalo  +  oreja de cerdo  +  patata  +  col  +  tocino  +  sal
+31,   merluza  +  morralet  +  ajo  +  mantequilla  +  pimiento rojo  +  berenjena  +  cebolla  +  lenteja  +  perifollo  +  cebollino  +  sal
+32,   langosta  +  bacon  +  habita  +  jugo de carne  +  perejil  +  mantequilla noisette  +  sal
+33,   pato  +  foie-gras de pato  +  oronja  +  jugo de carne  +  trufa negra  +  endivia  +  sal
+34,   caneton  +  vino tinto  +  aceite de oliva  +  habita  +  cebollita  +  sal
+35,   lomo de conejo  +  pie de cerdo  +  caracol  +  setas  +  jugo de carne  +  oporto  +  yema de huevo  +  nata  +  perejil  +  sal
+36,   pichón  +  patata  +  trufa negra  +  oporto  +  jugo de carne  +  nata  +  mantequilla  +  endivia  +  sal
+37,   azúcar  +  polvo de almendra  +  piña
+38,   azúcar  +  polvo de almendra  +  naranja rallada  +  cointreau  +  mantequilla
+39,   azúcar moreno  +  azúcar  +  piñón
+40,   pasta choux  +  caramelo  +  fresa  +  pistacho tostado
+41,   mantequilla  +  praliné de avellana  +  pistacho verde
+42,   hojaldre  +  caracol  +  romero  +  laurel  +  albahaca  +  orégano  +  tomate  +  calabacín  +  sal
+43,   bacalao salado  +  habita  +  tomate  +  menta  +  jamón  +  vinagre de jerez  +  aceite de oliva
+44,   almendra tierna  +  cigala  +  aceite de oliva  +  ajo  +  espárrago verde  +  cep  +  melisa  +  sal
+45,   bogavante  +  cebolla  +  ajo  +  tomate  +  pimiento rojo  +  pepino  +  albahaca  +  aceite de oliva  +  vinagre de jerez  +  pan  +  nata  +  mayonesa
+46,   ajo  +  tomate  +  pan  +  aceite de oliva  +  calabacín  +  champiñón  +  yema de huevo  +  sal
+47,   minipescados  +  sopa de pescado  +  romesco
+48,   alcachofa  +  buey de mar  +  trufa negra  +  nata  +  mantequilla  +  sal
+49,   alcachofa  +  foie-gras de pato  +  trufa negra  +  miniespárrago  verde  +  nata  +  mantequilla  +  jugo de carne  +  oporto  +  pistacho  +  sal
+50,   coquina  +  patata  +  cava  +  mantequilla  +  nata  +  chalota  +  perifollo
+51,   rapet  +  patata  +  azafrán  +  ajo tierno  +  pie de ternera  +  aceite de oliva  +  perifollo  +  sal
+52,   cep  +  patata  +  trufa negra  +  hierba de los canónigos  +  panceta curada a la pimienta  +  piñón  +  riñón de conejo  +   cebolla tierna  +  pimienta rosa  +  perifollo  +  sal
+53,   espárrago verde  +  trufa negra  +  patata  +  ancas de rana  +  mantequilla  +  sal
+54,   rapet  +  panceta curada  +  espárrago verde  +  romesco  +  ancas de rana  +  manzana  +  alcachofa  +  ensaladas
+55,   pelaya  +  alcachofa  +  trufa negra  +  mostaza  +  nata  +  perifollo  +  cebollino  +  oreja de cerdo  +  sal
+56,   carrillera de rapet  +  kokotxas de merluza  +  espárrago verde  +  alcachofa  +  trufa negra  +  perejil  +  mantequilla  +  sal
+57,   carrillera de rapet  +  ostra  +  caviar  +  perejil  +  mantequilla
+58,   carrillera de rapet  +  rebozuelo  +  coral de bogavante  +  perejil  +  limón  +  ajo  +  pimiento del Padrón  +  sal
+59,   lubina  +  tomate  +  ajo  +  cebollita  +  patata  +  jugo de carne  +  mantequilla  +  vinagre de jerez  +  sal
+60,   merluza  +  tomate  +  alcachofa  +  sepia  +  panceta curada a la pimienta  +  nata  +  perejil  +  mantequilla  +  jugo de trufa negra
+61,   rape  +  morralet  +  cep  +  ajo tierno  +  perifollo  +  piñón  +  sal
+62,   solomillo de buey  +  jugo de carne  +  oporto  +  trufa negra  +  piñón  +  albahaca  +  ajo  +  sal
+63,   brioche  +  cereza  +  pera  +  nata  +  azúcar
+64,   azafrán  +  leche  +  huevo  +  azúcar  +  nata  +  chocolate
+65,   crema pastelera  +  queso fresco  +  azúcar  +  frambuesa  +  nata  +  vainilla
+66,   hojaldre  +  azúcar
+67,   mantequilla  +  azúcar  +  almendra  +  naranja  +  cacao  +  anís
+68,   pasta choux  +  nata  +  café  +  chocolate
+69,   uva espina  +  azúcar
+70, espárrago verde  +  jugo de trufa negra
+71,  ajo  +  cilantro  +  aceite de oliva  +  vinagre de jerez  +  buey de mar  +  trompeta de la muerte  +  alcachofa  +  hierba de los canónigos  +  sal
+72,   col  +  foie-gras de pato  +  trufa negra  +  cebollino  +  sal
+73,   seso de cordero  +  buey de mar  +  calabacín  +  pimienta rosa  +  sal
+74,   cabeza de ternera  +  bogavante  +  alubia  +  rebozuelo  +  trufa negra  +  espárrago verde  +  cebollino  +  sal
+75,   bonito  +  pimiento rojo  +  tomate  +  berenjena  +  cebolla  +  romesco  +  albahaca  +  ensaladas
+76,   patata  +  puerro  +  nata  +  mejillón de roca  +  pimienta rosa  +  hinojo fresco
+77,   chipirón  +  espárrago verde  +  morilla  +  perejil  +  perifollo  +  cebollino  +  pie de ternera  +  trompeta de la muerte  +  perrechico  +  arroz  +         calabacín  +  trufa negra  +  sal
+78,   trufa negra  +  foie-gras de pato  +  judía verde  +  almendra tierna  +  aceite de oliva  +  vinagre de jerez  +  sal
+79,   salsifís  +  caracolines  +  tomate  +  piñón  +  sal
+80,   verdura  +  piñón  +  avellana  +  pistacho  +  ajo  +  tomate  +  trufa negra  +  aceite de oliva  +  vinagre de jerez  +  nata  +  perejil  +  sal
+81,   cigala  +  fideo cabello de ángel  +  ajo  +  aceite de oliva  +  sepia  +  sal
+82,   puerro  +  carrillera de cordero  +  lengua de cordero  +  trompeta de la muerte  +  aceite de oliva  +  alcachofa  +  cebolla tierna  +  zanahoria  +  sal
+83,   santiaguiños  +  pimentón  +  aceite de oliva  +  patata  +  col  +  garbanzo  +  chalota  +  sal
+84,   bacalao salado  +  gambas  +  habita  +  molleja de ternera  +  mantequilla  +  perifollo  +  cebollino  +  hinojo  +  limón
+85,   pajel  +  perejil  +  cebollino  +  limón  +  cebolla tierna  +  piñón  +  sal
+86,   atún  +  cilantro  +  ajo  +  aceite  +  vinagre de jerez  +  cebolla  +  patata  +  tomate  +  ensaladas  +  sal
+87,   lubina  +  espárrago verde  +  patata  +  chalota  +  salsa de soja  +  aceite de oliva  +  perejil
+88,   pelaya  +  calabacín  +  avellana  +  nata  +  mantequilla  +  limón  +  sal
+89,   oreja de cerdo  +  pan rallado  +  perejil  +  gambita  +  rebozuelo  +  patata  +  mantequilla  +  jugo de carne  +  sal
+90,   alita de pollo  +  langosta  +  patata  +  rebozuelo  +  habita  +  vino rancio  +  uva pasas  +  mantequilla  +  perejil  +  sal
+91,   pichón  +  cebolla tierna  +  jugo de carne  +  oporto  +  trufa negra  +  piñón  +  foie-gras de pato  +  sal
+92,   molleja de ternera  +  calamar  +  alubia de Santa Pau  +  rebozuelo  +  coliflor  +  jugo de carne  +  vinagre de jerez  +  mantequilla  +  sal
+93,   pasta sablée  +  limón  +  piña  +  nata  +  cilantro en grano
+94,   cacao  +  azúcar  +  chocolate  +  pipermint
+95,   pera  +  leche  +  mantequilla  +  polvo de almendra  +  licor de pera
+96,   plátano  +  limón  +  tomillo limonero  +  lima  +  ron blanco  +  azúcar moreno  +  menta
+97,   albaricoque  +  miel  +  nata  +  azúcar moreno  +  piñón
+98,   piña  +  nata  +  kirsch  +  chocolate
+99,   brioche  +  piel de naranja confitada
+100,  azúcar  +  avellana  +  chocolate
+101,  mantequilla  +  azúcar  +  sal
+102,   bacon  +  berenjena  +  pan de coca  +  costillita de conejo  +  aceite de oliva virgen
+103,   almendra  +  orégano  +  ajo  +  perejil  +  alcachofa  +  costillita de conejo  +  parmesano
+104,   mató  +  anchoa  +  tomate  +  albahaca  +  cebollino  +  vinagre de jerez  +  gambita  +  semilla de amapola  +  piñón
+105,   vinagre balsámico  +  anchoa  +  cebolla tierna  +  aguacate
+106,   aguacate  +  buey de mar  +  menta  +  hinojo  +  perifollo  +  lima  +  cilantro  +  sal
+107,   sardinita  +  coliflor  +  cebolla tierna  +  azafrán  +  vinagre de jerez  +  aceite de oliva  +  sal
+108,   oronja  +  cebolla tierna  +  jamón ibérico  +  ensaladas  +  riñón de conejo  +  piñón
+109,   langostino  +  seso  +  habita  +  minihinojo  +  senderuela  +  chalota  +  espárrago verde  +  coliflor  +  minizanahoria  +  tomate  + nata  +  hierbabuena  +  sal
+110,   bacalao salado  +  alubia  +  tomate  +  pimiento rojo  +  cebolla tierna  +  bogavante
+111,   calamar  +  senderuela  +  espárrago verde  +  guisante  +  trufa negra  +  sal
+112,   remolacha  +  caviar  +  limón  +  aceite de oliva  +  cebollino
+113,   almendra tierna  +  trufa negra  +  alcachofa  +  chipirón  +  nata  +  sal
+114,   vieiras  +  trufa negra  +  pimienta rosa  +  limón  +  alcachofa  +  foie-gras de pato  +  perifollo  +  sal
+115,   ostra  +  senderuela  +  cebolla tierna  +  agua de mar  +  tuétano de lechuga  +  perifollo  +  hinojo  +  cebollino  +  pimienta rosa
+116,   ostra  +  pie de ternera  +  chalota  +  vinagre  +  mantequilla  +  nata  +  cep
+117,   cañaillas  +  romesco  +  alcachofa  +  habita  +  cebolla tierna  +  pan  +  escarola  +  hierba de los canónigos  +  tomate  +  bacalao salado  +   ventresca de atún  +  atún en sorra  +  anchoa
+118,   bogavante  +  seso  +  cebolla tierna  +  trufa negra  +  perifollo  +  piñón  +  habita  +  jamón  +  calabacín
+119,   salmonete  +  berenjena  +  pan  +  bacalao salado  +  cebolla tierna  +  setas  +  cabeza de ternera  +  tomate  +  pimiento  +  mató  + huevo de codorniz  +  coliflor  +  vinagre  +  anchoa  +  rábano  +  ensaladas  +  alcachofa
+120,   masa de pizza  +  mozzarella de búfala  +  espárrago verde  +  cigala  +  trufa negra  +  tomate
+121,   puerro  +  cigala  +  hueva de cigala  +  avellana  +  cebollino  +  nata  +  aceite de oliva  +  sal
+122,   molleja de ternera  +  cigalitas  +  trufa negra  +  mostaza en grano  +  cebollino  +  nata  +  aceite de oliva  +  sal
+123,   sepia  +  tomate  +  habita  +  albahaca  +  tallarines frescos  +  tinta  +  parmesano  +  piñón
+124,   rapet  +  panceta  +  espárrago verde  +  romesco  +  ancas de rana  +  manzana  +  alcachofa  +  ensaladas
+125,   sot-l’y-laisse  +  bogavante  +  calabacín  +  ensaladas  +  romesco  +  alcachofa
+126,   consomé  +  pichón  +  trufa negra  +  zanahoria  +  apio  +  habita  +  coliflor  +  calabacín  +  cebolla tierna  +  col  +  sal
+127,   langosta  +  panceta  +  habita  +  rebozuelo  +  oreja de cerdo  +  col  +  gambas  +  cep  +  puerro  +  cigala  +  patata  +  oporto  +  jugo de carne  +  santiaguiños  +  salsifís  +  trufa negra  +  pimiento del Padrón  +  sal
+128,   cabeza de ternera  +  calçots  +  romesco  +  trufa negra  +  habita  +  senderuela
+129,   caneton  +  canela  +  vinagre  +  aceite de oliva  +  cebolla tierna  +  calabacín  +  zanahoria  +  manzana  +  judía verde  +   ajo tierno  +  piel de pato  +  sal
+130,   remolacha  +  cigala  +  hueva de cigala  +  chalota  +  cava  +  manzana  +  apio  +  sal
+131,   salmonete  +  col  +  senderuela  +  alubia  +  pan  +  trufa negra  +  foie-gras de pato  +  panceta cruda  +  oreja de cerdo  +   manteca de cerdo  +  sal
+132,   mejillón de roca  +  tomate  +  ensaladas  +  mozzarella fresca  +  anchoa  +  cebollino  +  perejil  +  perifollo  +  vinagre de jerez
+133,   almeja  +  carrillera de rapet  +  oronja  +  pie de ternera  +  cebollino  +  cebolla tierna  +  vinagre balsámico  +  pimienta rosa
+134,   pez músico  +  alcachofa  +  endivia  +  espárrago verde  +  calabacín  +  cep  +  trufa negra  +  aceite de oliva  +  vinagre de jerez  +  sal
+135,   llucets  +  habita  +  aceite de bogavante  +  ajo  +  perejil  +  bacon  +  berenjena  +  sal
+136,   gambas  +  foie-gras de pato  +  senderuela  +  salsifís  +  espárrago verde  +  puerro  +  cep  +  piñón  +   cebollino  +  vinagre de jerez  +  sal
+137,   rodaballo  +  salsifís  +  cresta de gallo  +  perejil  +  perifollo  +  cebollino  +  trufa negra  +  sal
+138,   móllera  +  cabeza de ternera  +  zanahoria  +  puerro  +  apio  +  trompeta de la muerte  +  sepia  +  col  +  cebolla tierna  +   alioli  +  trufa negra  +  ajo tierno  +  sal
+139,   raya  +  alubia  +  almeja  +  ajo  +  perejil  +  trufa negra
+140,   escórpora  +  langosta  +  caracol  +  sofrito  +  perejil  +  sal
+141,   raya  +  pie de cerdo  +  jugo de carne  +  puerro  +  cebolla tierna  +  ajo tierno  +  bogavante  +  cep  +  vinagre de jerez  +  cebollino  +  sal
+142,   foie-gras de pato  +  cebolla tierna  +  trufa negra  +  senderuela  +  cebollino  +  sal
+143,   conejo  +  pulpito  +  jugo de carne  +  canela  +  cebollita  +  setas  +  vermut blanco dulce  +  perejil  +  sal
+144,   pie de cordero  +  almeja  +  carrillera de rapet  +  salsifís  +  senderuela  +  nata
+145,   callos  +  cigala  +  trufa negra  +  endivia  +  ajo  +  perejil  +  sal
+146,   entrecôte de ternera  +  foie-gras de pato  +  trufa negra  +  oporto  +  espárrago verde  +  jugo de carne  +  sal
+147,   pie de cerdo  +  jugo de carne  +  calçots  +  espardenya  +  trufa negra  +  cep  +  sal
+148,   limón  +  plátano  +  tomillo  +  lima
+149,   chocolate  +  manzana  +  azafrán  +  nata
+150,   miel  +  mató  +  frambuesa
+151,   café  +  praliné  +  nata  +  chocolate  +  azafrán  +  queso fresco  +  manzana
+152,   hojaldre  +  fruto rojo  +  queso fresco  +  naranja  +  mantequilla  +  grand marnier
+153,   chocolate  +  nata
+154,   chocolate  +  nata  +  piñón
+155,   naranja  +  mandarina  +  pomelo  +  limón  +  té
+156,   cacao  +  mantequilla  +  azúcar
+157,   azúcar  +  limón  +  mantequilla noisette  +  avellana
+158,   coco  +  chocolate
+159,   almendra  +  tomate  +  orégano  +  aceite de oliva virgen  +  sal
+160,   caviar  +  manzana  +  agua de mejillón
+161,   trufa negra  +  pasta fresca  +  jamón ibérico  +  perifollo  +  nabo
+162,   sepia  +  tuétano  +  parmesano  +  llenega  +  acedera  +  coca de pan
+163,   pasta sablée  +  parmesano  +  avellana  +  menta  +  perifollo  +  lavanda  +  hinojo  +  salvia  +  cebollino  +  vinagre balsámico
+164,   lengua de cordero  +  salsa de soja  +  vinagre de jerez  +  salmonete  +  melocotón  +  espárrago verde
+165,   sardina de la costa  +  tomate  +  oreja de cerdo  +  cebolla tierna  +  alcachofa  +  minihinojo  +  minizanahoria  +  nabo  +  aceite de oliva  +  vinagre balsámico  +  sal
+166,   erizo  +  cep  +  hinojo
+167,   mejillón de roca  +  oreja de cerdo  +  hinojo  +  perrechico  +  hierba de los canónigos  +  vinagre de jerez  +  sal
+168,   bonito  +  jengibre  +  coco  +  cebollino  +  bacon  +  manzana  +  aceite de oliva  +  sal
+169,   cigala  +  cep  +  mató  +  ajo tierno  +  piñón  +  cebollino  +  vinagre de jerez
+170,   cep  +  cebollita tierna  +  jugo de carne  +  sal
+171,   habita  +  hierbabuena  +  oreja de cerdo  +  mostaza  +  vinagre de jerez  +  gambita  +  cebollita platillo  +  cebollita tierna  +  seso de cordero  +  sal
+172,   angula  +  oronja  +  tartufo  +  ajo tierno  +  sal
+173,   ostra  +  huevo  +  jengibre  +  melisa  +  senderuela  +  perejil  +  jamón ibérico
+174,   cigala  +  consomé  +  manzana  +  cebollino  +  caviar
+175,   vieiras  +  caviar  +  col china  +  limón  +  cebollino
+176,   percebe  +  huevo  +  albariño  +  laurel
+177,   cigarra de mar  +  morilla  +  rebozuelo  +  trompeta de la muerte  +  habita  +  perejil  +  perifollo  +  cebollino  +  vinagre balsámico  +  minicalabacín  +         cebollita platillo  +  almendra  +  riñón de conejo  +  lengua de conejo  +  costillita de conejo  +  carrillera de conejo  +  hígado de conejo  +  sal
+178,   rodaballo  +  chipirón  +  foie-gras de pato  +  apio-nabo  +  espárrago verde  +  sal
+179,   dorada  +  trufa negra  +  cep  +  piñón  +  puerro  +  panceta curada
+180,   jugo de carne  +  rape  +  bígaros  +  ajo  +  trompeta de la muerte  +  manzana  +  sal
+181,   bonito  +  tuétano de ternera  +  vino tinto  +  chalota  +  minihinojo  +  sal
+182,   rapet  +  espinaca  +  oronja  +  uva pasas  +  piñón  +  ajo  +  mantequilla  +  sal
+183,   rapet  +  salmonete  +  espardenya  +  tomate  +  berenjena  +  vinagre de jerez  +  albahaca  +  sal
+184,   lenguado  +  puerro  +  berro  +  perejil  +  perifollo  +  cebollino  +  jugo de trufa negra  +  almendra tierna  +  seso de cordero  +  jamón ibérico
+185,   langosta  +  perdiz  +  aceite de oliva  +  vinagre de jerez  +  perejil  +  perifollo  +  cebollino  +  cebollita tierna  +  ajo  +  espárrago verde  +  habita  +  calabacín  +  zanahoria  +  coliflor  +  níscalo  +  sal
+186,   tuétano de ternera  +  caviar  +  coliflor
+187,   bogavante  +  manzana  +  berenjena  +  limón  +  mantequilla  +  lomo de conejo  +  ajo  +  vino blanco  +  pimentón  +  tomillo  +  romero  +  sal
+188,   lengua de ternera  +  fondo de carne  +  sepieta  +  calçots  +  castaña  +  llenega  +  cebollita platillo  +  sal
+189,   pato  +  pera  +  endivia  +  sal
+190,   higo  +  fruta de la pasión  +  toffee  +  rosas  +  cilantro en grano  +  dátil
+191,   lima  +  azúcar moreno  +  ron  +  menta  +  plátano
+192,   albaricoque  +  yogur  +  limón  +  canela
+193,   fruta de la pasión  +  naranja  +  frambuesa  +  pistacho
+194,   frambuesa  +  pistacho  +  azúcar
+195,   menta  +  chocolate
+196,   chocolate  +  feuillantine
+197,   patata  +  vainilla  +  cigala  +  limón  +  yema de huevo  +  nata  +  hierba de los canónigos  +  sal
+198,   almendra tierna  +  tuétano de ternera  +  albahaca  +  ahumado  +  sal
+199,   pasta fresca  +  coco  +  aguacate  +  coliflor  +  caviar
+200,   coco  +  sardina  +  chalota  +  hierbabuena  +  curry  +  sal
+201,   apio  +  trufa negra  +  sal
+202,   maíz  +  trufa negra  +  aceite de oliva  +  foie-gras de pato  +  sal
+203,   foie-gras de pato  +  trufa negra  +  cebollino  +  pimienta rosa  +  pimienta negra  +  pimienta blanca  +  lechuga  +  trompeta de la muerte  +  consomé  +  sal
+204,   pichón  +  consomé  +  foie-gras de pato  +  trufa negra  +  cebolla tierna  +  sal
+205,   cep  +  cabeza de ternera  +  perejil  +  perifollo  +  cebollino  +  ahumado  +  sal
+206,   mozzarella  +  panceta curada  +  orejón  +  mostaza  +  caramelo  +  menta  +  vinagre de jerez  +  aceite de oliva
+207,   arroz  +  leche  +  parmesano  +  trufa negra  +  albahaca
+208,   seso de cordero  +  oreja de cerdo  +  manzana  +  huevo  +  nata  +  caviar  +  perejil
+209,   macarrón  +  tuétano de ternera  +  calabaza  +  gambas  +  trufa negra  +  bacon  +  parmesano  +  naranja  +  orégano
+210,   macarrón  +  trufa blanca  +  cangrejo de río  +  foie-gras de pato  +  ajo tierno  +  cebollino  +  sal
+211,   sardina  +  coliflor  +  oreja de cerdo  +  trufa negra  +  mantequilla  +  perejil  +  sal
+212,   bogavante  +  lenteja  +  yema de huevo  +  orégano  +  mostaza  +  caramelo  +  perejil  +  vinagre de jerez  +  cabeza de ternera  +  zanahoria  +   calabacín  +  coliflor  +  sal
+213,   espardenya  +  tomate  +  azúcar  +  panceta curada  +  seso de cordero  +  habita  +  jengibre  +  hierba luisa  +  jugo de carne  +  sal
+214,   costilla de cabrito  +  tomate  +  mozzarella  +  berenjena  +  pan  +  endivia  +  jugo de carne  +  riñón de cabrito  +  hígado de cabrito  +    molleja de cabrito  +  oporto  +  trufa negra  +  sal
+215,   lomo de cordero  +  pimienta rosa  +  mostaza en polvo  +  canela  +  vainilla  +  jugo de cordero  +  naranja  +  piñón  +  agua de azahar  +  sal
+216,   foie-gras de pato  +  pimentón  +  aceite de oliva  +  consomé  +  coliflor  +  cebolla tierna  +  almendra tierna  +  calabacín  +            panceta curada
+217,   lichi  +  arándano  +  manzana  +  hinojo fresco  +  uva pasas
+218,   manzana  +  albahaca  +  queso fresco
+219,   albaricoque  +  arroz  +  leche  +  naranja  +  limón  +  canela
+220,   chocolate  +  vainilla  +  leche  +  yema de huevo
+221,   manzana  +  hojaldre  +  miel  +  albahaca  +  nata
+222,   pasta sablée  +  limón  +  vainilla  +  pomelo  +  hierba luisa
+223,   chocolate  +  mandarina  +  licor de mandarina
+224,   pasta sablée  +  frambuesa  +  azúcar  +  nata
+225,   leche  +  azúcar  +  vainilla
+226,   chicharrón  +  hojaldre  +  azúcar
+227,   almendra  +  curry  +  sal
+228,   patata  +  anís estrellado  +  sal
+229,   alcachofa  +  sal
+230,   bonito  +  cereza  +  jengibre  +  vinagre  +  hierba luisa  +  sal
+231,   maíz  +  vainilla  +  pasta fresca  +  sal
+231a,   maíz  +  caviar  +  pasta fresca
+231b,   nuez de macadamia  +  tomate  +  crema doble  +  vainilla  +  sal
+232,   caviar  +  almendra
+233,   almendra  +  jugo de trufa negra  +  sal
+234,   melón  +  jamón ibérico
+235,   aguacate  +  aceite ahumado  +  yogur  +  pipa de girasol  +  sal
+236,   jugo de trufa negra  +  queso cremoso  +  rossinyol  +  menudillos de conejo  +  perifollo  +  sal
+237,   remolacha  +  yogur  +  rosas  +  sal
+238,   mató  +  remolacha  +  caviar
+239,   mejillón  +  cilantro  +  naranja  +  sal
+240,   judía blanca  +  erizo  +  sal
+241,   masa de pizza  +  mozzarella de búfala  +  caviar  +  cebolla tierna  +  limón
+242,   parmesano  +  leche  +  arroz  +  albahaca  +  tomate  +  trufa negra  +  sal
+243,   habita  +  panceta a la pimienta  +  mozzarella de búfala  +  cigala  +  rosas  +  cebollino  +  sal
+244,   brie  +  cañaillas  +  curry  +  aceite ahumado  +  miel  +  ciruela  +  hierba de los canónigos
+245,   cigala  +  minicalabacín en flor  +  fideo de soja  +  salsa de soja  +  agua de azahar  +  zumo de  limón  +  sal
+246,   pollo  +  aceite ahumado  +  alcachofa  +  bogavante  +  albahaca  +  mató  +  sal
+247,   almendra  +  remolacha  +  tomate  +  melocotón  +  albahaca  +  maíz  +  coliflor  +  aguacate  +  almendra tierna  +  sal
+248,   almeja  +  jugo de pollo  +  tomillo limonero  +  minicalabacín  +  lichi  +  shitake  +  endivia  +  maíz  +  sal
+249,   cep  +  espárrago verde  +  parmesano  +  mandarina  +  nuez de macadamia  +  sal
+250,   caracol  +  cep  +  vinagreta de hierbas  +  morralet  +  ajo tierno  +  nuez  +  yogur  +  mató  +  hierbas frescas  +  azúcar  +  vinagre  +  sal
+251,   vieiras  +  avellana  +  guindilla  +  champiñón  +  flor de sal  +  grosella
+252,   espardenya  +  panceta curada a la pimienta  +  apio-nabo  +  manzana Granny Smith  +  fondo de carne  +  apio  +  leche  +  brie  +  sal
+253,   callos  +  piñón  +  px  +  ajo  +  berenjena  +  calamar  +  pan rallado  +  perejil  +  sal
+254,   salmonete  +  médula de ternera  +  patata  +  jamón ibérico  +  ratafía  +  col  +  naranja  +  azúcar  +  aceite de oliva  +  sal
+255,   alcachofa  +  nata  +  aceite de oliva virgen  +  acedera  +  panceta fresca  +  perejil  +  morralet  +  rodaballo  +  vinagre de cabernet sauvignon  +  agua de mar
+256,   escórpora  +  aceite ahumado  +  minicalabacín en flor  +  brie  +  albahaca  +  pomelo  +  tuétano de ternera  +  perifollo  +  cebollino  +  sal
+257,   caballa  +  aceite ahumado  +  salsa romesco  +  cabeza de ternera  +  escarola  +  ajo  +  queso de cabra  +  perifollo  +  aceite de oliva  +  sal
+258,   tomate  +  mejillón  +  garbanzo  +  cabeza de ternera  +  almendra tierna  +  aceite de oliva  +  orégano  +  sal
+259,   espalda curada de cerdo ibérico  +  calabaza  +  cebolla tierna  +  habita tierna  +  rossinyol  +  espinaca  +  nabo  +  castaña  +  brote de coliflor  +  jamón ibérico  +  minizanahoria  +  pie de cerdo  +  sal
+260,   foie-gras de pato  +  mango  +  azúcar  +  vinagre de cabernet,sauvignon  +  endivia  +  perifollo  +  aceite de oliva  +  pimienta negra  +  sal
+261,   espaldita de conejo  +  salsa salmorejo  +  espárrago verde  +  mango  +  vinagre de jerez  +  piel de limón  +  mascarpone  +  sal
+262,   queso fresco  +  miel  +  mango  +  arándano
+263,   melocotón  +  manzana  +  calabacín  +  apio-nabo  +  dátil  +  flor de calabacín  +  yogur natural
+264,   rosas  +  canela  +  mandarina
+265,   hinojo  +  cereza  +  champiñón  +  yogur  +  caramelo líquido  +  zumo de limón
+266,   leche de coco  +  frambuesa  +  plátano  +  fresa de bosque  +  zumo de limón  +  pimienta rosa
+267,   mató  +  frambuesa  +  vainilla  +  aceite de oliva  +  orégano  +  tomate
+268,   café  +  toffee  +  azafrán  +  anís estrellado  +  te  +  cardamomo  +  canela  +  piñón  +  baileys  +  chocolate
+269,   avellana  +  chocolate  +  hierba luisa
+270,   pistacho verde  +  plátano  +  pimienta rosa  +  mascarpone  +  fresa de bosque  +  nata  +  leche de coco
+271,   piña  +  bulbo de hinojo  +  anís estrellado  +  hinojo fresco  +  anís seco
+272,   leche de coco  +  chocolate  +  curry  +  plátano
+273,   chocolate blanco  +  azafrán  +  nata
+274,   maíz frito  +  chocolate  +  sal
+275,   mandarina  +  lichi  +  cilantro
+276,   manzana  +  jazmín
+277,   mango
+278,   whiskey  +  café  +  nata  +  azúcar
+279,   frambuesa  +  azúcar
+280,   leche condensada  +  café soluble
+281,   frambuesa  +  naranja  +  pistacho verde  +  piel de naranja
+282,   zumo de mandarina  +  toffee  +  chocolate  +  licor de mandarina  +  pasta de cacao  +  nata  +  piel de mandarina
+283,   chocolate  +  chocolate con leche  +  nata  +  mantequilla  +  romero
+284,   piel de naranja confitada  +  chocolate
+285,   chocolate  +  chocolate con leche  +  café tostado en  grano  +  anís estrellado
+286,   fresa  +  pimienta negra
+287,   avellana  +  témpura  +  sal
+288,   piel de pato  +  sal
+289,   cacahuete  +  miel  +  sal gris
+290,   huevo  +  jugo de trufa negra  +  nata  +  mantequilla  +  sal
+291,   ostra  +  aceite ahumado  +  chalota  +  vinagre balsámico  +  panceta curada a la pimienta  +  azúcar
+292,   vainilla  +  huevo  +  tomate  +  plátano  +  panceta  +  arroz  +  leche  +  sal
+293,   espinaca  +  grasa de jamón ibérico  +  ajo  +  vino de Málaga  +  piñón  +  piel de limón
+294,   alcachofa  +  guisante  +  orejón de albaricoque  +  sal
+295,   nuez moscada  +  leche  +  yema de huevo  +  almendra  +  coliflor  +  ajo  +  pan  +  pimienta blanca  +  sal
+296,   naranja sanguina  +  témpura  +  espárrago  +  trufa negra  +  aceite de oliva  +  sal
+297,   jamón ibérico  +  yogur  +  nata  +  queso Idiazábal  +  caracol  +  calabaza  +  menta  +  pimienta blanca  +  mantequilla  +  sal
+298,   leche  +  yema de huevo  +  curry  +  pollo  +  manzana Granny Smith  +  leche de coco  +  ajo  +  aceite de girasol  +  cebolla tierna
+299,   oreja de cerdo  +  menta  +  jamón ibérico  +  habita  +  panceta fresca de tocino ibérico  +  sal
+300,   pulpo  +  patata  +  nata  +  aceite de oliva virgen  +  pimentón dulce en polvo  +  sal gruesa
+301,   mejillón de roca  +  azafrán  +  albaricoque
+302,   pulpo  +  pollo  +  laurel  +  ajo  +  pimienta blanca  +  calabaza  +  jengibre  +  vainilla  +  salsa de soja  +  leche de coco  +  aguacate  +  mango  +  manzana  +  perifollo  +  sal gruesa
+303,   vinagre de cabernet sauvignon  +  patata  +  panceta curada a la pimienta  +  miel  +  piña  +  pimienta negra
+304,   albahaca  +  fruta de la pasión  +  berberecho  +  guisante  +  cebolla tierna  +  plátano  +  lechuga  +  pimienta negra  +  aceite de girasol
+305,   guisante  +  nata  +  caviar
+306,   foie-gras de pato  +  uva  +  hoja tierna de eucalipto  +  aceite de girasol  +  sal gris
+307,   vainilla  +  pimienta rosa  +  mostaza  +  anís estrellado  +  sésamo  +  aceite de girasol  +  guindilla  +  mango  +  sardina  +  hierba luisa  +  sal
+308,   pollo  +  ajo  +  senderuela  +  hinojo  +  menta  +  albahaca  +  cebollino  +  perifollo  +  espárrago verde  +  naranja sanguina  + navajas  +  macarrón  +  sal
+309,   px  +  limón  +  parmesano  +  nata  +  cep  +  consomé  +  foie-gras de pato  +  panceta curada a la pimienta  +  arroz  +  gambas  +  perifollo  +  sal
+310,   fondo de carne  +  canela  +  aceite de girasol  +  naranja  +  pera  +  vino tinto  +  piel de limón  +  cigala  +  perifollo fresco  +  sal
+311,   pollo  +  vino blanco  +  ajo  +  aceite de girasol  +  pasta fresca  +  nata  +  yema de huevo  +  laurel  +  tomillo  +  romero  +  espárrago verde  +  lenguado  +  sal
+312,   barbada  +  vainilla  +  aceite de girasol  +  mostaza  +  pimienta rosa  +  anís estrellado  +  sésamo  +  fondo de carne  +  piña  +  bulbo de hinojo  +  mantequilla  +  cebollino  +  sal
+313,   espardenya  +  panceta curada a la pimienta  +  trufa negra  +  aceite de girasol  +  manzana Granny Smith  +  garbanzo  +  hinojo  +  albahaca  +  mantequilla  +  sal
+314,   tuétano  +  senderuela  +  kumquat  +  espárrago verde  +  mantequilla  +  sal
+315,   foie-gras de pato  +  hinojo  +  lichi  +  grosella negra  +  manzana Granny Smith  +  fondo de carne  +  mantequilla  +  sal gris
+316,   fondo de pato  +  vino rancio  +  romero  +  pera  +  endivia  +  caneton  +  sal
+317,   manzana Golden  +  manzana Granny Smith  +  pacharán  +  queso fresco  +  albahaca  +  arándano  +  yogur
+318,   plátano  +  menta  +  ron  +  lima
+319,   pera  +  yogur  +  chocolate blanco  +  café  +  feuillantine  +  praliné de avellana  +  chocolate
+320,   limón  +  plátano  +  anís seco  +  aguacate  +  hierba luisa
+321,   frambuesa  +  pimienta de Sechuán  +  pomelo  +  menta
+322,   almendra  +  remolacha  +  manzana Red Starking  +  tomate  +  melocotón  +  albahaca  +  maíz  +  aguacate
+323,   hojaldre  +  manzana Red Starking  +  manzana Granny Smith  +  albahaca  +  ron  +  queso fresco
+324,   piña  +  toffee  +  pimienta blanca  +  enebro
+325,   queso Idiazábal  +  chocolate blanco  +  plátano  +  témpura  +  caramelo líquido  +  limón
+326,   pera  +  toffee  +  maíz  +  chocolate  +  leche condensada  +  avellana
+327,   praliné de avellana  +  chocolate blanco  +  café  +  chocolate  +  baileys
+328,   chocolate  +  pasta philo
+329,   plátano  +  zumo de lima  +  jarabe  +  ron blanco
+330,   nata  +  azúcar  +  vainilla  +  mantequilla
+331,   manzana  +  yogur  +  nata  +  miel
+332,   fresa  +  vinagre de cabernet sauvignon  +  yogur griego  +  menta
+333,   chocolate  +  chocolate con leche  +  nata  +  mantequilla  +  pimienta de Sechuán
+334,   chocolate blanco  +  praliné de avellana  +  feuillantine  +  chocolate  +  chocolate con leche
+335,   leche  +  cacao  +  chocolate  +  naranja amarga  +  cointreau
+336,   vinagre de cabernet sauvignon  +  nata  +  chocolate  +  chocolate con leche
+337,   coco seco  +  chocolate
+338,   maíz frito  +  aguacate  +  zumo de limón  +  queso fresco  +  tomate  +  cilantro  +  aceite de oliva  +  cebolla tierna  +  azúcar
+339,   pan  +  nuez  +  azúcar  +  fruta de la pasión  +  roquefort  +  yogur
+340,   patata  +  canela  +  sal
+341,   pimienta negra  +  aceite de girasol  +  plátano  +  panceta curada a la pimienta
+342,   caracol  +  romero  +  tomillo  +  jamón ibérico
+343,   coliflor  +  frambuesa  +  vinagre de cabernet sauvignon  +  sal
+344,   leche de coco  +  panceta curada a la pimienta  +  menta  +  curry  +  champiñón  +  sal
+345,   tomate  +  agua de rosas  +  guindilla  +  pimienta blanca
+346,   trufa negra  +  nata  +  sal
+347,   mango  +  foie-gras de pato  +  pimienta negra  +  sal gris
+348,   huevo de codorniz  +  azúcar  +  nuez moscada  +  sal gris  +  pimienta negra
+349,   tomate  +  vainilla  +  albahaca  +  tomate cherry  +  tomate verde  +  grosella  +  sal gris  +  sal
+350,   almendra  +  ajo  +  aceite de oliva virgen  +  vinagre balsámico de Módena  +  almendra tierna  +  sal
+351,   consomé  +  leche  +  yema de huevo  +  tomillo  +  parmesano  +  nata  +  aceite de girasol  +  piel de limón  +  zumo de limón  +  pan  +  flor de tomillo  +  sal
+352,   pan  +  nuez  +  azúcar  +  fruta de la pasión  +  yogur  +  roquefort
+353,   foie-gras de pato  +  px  +  maíz frito  +  alcachofa  +  consomé  +  pimienta negra  +  sal
+354,   mozzarella de búfala  +  albahaca  +  tomate cherry  +  caramelo  +  nata  +  leche  +  piel de mandarina  +  parmesano  +  sal
+355,   guindilla  +  aceite de girasol  +  cigala  +  aceite de oliva  +  cebolla  +  estragón
+356,   oreja de cerdo  +  naranja  +  cebollita platillo  +  tinta de calamar  +  leche  +  laurel  +  pimienta negra  +  navajas  +  perifollo  +  sal
+357,   jugo de cerdo  +  miel  +  naranja sanguina  +  panceta curada a la pimienta  +  patata  +  yema de huevo  +  canela
+358,   atún  +  patata  +  tomillo  +  pimiento rojo  +  pimiento verde  +  nyora  +  salsa de atún  +  cebolla  +  tomate  +  perifollo  +  aceite de oliva virgen  +  sal
+359,   hinojo  +  aguacate  +  erizo  +  zumo de limón
+360,   limón  +  azafrán  +  aceite de girasol  +  cangrejo de río  +  tomate verde  +  tomate rojo  +  lechuga  +  yogur  +  hinojo  +  sal  +  azúcar
+361,   pulpo  +  mejillón  +  almeja  +  berberecho  +  escupiña  +  ostra  +  coquina  +  lluenta  +  bígaros  +  cañaillas  +  percebe  +  erizo +  sal + navajas  +  jengibre  +  frambuesa
+362,   tuétano  +  langosta  +  aceite de oliva  +  pasta fresca  +  cep  +  nata  +  fondo de carne  +  menta  +  estragón  +   perifollo + sal
+363,   manzana Golden  +  miel  +  calvados  +  foie-gras de pato  +  fondo de carne  +  nata
+364,   manzana Granny Smith  +  queso fresco  +  yogur  +  albahaca  +  ficoide glaciale  +  fresa  +  apio  +  menta  +  piel de limón
+365,   remolacha  +  leche de coco  +  lichi  +  arándano  +  café  +  chocolate blanco
+366,   manzana Granny Smith  +  manzana Red Starking  +  manzana Golden
+367,   manzana Granny Smith  +  menta  +  nuez moscada  +  curry  +  azafrán  +  cardamomo  +  pimienta de Sechuán  +  vainilla  +  jengibre  +  canela  +  pimienta rosa  +  anís estrellado  +  enebro
+368,   cacahuete  +  miel  +  queso fresco  +  sal  +  naranja  +  chocolate
+369,   melón del país  +  melón cantaloupe  +  menta  +  grosella  +  oporto
+370,   uva  +  piña  +  rosas  +  miel  +  fruta de la pasión  +  romero  +  vainilla  +  mango  +  eucalipto  +  canela  +  flor de romero
+371,   huevo  +  leche  +  piel de naranja  +  piel de limón  +  nata  +  vainilla  +  zumo de limón  +  naranja  +  pasta philo  +  canela
+372,   naranja  +  jengibre  +  mango  +  tomate  +  albahaca
+373,   leche de coco  +  arroz  +  melocotón  +  arroz frito caramelizado  +  coco fresco  +  fresa de bosque
+374,   higo  +  fruta de la pasión  +  toffee  +  rosas  +  leche en polvo  +  yogur
+375,   almendra  +  limón  +  sésamo  +  fresa de bosque  +  vainilla  +  frambuesa
+376,   romero  +  pera  +  hojaldre  +  yogur  +  limón  +  ácido cítrico
+377,   cereza  +  vainilla  +  vinagre de cabernet sauvignon  +  pan de especias  +  marrasquino  +  chocolate
+378,   café  +  mascarpone  +  amaretto  +  cacao
+379,   cereza  +  cacao  +  kirsch  +  galleta Oreo  +  chocolate
+380,   chocolate  +  toffee  +  cacao  +  maíz  +  maíz frito
+381,   sandía  + cardamomo verde  +  menta
+382,   apio-nabo  +  piña  + orégano fresco
+383,   fresa  +  mango  +  frambuesa  +  albahaca
+384,   sandía  +  cardamomo verde
+385,   piña  +  marrasquino  +  merengue italiano
+386,   limón  +  aguacate  +  plátano  +  anís seco  +  hierba luisa
+387,   queso fresco  +  mango  +  miel  +  arándano
+388,   melocotón  +  menta  +  chocolate
+389,   chocolate  +  chocolate con leche  +  nata  +  mantequilla  +  piel de limón  + azafrán
+390,   mascarpone  +  azúcar  +  cacao
+391,   nata  +  azúcar  +  mantequilla  +  café soluble
+392,   chocolate  +  chocolate con leche  +  nata  +  mantequilla  +  esencia de rosas
+393,   caramelo  +  piel de mandarina  +  anís estrellado  +  ácido cítrico
+394,   azúcar  +  alcachofa  +  sal Maldon
+395,   arroz  +  curry  +  sal
+396,   magdalena  +  aceituna negra
+397,   azúcar  +  pistacho  +  sal
+398,   foie-gras de pato  +  maíz frito  +  pimienta blanca  +  sal Maldon
+399,   parmesano  +  limón  +  nata
+400,   agua  +  humo  +  pan  +  aceite de oliva virgen
+401,   panceta curada a la pimienta  +  dátil
+402,   tomate  +  azúcar  +  cilantro  +  pimienta negra  +  sal Maldon
+403,   parmesano  +  huevo  +  panceta curada a la pimienta  +  cebollita tierna  +  limón  +  aceite de oliva virgen  +  sal
+404,   tomate seco  +  cuajada  +  pan  +  perejil  +  aceite de girasol  +  ajo  +  aceite de oliva virgen
+405,   caldo de pollo  +  jugo de pollo  +  cep  +  aceite de girasol  +  pasta fresca  +  nata  +  tomillo  +  romero  +  laurel  +  sal
+406,   sardina  +  frambuesa  +  agua de mar  +  vinagre de vino blanco  +  pimienta negra  +  zumo de limón
+407,   tomate  +  albahaca  +  sandía  +  pimienta negra  +  sal Maldon
+408,   jamón ibérico  +  fruta de la pasión  +  menta  +  aceite de girasol  +  guisante  +  lechuga
+409,   bacalao  +  nata  +  guindilla  +  aceite de oliva  +  cerdo  +  miel  +  huevo  +  cebollita  +  azúcar  +  ajo  +  sal
+410,   consomé  +  estragón  +  queso fresco  +  nata  +  px  +  aceite de nuez  +  sal
+411,   yema de huevo  +  nata  +  avellana  +  vainilla  +  sal Maldon
+412,   remolacha  +  pimienta negra  +  aceite de girasol  +  zumo de limón  +  piel de limón  +  yogur  +  pistacho verde  +  frambuesa  +  sal
+413,   cebolla  +  sepia  +  tinta  +  témpura  +  morralet  +  cebollita platillo  +  aceite de oliva  +  sal
+414,   mejillón de roca  +  ajo  +  aceite de oliva  +  perejil  +  aceite de girasol  +  tomate  +  pimienta blanca  +  sal
+415,   leche  +  nata  +  fondo de carne  +  pasta fresca  +  consomé  +  foie-gras de pato  +  rossinyol  +  perifollo  +  sal Maldon
+416,   leche de coco  +  sepia  +  brote de soja  +  menta  +  aceite de girasol  +  salsa de soja  +  jengibre
+417,   berenjena  +  azúcar  +  yogur griego  +  piñón  +  caramelo balsámico  +  aceite de oliva virgen  +  sal
+418,   leche  +  nata  +  panceta curada a la pimienta  +  pimiento del piquillo  +  plátano  +  nuez moscada  +  pimienta blanca  +  sal Maldon
+419,   langosta  +  leche de coco  +  zanahoria  +  tomate  +  menta  +  pimienta rosa  +  sal
+420,   vainilla  +  aceite de girasol  +  alcachofa  +  yema de huevo  +  perifollo  +  sal
+421,   cacahuete  +  aceituna negra  +  vieiras  +  yogur  +  orejón de albaricoque  +  curry  +  sal Maldon
+422,   nabo daikon  +  pie de cerdo  +  jugo de cerdo  +  jamón ibérico  +  melisa  +  menta  +  perifollo  +  estragón  +  vinagre de jerez
+423,   seso de cordero  +  carbón  +  aceite de girasol  +  patata  +  nabo daikon  +  estragón  +  hinojo  +  perifollo  +  fondo de carne  +  vinagre de cabernet sauvignon  +  rossinyol  +  cordifole  +  sal
+424,   espárrago verde  +  yogur  +  zumo de limón  +  trufa negra  +  aceite de girasol  +  sal
+425,   almendra  +  amaretto  +  albaricoque  +  mantequilla  +  almendra tierna  +  sal Maldon
+426,   bacon  +  piñón  +  px  +  café  +  anís verde  +  chocolate
+427,   remolacha  +  pistacho  +  frambuesa  +  yogur  +  piel de limón  +  pistacho verde
+428,   lichi  +  hinojo fresco  +  manzana Granny Smith  +  pasas de Corinto
+429,   cilantro  +  marrasquino  +  toffee  +  piña
+430,   fruta de la pasión  +  leche de coco  +  menta
+431,   limón  +  café  +  plátano  +  toffee  +  vainilla  +  merengue
+432,   berenjena  +  yogur griego  +  miel  +  pasta philo  +  caramelo balsámico  +  piel de naranja
+433,   zanahoria  +  jengibre  +  miel  +  romero  +  hierba luisa  +  tomillo  +  hinojo  +  albahaca  +  menta
+434,   fresa  +  almendra  +  vinagre de cabernet sauvignon  +  pimienta negra  +  piel de limón
+435,   chocolate  +  hinojo  +  menta  +  cacao
+436,   pistacho  +  albaricoque  +  yogur  +  piel de limón  +  crema catalana  +  cacao
+437,   chocolate blanco  +  pasta sablée  +  coco  +  limón  +  mató  +  ron
+438,   nata  +  vainilla  +  avellana  +  café  +  humo  +  cacao  +  whiskey
+439,   chocolate  +  cacao  +  albaricoque
+440,   chocolate  +  naranja  +  regaliz  +  menta  +  agua de azahar  +  piel de naranja  +  piel de limón  +  esencia de jazmín
+441,   chocolate  +  pasta de cacao  +  lima  +  piel de lima  +  fruta de la pasión  +  pomelo  +  naranja
+442,   naranja  +  limón  +  pomelo  +  fresa de bosque  +  albahaca  +  piel de naranja
+443,   melón  +  menta
+444,   mandarina  +  apio  +  limón
+445,   fresa  +  frambuesa  +  albahaca  +  pasta de guaba
+446,   chocolate con leche  +  gianduja  +  nata  +  mantequilla  +  cardamomo verde
+447,   chocolate blanco  +  albahaca
+448,   chocolate  +  chocolate con leche  +  nata  +  mantequilla  +  lavanda
+449,   arroz inflado  +  chocolate
+450,   chocolate  +  nata  +  mantequilla  +  romero  +  flor de romero
+451,   coco seco   +  nata  +  amaretto
+452,   chocolate  +  menta  +  pimienta de Jamaica
+453,   bacon  +  piñón  +  azúcar
+454,   chocolate  +  nata  +  chocolate con leche
+455,   piña  +  coco  +  ron negro
+456,   fruta de la pasión  +  cachaça  +  menta  +  coco
+457,   melón  +  fruta de la pasión  +  jerez
+458,   lima  +  coco  +  cachaça
+459,   arroz  +  azafrán  +  sal
+460,   maíz frito  +  azúcar  +  sal
+461,   arroz  +  tinta de calamar  +  sal
+462,   arroz salvaje  +  sal
+463,   alga nori  +  harina de arroz glutinoso  +  sal
+464,   hojaldre  +  parmesano  +  limón
+465,   palomitas  +  sal
+466,   chips de verdura  +  sal
+467,   chufa  +  agua  +  mandarina
+467a,   consomé  +  anís estrellado  +  sal
+467b,   almendra tostada  +  agua  +  sal
+467c,   espárrago verde  +  sal
+467d,   jugo de trufa negra  +  sal
+468,   espárrago verde  +  jugo de trufa negra  +  sal
+469,   yogur  +  remolacha  +  frambuesa  +  pimienta
+470,   fresa  +  parmesano  +  sal  +  pimienta  +  aceite de oliva virgen
+471,   hueva de trucha  +  azúcar
+472,   tomate  +  sandía  +  albahaca  +  pimienta negra  +  sal
+473,   alcachofa  +  azúcar  +  sal  +  aceite de oliva virgen
+474,   caldo de pollo  +  nata  +  mantequilla  +  pan  +  sal
+475,   bogavante  +  caviar  +  coliflor
+476,   aceite de tartufo  +  jugo de trufa negra  +  leche  +  nata  +  sal
+477,   consomé  +  tuétano  +  carbón  +  fondo de carne  +  pan  +  aceite de girasol  +  sal  +  pimienta negra
+478,   almendra tostada  +  alcachofa  +  cep  +  nata  +  leche  +  vainilla
+479,   cep  +  chufa  +  buey de mar  +  ficoide glaciale  +  vainilla  +  aceite de girasol
+480,   berberecho  +  lichi  +  fruta de la pasión  +  pimienta negra
+481,   escupiña  +  melón cantaloupe  +  fruta de la pasión
+482,   tomate  +  naranja sanguina  +  pomelo rosa  +  almendra tierna  +  aceite de oliva virgen  +  sal
+483,   anguila  +  azúcar mascabado  +  hinojo  +  piña  +  naranja  +  fondo de carne
+484,   habita  +  panceta ibérica  +  lechuga  +  grasa de jamón  +  fondo de carne  +  menta  +  aceite de oliva
+485,   bacalao  +  cebolla  +  jugo de trufa negra  +  yema de huevo  +  ajo  +  almendra tierna  +  aceite de oliva virgen
+486,   alga nori  +  hinojo
+487,   pimiento del Padrón  +  trufa de verano  +  yogur  +  aceite de tartufo
+488,   sandía  +  tomate  +  vinagre dulce  +  albahaca  +  pistacho  +  aceite de oliva virgen  +  sal
+489,   melón  +  pomelo rosa  +  menta  +  ficoide glaciale  +  aceite de oliva virgen  +  sal
+490,   patata  +  nata  +  aceite de oliva virgen  +  aceite de tartufo  +  trufa de verano
+491,   patata  +  cebolla  +  nata  +  huevo  +  aceite de oliva virgen
+492,   erizo  +  nata
+493,   hígado de rape  +  cebollita platillo  +  miel  +  jugo de cerdo  +  menta
+494,   coquina  +  panceta ibérica  +  grasa de jamón  +  jugo de carne  +  cordifole  +  aceite de oliva
+495,   cep  +  espardenya  +  mango  +  aceituna negra  +  vinagre dulce  +  azúcar
+496,   cigala  +  agua
+497,   ventresca de atún  +  eucalipto  +  grosella negra  +  cebolla tierna  +  fondo de carne
+498,   callos  +  garbanzo  +  menta  +  tomate  +  ajo  +  guindilla  +  jamón  +  aceite de oliva virgen
+499,   roquefort  +  leche  +  manzana  +  limón
+500,   maíz  +  carbón  +  jugo de cerdo  +  yogur  +  maíz frito  +  miel  +  sal
+501,   mango  +  vainilla  +  vinagre dulce  +  hierbas frescas  +  yogur griego
+502,   verdura  +  fruta  +  hierbas frescas  +  flor
+503,   melón del país  +  melón cantaloupe  +  café  +  coco  +  menta  +  plátano
+504,   pistacho  +  yogur  +  pera  +  cítricos  +  cacao  +  vainilla  +  chocolate
+505,   piña verde de pino  +  piñón  +  limón  +  miel  +  sal
+506,   azúcar mascabado  +  fruta de la pasión  +  yogur  +  cacao
+507,   jugo de trufa negra  +  trufa negra  +  castaña  +  chocolate
+508,   chocolate blanco  +  aceituna negra  +  mango  +  sal
+509,   regaliz  +  manzana verde  +  chocolate con leche  +  lima
+510,   chocolate  +  pimienta de Jamaica  +  piña  +  azúcar mascabado  +  cacao  +  sal
+511,   pera  +  chocolate  +  avellana  +  licor de pera  +  sal
+512,   pera  +  arándano  +  yogur
+513,   frambuesa  +  azúcar  +  yogur
+514,   fruta de la pasión  +  azúcar  +  clara de huevo
+515,   masa de teja de cacao  +  chocolate
+516,   masa de teja de frambuesa  +  frambuesa
+517,   pasta sablée  +  caramelo balsámico
+518,   remolacha  +  sandía  +  albahaca
+519,   maíz frito  +  azúcar  +  azúcar moreno
+520,   orejón  +  pistacho  +  almendra  +  piñón  +  maíz frito  +  azúcar
+521,   piña  +  jengibre confitado  +  azúcar  +  clara de huevo
+522,   chocolate con leche  +  caramelo balsámico
+523,   nibs  +  chocolate
+524,   pasta de cacao  +  chocolate
+525,   lima  +  chocolate
+526,   arándano  +  grosella  +  hierba luisa  +  azúcar
+527,   pasta de cacao  +  remolacha  +  caramelo  +  coco  +  pistacho  +  azúcar
+528,   fruta de la pasión  +  bourbon
+529,   naranja sanguina  +  campari  +  martini
+530,   cerveza  +  limón
+531,   chufa  +  agua
+532,   corteza de cerdo  +  azúcar  +  miel  +  sal
+533,   avellana  +  azúcar  +  curry  +  sal
+534,   nuez  +  azúcar  +  curry  +  sal
+535,   oblea de arroz  +  bacalao salado
+536,   oblea de arroz  +  gambas  +  sal
+537,   oblea de arroz  +  aceituna negra  +  sal
+538,   flor de loto  +  sal
+539,   pipa de calabaza  +  azúcar  +  sal
+540,   melón  +  azúcar  +  sal de melón  +  sal
+541,   sésamo  +  azúcar  +  sal
+542,   pan de especias  +  azúcar  +  foie-gras de pato  +  sal
+543,   parmesano  +  clara de huevo  +  sal
+544,   masa de barquillo  +  aceituna negra
+545,   chicharrón  +  azúcar  +  piñón  +  nata  +  sal
+546,   mango  +  sal  +  azúcar
+547,   pimiento del Padrón  +  azúcar  +  sal
+548,   patata  +  café  +  yogur griego  +  aceite de oliva virgen  +  sal
+549,   sandía  +  tomate  +  albahaca  +  aceite de girasol  +  sal
+550,   melón  +  pomelo  +  menta  +  aceite de oliva  +  sal
+551,   masa de pan  +  tomate  +  sal  +  aceite de oliva
+552,   guisante  +  agua  +  menta
+553,   consomé  +  piñón  +  albahaca  +  ajo  +  tomate  +  parmesano  +  panceta ibérica  +  aceite de oliva virgen
+554,   albahaca  +  verdura  +  hierbas frescas  +  cuajada de leche de oveja  +  panceta ibérica
+555,   espárrago verde  +  pomelo  +  yema de huevo  +  vinagre  +  mostaza  +  estragón  +  aceite de oliva virgen  +  aceite de girasol
+556,   espárrago blanco  +  caviar  +  aceite de oliva
+557,   morilla  +  espárrago blanco  +  fondo de carne  +  ajo  +  aceite de oliva  +  aceite de tartufo  +  nata
+558,   coco  +  senderuela  +  jengibre  +  curry  +  aceite de girasol  +  fondo de carne  +  manzana
+559,   maíz en conserva  +  parmesano  +  aceite de oliva
+560,   piñón tierno  +  piña verde de pino  +  piñón seco  +  cep  +  aceite de girasol
+561,   parmesano  +  pasta philo  +  estragón  +  tomate  +  aceite de oliva virgen
+562,   manzana  +  trufa de verano  +  pasta philo  +  aceite de tartufo
+563,   coquina  +  pimiento del Padrón  +  yema de huevo de codorniz  +  aceite de oliva virgen
+564,   erizo  +  alga dulse  +  leche  +  aceite de nuez
+565,   lluenta  +  alga dulse  +  alga nori  +  cereza  +  aceite de sésamo  +  sésamo  +  vinagre de arroz  +  soja
+566,   trufa de verano  +  panceta ibérica  +  pan  +  carbón  +  yema de huevo  +  cebolla  +  fondo de carne
+567,   consomé  +  parmesano  +  bacon  +  mantequilla  +  nata  +  yema de huevo  +  aceite de tartufo
+568,   mejillón  +  ajo  +  agua de mar  +  perejil  +  almendra tostada  +  tomate  +  azafrán  +  limón
+569,   sepia  +  morralet  +  ajo  +  azafrán  +  almendra frita  +  alcachofa  +  limón  +  aceite de oliva
+570,   lengua de pato  +  pera  +  lichi  +  ostra  +  fondo de pato  +  piel de pato  +  aceite de sésamo
+571,   pulpo  +  patata  +  pimentón  +  laurel  +  aceite de oliva
+572,   morralet  +  lengua de pato  +  grasa de pato  +  jengibre  +  fondo de pato  +  aceite de girasol
+573,   sardina  +  grosella negra  +  rossinyol  +  cebolla tierna  +  fondo de carne  +  eucalipto  +  piñón  +  aceite de girasol
+574,   salmonete  +  tripa de bacalao  +  patata  +  azafrán  +  ajo  +  aceite de oliva  +  tomate  +  perejil
+575,   caneton  +  fruta de verano  +  fondo de caneton  +  hierbas frescas  +  aceite de girasol
+576,   caneton  +  alga nori  +  sésamo  +  nabo daikon  +  espinaca  +  brote de soja  +  cuajada  +  fondo de caneton  +  aceite de sésamo
+577,   limón  +  albahaca  +  aceite de oliva virgen  +  azúcar  +  sal
+578,   fresa  +  vinagre dulce  +  leche de cabra  +  sal
+579,   piña  +  coco  +  anís estrellado  +  hierbas frescas  +  fondo de carne  +  jengibre  +  sal
+580,   foie-gras de pato  +  consomé  +  huevo  +  azúcar  +  pimienta  +  sal
+581,   miel  +  fruto rojo  +  piñón  +  mató  +  leche evaporada
+582,   fresa  +  campari  +  queso fresco  +  lima  +  naranja  +  caramelo balsámico
+583,   chocolate blanco  +  lichi  +  café
+584,   chocolate  +  naranja sanguina  +  nibs  +  campari
+585,   mandarina  +  miel  +  chocolate  +  lavanda  +  jengibre
+586,   fruto rojo  +  cuajada  +  hierbas frescas  +  rosas  +  vinagre dulce
+587,   coco  +  fruta de la pasión  +  café  +  vainilla
+588,   yogur  +  moscatel  +  espárrago verde  +  naranja
+589,   limón  +  albahaca  +  aceite de oliva virgen  +  vainilla  +  caramelo  +  sal
+590,   plátano  +  vainilla  +  lima  +  toffee  +  café  +  pasta philo  +  sal
+591,   cuajada de leche de oveja  +  cereza  +  lichi  +  café  +  vinagre dulce  +  espéculo  +  galleta Oreo  +  sal
+592,   piña  +  ginebra  +  hinojo  +  enebro  +  anís  +  yogur  +  pasta de cacao
+593,   naranja  +  canela  +  chufa  +  limón  +  cacao  +  grand marnier
+594,   chocolate  +  mandarina  +  sal
+595,   chocolate  +  eucalipto  +  pera  +  sal
+596,   albaricoque  +  cuajada  +  chutney de albaricoque  +  amaretto  +  piña verde de pino  +  espéculo  +  menta
+597,   azafrán  +  pasta philo  +  limón  +  regaliz  +  miel  +  yogur  +  caramelo balsámico
+598,   pasta philo  +  manzana  +  yogur  +  hierba luisa
+599,   fruta  +  miel
+600,   masa de dentelle  +  avellana  +  sal
+601,   masa de dentelle de chocolate  +  chocolate  +  nibs  +  gianduja  +  pimienta rosa
+602,   melón  +  menta  +  miel  +  caramelo balsámico
+603,   pasta sablée  +  fruto rojo  +  caramelo balsámico
+604,   pasta sablée  +  fruta de la pasión  +  café
+605,   masa de dentelle  +  sésamo  +  frambuesa  +  jengibre confitado
+606,   pipa de girasol  +  azúcar  +  chocolate
+607,   azúcar  +  pasta de cacao  +  nibs  +  cacao
+608,   caramelo Halls  +  nibs  +  cacao
+609,   chocolate blanco  +  azúcar  +  limón  +  café
+610,   azúcar  +  gaseosa en polvo  +  lima  +  ácido cítrico
+611,   masa de pan  +  chocolate  +  aceite de oliva virgen  +  sal
+612,   chocolate  +  pasta sablée
+613,   chocolate  +  azúcar  +  sésamo  +  sal
+614,   chocolate  +  eucalipto
+615,   masa de dentelle  +  pipa de girasol  +  chocolate
+616,   naranja  +  zanahoria  +  pisco
+617,   fruta de la pasión  +  bourbon  +  clara de huevo  +  azúcar
+618,   vino tinto  +  fruta  +  curaçao  +  ginebra  +  piel de cítricos  +  laurel  +  pimienta negra  +  azúcar
+619,   miel  +  lima  +  southern comfort  +  cacahuete  +  azúcar
+620,   limón  +  ron  +  clara de huevo  +  azúcar
+621,   limón  +  ginebra  +  clara de huevo  +  azúcar
+622,   calvados  +  manzana ácida
+623,   pipa de girasol  +  azúcar  +  sal
+624,   maíz liofilizado
+625,   nuez  +  azúcar  +  sal
+626,   tapioca  +  azafrán  +  sal
+627,   maíz liofilizado  +  maíz frito  +  azúcar  +  sal
+628,   pasta philo  +  parmesano  +  orégano  +  polvo de tomate  +  aceite de oliva
+629,   polenta de maíz  +  café  +  sal
+630,   patata  +  aceite de oliva  +  sal
+631,   nuez de macadamia  +  mostaza en polvo  +  azafrán  +  azúcar  +  sal
+632,   quinoa  +  sal
+633,   pan  +  aceituna negra  +  sal
+634,   huevo de codorniz  +  patata  +  sal
+635,   foie-gras de pato  +  mango  +  pan de especias  +  azúcar  +  pimienta  +  sal
+636,   pan  +  huevo de codorniz  +  aceite de oliva virgen  +  sal
+637,   alga nori seca  +  azúcar  +  sal
+638,   fresa  +  campari  +  albahaca  +  sansho  +  mandarina
+639,   bacon  +  piñón  +  azúcar
+640,   chicharrón  +  azúcar  +  piñón  +  sal
+641,   cacahuete  +  pasta de cacao  +  azúcar  +  curry  +  sal
+642,   pata de gamba  +  témpura  +  sal
+643,   maíz frito  +  azúcar  +  aguacate  +  cebolla  +  tomate  +  cilantro  +  queso fresco  +  panceta cruda de cerdo  +  aceite de oliva  +  sal
+644,   hueva de trucha  +  panceta ibérica  +  témpura
+645,   pasta brick  +  hueva de trucha  +  yema de huevo de codorniz  +  wasabi  +  soja  +  jengibre  +  sal
+646,   hueva de trucha  +  pomelo rosa  +  arrope  +  tallaetes
+647,   yogur  +  yogur en polvo  +  azúcar  +  nata  +  sal
+648,   manzana  +  baya de enebro  +  vinagre balsámico de Módena
+649,   espárrago blanco  +  yema de huevo  +  aceite de girasol  +  pomelo  +  estragón  +  mostaza  +  vinagre  +  aceite de oliva virgen
+650,   consomé  +  caviar  +  yogur  +  mantequilla  +  limón
+651,   consomé  +  parmesano  +  albahaca  +  nuez  +  panceta ibérica
+652,   melón  +  almendra tierna  +  hierbas frescas  +  tomate  +  pomelo  +  especias
+653,   berenjena  +  bonito seco  +  albaricoque  +  yogur griego  +  salsa de soja
+654,   pan de hogaza  +  trufa de verano  +  panceta ibérica  +  perifollo  +  aceite de tartufo
+655,   espárrago verde  +  pan  +  parmesano  +  limón  +  albahaca  +  aceite de girasol
+656,   espárrago verde silvestre  +  trufa negra  +  pan  +  leche quemada  +  aceite de girasol
+657,   caracol  +  panceta ibérica  +  ajo  +  tomillo  +  laurel  +  hinojo  +  aceite de girasol  +  mantequilla
+658,   pistacho tierno  +  panceta ibérica  +  cep  +  fondo de carne  +  pistacho verde seco  +  hierbas aromáticas   +  cítricos  +  especias  +  sal  +  pimienta negra
+659,   remolacha  +  vinagre  +  yogur  +  vinagre dulce  +  aceite de oliva virgen
+660,   pepino  +  menta  +  yogur  +  vinagre dulce  +  curry  +  aceite de oliva virgen
+661,   flor de hibisco  +  lichi  +  menta  +  aceite de girasol
+662,   piña  +  campari  +  aceite de oliva virgen  +  pimienta
+663,   morilla  +   nata  +  panceta ibérica  +  pan de hogaza  +  perifollo  +  yema de huevo
+664,   polenta  +  anisado  +  maíz  +  mascarpone  +  fondo de carne  +  mantequilla  +  aceite de avellana
+665,   setas  +  cuajada  +  panceta ibérica  +  hierbas frescas  +  piña verde de pino
+666,   piñón  +  rossinyol  +  agua de mar  +  piña verde de pino  +  aceite de girasol
+667,   agua de mar  +  erizo  +  flor de hibisco  +  mango  +  piña  +  lima  +  hinojo
+668,   tomate cereza  +  tomate  +  albahaca  +  cítricos  +  regaliz  +  sansho  +  hierbas frescas
+669,   jugo de trufa negra  +  leche quemada de oveja  +  consomé
+670,   patata  +  aceite de oliva  +  perifollo  +  vinagre en polvo  +  crema doble  +  cebollino  +  pimienta negra
+671,   coliflor  +  fondo de cordero  +  pan de especias  +  campari  +  vinagre dulce  +  jengibre  +  azúcar mascabado  +  fruta  +  hierbas aromáticas  +  azafrán
+672,   jamón ibérico  +  berro  +  lacón  +  espinaca  +  patata  +  aceite de oliva virgen
+673,   consomé  +  jugo de trufa negra  +  yema de huevo de codorniz  +  perifollo  +  agua de mar
+674,   ostra  +  té  +  alga dulse  +  espinaca  +  limón  +  mantequilla  +  azúcar
+675,   ostra  +  azúcar  +  cacahuete  +  mantequilla
+676,   hígado de rape  +  sake  +  soja  +  cítricos  +  azúcar  +  jengibre  +  tomate  +  aceite de girasol  +  cilantro  +  ficoide glaciale
+677,   brote de soja  +  tinta de calamar  +  morralet  +  yema de huevo  +  perejil  +  ajo  +  aceite de oliva
+678,   brote de soja  +  mejillón  +  azafrán  +  limón  +  mantequilla
+679,   cigala  +  agua  +  hueva de kalix  +  romero
+680,   bogavante  +  agua de mar  +  wasabi  +  mantequilla
+681,   percebe  +  té  +  naranja sanguina  +  alga dulse  +  mantequilla
+682,   jurel  +  hueva de kalix  +  carbón  +  fondo de carne  +  agua de mar  +  miniensaladas  +  limón  +  aceite de oliva
+683,   raya  +  enoki  +  té  +  hueva de trucha  +  naranja sanguina  +  alga dulse
+684,   sardina  +  pan  +  agua de mar  +  hueva de kalix  +  almendra tostada  +  ajo  +  yema de huevo  +  hierbas frescas
+685,   foie-gras de pato  +  melocotón  +  manzana  +  miel  +  vinagre dulce
+686,   conejo  +  vino tinto  +  fondo de conejo  +  especias  +  cítricos  +  manzana  +  hierbas frescas  +  cacao  +  azúcar mascabado  +  foie-gras de pato  +  vinagre dulce  +  gengibre escarchado  +  enebro
+687,   patata  +  nata  +  mantequilla  +  yema de huevo  +  azúcar  +  vainilla  +  sal
+688,   levadura  +  leche  +  nata  +  limón  +  azúcar  +  canela  +  mandarina  +  huevo de codorniz  +  pan de especias  +  mantequilla
+689,   cereza  +  yogur  +  cerveza negra  +  limón
+690,   calabaza  +  mandarina  +  menta  +  arrope  +  tallaetes  +  vainilla  +  pipa de calabaza  +  café
+691,   masa de bizcocho  +  campari  +  vainilla  +  albahaca  +  naranja  +  vinagre dulce  +  pimienta
+692,   piña  +  coco  +  jengibre  +  yogur  +  curry  +  cacao
+693,   cacao  +  almendra  +  almendra amarga  +  café  +  amaretto
+694,   manzana  +  azafrán  +  pasta de cacao  +  miel
+695,   piña  +  dátil  +  coco  +  jengibre  +  hinojo
+696,   limón  +  frambuesa  +  toffee  +  yogur  +  regaliz
+697,   wasabi  +  limón  +  sansho  +  miel
+698,   leche  +  yema de huevo  +  levadura  +  limón  +  canela  +  mantequilla  +  caramelo oscuro  +  naranja
+699,   chocolate  +  lima  +  wasabi  +  sal  +  caramelo oscuro
+700,   chocolate negro  +  hierba luisa
+701,   pasta de cacao  +  azúcar  +  naranja confitada
+702,   chocolate con leche  +  chicoria
+703,   chocolate  +  estragón
+704,   manzana  +  azúcar
+705,   pasta philo  +  orégano  +  tomate
+706,   café  +  pasta philo  +  amaretto
+707,   pasta philo  +  limón  +  coco
+708,   azafrán  +  agua  +  azúcar  +  ácido cítrico
+709,   avellana  +  azúcar  +  clara de huevo
+710,   vainilla  +  agua  +  azúcar  +  ácido cítrico
+711,   arándano  +  clara de huevo  +  azúcar
+712,   yogur  +  azúcar  +  frambuesa liofilizada
+713,   chocolate blanco  +  pimienta rosa  +  hinojo
+714,   chocolate blanco  +  trufa de verano  +  aceite de tartufo
+715,   chocolate blanco  +  aceituna negra  +  sal
+716,   chocolate  +  wasabi  +  sal
+717,   vino tinto  +  curaçao  +  ginebra  +  fruta  +  laurel  +  pimienta negra  +  piel de cítricos  +  azúcar
+718,   melón de Canteloup  +  manzanilla  +  fruta de la pasión
+719,   bourbon  +  fruta de la pasión  +  azúcar
+720,   estragón  +  lima  +  cachaça  +  azúcar de caña
+721,   menta  +  ron  +  lima  +  angostura  +  co2  +  azúcar demerara
+722,   coco  +  ron  +  piña  +  azúcar mascabado
+723,   palomitas  +  trigo integral  +  azúcar  +  sal
+724,   pasta brick  +  parmesano  +  limón  +  aceite de oliva virgen
+725,   piel de bacalao salado  +  aceite de oliva  +  sal
+726,   pistacho tostado  +  yogur en polvo  +  azúcar  +  sal
+727,   hueva de sepia  +  sal
+728,   parmesano  +  harina  +  mantequilla  +  huevo  +  sal
+729,   copos de maíz  +  sal
+730,   pata de pollo  +  sal
+731,   arroz  +  azafrán  +  gambas  +  polvo de tomate  +  sal
+732,   arroz  +  azafrán  +  tomate  +  gambas  +  cangrejo  +  pescado  +  cebolla  +  pimentón  +  sal  +  ajo  +  perejil
+733,   cep  +  piña verde de pino  +  piñón  +  romero  +  sal
+734,   cep  +  azúcar  +  sal
+735,   pan  +  chocolate  +  aceite de oliva  +   sal
+736,   patata  +  pimentón  +  vinagre  +  sal
+737,   espárrago blanco  +  témpura  +  soja
+738,   rosas  +  témpura  +  miel  +  agua de rosas  +  sal
+739,   flor de acacia  +  témpura  +  sal
+740,   flor de saúco  +  témpura  +  sal
+741,   yema de huevo de codorniz  +  azúcar  +  nuez moscada  +  sal  +  pimienta negra
+742,   espárrago blanco  +  pomelo rosa  +  jengibre  +  menta  +  mostaza  +  bacon  +  azúcar  +  sal  +  naranja
+743,   higo pequeño  +  vinagre  +  tomillo
+744,   almendra verde  +  almendra de albaricoque  +  témpura  +  azafrán  +  aceite de oliva
+745,   percebe  +  laurel  +  mantequilla  +  sal
+746,   chufa  +  agua
+747,   morilla  +  nata  +  panceta ibérica  +  sal
+748,   gambas  +  hierbas frescas  +  jengibre  +  soja  +  azúcar  +  wasabi  +  aceite de sésamo
+749,   remolacha  +  zanahoria  +  hinojo  +  frambuesa
+750,   brick  +  parmesano  +  limón  +  pimienta negra
+751,   llengüeta  +  sal
+752,   coco  +  jengibre  +  albahaca  +  hierba luisa  +  lima  +  tamarindo  +  curry  +  aceite de girasol
+752a,   soja  +  wasabi  +  alga nori  +  jengibre rosa  +  sésamo  +  aceite de jengibre
+752b,   maíz  +  cilantro  +  guindilla  +  aceite de girasol
+753,   albahaca  +  tomate  +  consomé  +  pomelo rosa  +  panceta ibérica
+754,   jamón  +  parmesano  +  albahaca  +  pimiento  +  cebolla  +  zanahoria  +  nabo  +  apio  +  espárrago blanco  +  panceta ibérica
+755,   foie-gras de pato  +  consomé  +  tamarindo
+756,   jugo de trufa negra  +  clara de huevo
+757,   pepino  +  pepino en flor  +  azúcar  +  polvo de yogur  +  menta  +  curry  +  vinagre  +  aceite de oliva virgen
+758,   mora  +  tabaco  +  azúcar
+759,   ugli  +  coco en polvo  +  tamarindo  +  jengibre confitado  +  pomelo  +  hierbas frescas  +  curry  +  aceite de girasol
+760,   pipa de calabaza  +  aceite de pipa de calabaza  +  calabaza  +  pomelo  +  azúcar
+761,   zanahoria  +  co2
+762,   huevo  +  jamón ibérico  +  azúcar  +  nata  +  mantequilla
+763,   nuez de macadamia  +  perrechico  +  flor de saúco  +  menta  +  yogur  +  piña de pino  +  lima  +  regaliz
+764,   espárrago verde  +  mostaza de Dijon  +  vinagre de jerez  +  yema de huevo  +  aceite de oliva virgen
+765,   naranja  +  calabaza  +  pipa de calabaza  +  yogur  +  azafrán  +  almendra amarga  +  agua de azahar  +  anís  +  cardamomo  +  azúcar
+766,   pimiento del Padrón  +  mandarina  +  lima  +  regaliz  +  albahaca  +  mantequilla
+767,   yogur  +  nuez de macadamia  +  vinagre de jerez  +  lichi  +  lima
+768,   trufa de verano  +  nata  +  bacon  +  yema de huevo de codorniz  +  aceite de tartufo  +  mantequilla  +  parmesano
+769,   sepia  +   limón  +  aceite de girasol
+770,   minizanahoria  +  zanahoria  +  coco  +  estragón  +  albahaca  +  cardamomo  +  co2  +  aceite ahumado
+771,   caracolines  +  laurel  +  tomillo  +  romero  +  baya de saúco  +  hierbas frescas aromáticas  +  pimienta negra
+772,   aguacate  +  minimazorca  +  yogur  +  cilantro  +  fruta de la pasión  +  guindilla  +  mantequilla  +  aceite  +  perejil
+773,   piñón tierno  +  piñón tostado  +  piñón repelado  +  piña de pino  +  aceite de girasol
+774,   naranja  +  yogur  +  vinagre  +  aceite de oliva virgen  +  menta  +  estragón  +   albahaca  +  sansho  +  cardamomo  +  azúcar  +  pomelo gigante  +  acido cítrico
+775,   mejillón de roca  +  alga nori  +  vinagre  +  ajo  +  tomillo  +  laurel  +  romero  +  pimentón  +  aceite de oliva
+776,   brote de soja  +  azafrán  +  chalota  +  vino blanco  +  parmesano  +  aceite de oliva virgen  +  mantequilla  +  consomé  +  leche  +  nata
+777,   rossinyol  +  piña de pino  +  grosella negra  +  panceta ibérica  +  perifollo  +  nata  +  hierbas frescas aromáticas
+778,   carbón  +  espárrago verde  +  zanahoria  +  apio  +  pimiento rojo  +  pimiento verde  +  nabo  +  cebolla tierna  +  aceite de girasol  +  romero  +  tomillo
+779,   cigala  +  coco  +  cidronela  +  lima  +  curry  +  jengibre  +  cilantro  +  tamarindo  +  albahaca   +  hierba luisa  +  maken thai  +  aceite de girasol
+780,   ostra  +  alga nori  +  azúcar  +  lima  +  coco  +  jengibre  +  albahaca  +  hierba luisa   +  tamarindo  +  curry  +  aceite de girasol   + soja  +  wasabi  +  jengibre rosa  +  sésamo  +  aceite de jengibre  +  maíz  +  cilantro  +  guindilla
+781,   nécora  +  minimazorca  +  mantequilla  +  hinojo  +  pimienta negra
+782,   espardenya  +  pan  +  coco  +  aceite ahumado
+783,   raya  +  mantequilla noisette  +  alcaparra  +  patata  +  avellana  +  aceite de girasol  +  vinagre
+784,   piel de lenguado  +  hueva de lenguado  +  mantequilla noisette  +  alcaparra  +  patata  +  mandarina  +  vinagre en polvo
+785,   tórtola  +  mora  +  foie-gras de pato  +  jengibre confitado  +  hierbas frescas  +  vinagre dulce  +  cacao  +  pimienta negra  +  enebro
+786,   foie-gras de pato  +  ostra  +  caviar  +  manzana  +  almendra tierna  +  flor de saúco  +  aceite de oliva virgen
+787,   manzana  +  patata  +  alcaparra  +  aceite de avellana  +  miel  +  mantequilla noisette  +  vinagre  +  sal
+788,   patata  +  sal  +  témpura  +  yema de huevo  +  aceite de oliva virgen  +  azúcar
+789,   aceite de oliva virgen  +  azúcar  +  sal
+790,   anisado  +  toffee
+791,   lima  +  pan de especias  +  enebro  +  plátano  +  café  +  cacao  +  canela  +  sansho
+792,   pomelo  +  tamarindo  +  guindilla  +  curry  +  albahaca  +  hierba luisa  +  cilantro  +  lima  +  jengibre
+793,   tomate  +  naranja  +  yogur  +  aceite de oliva virgen  +  sal
+794,   chocolate blanco  +  café  +  pipa de calabaza  +  azúcar mascabado  +  anís estrellado  +  limón  +  sal
+795,   pan chino  +  sésamo  +  limón  +  canela  +  naranja  +  miel  +  jengibre  +  anís estrellado
+796,   arroz  +  leche  +  azafrán  +  naranja  +  canela  +  limón  +  vainilla
+797,   fruta de la pasión  +  nibs  +  hierba luisa  +  mango  +  plátano  +  limón  +  regaliz  +  cacao
+798,   fresa de bosque  +  especias  +  hierbas frescas aromáticas  +  lima  +  vinagre de jerez  +  mango  +  naranja  +  jengibre
+799,   chocolate  +  licor de mandarina  +  mandarina  +  vainilla  +  lima  +  naranja  +  nibs  +  pasta de cacao
+800,   leche fermentada  +  azúcar efervescente  +  yogur en polvo  +  lima  +  petazetas
+801,   maíz  +  jarabe ahumado  +  chocolate  +  limón  +  toffee  +  yogur  +  maíz frito
+802,   almendra  +  azúcar mascabado  +  miel  +  almendra frita  +  vainilla  +  mantequilla  +  limón
+803,   albaricoque  +  toffee  +  amaretto  +  almendra amarga  +  yogur en polvo  +  almendra
+804,   chocolate  +  azúcar  +  pipa de calabaza
+805,   chocolate  +  azúcar  +  pipa de calabaza
+806,   patata  +  témpura  +  azúcar  +  chocolate
+807,   café  +  yogur  +  pasta sablée
+808,   azúcar  +  efervescente Gallefi  +  lima
+809,   yogur  +  azúcar  +  azúcar mascabado
+810,   fruta de la pasión  +  café
+811,   fruta de la pasión  +  chocolate
+812,   pistacho verde  +  pistacho  tostado  +  azúcar
+813,   frambuesa  +  caramelo balsámico
+814,   grosella  +   chocolate
+815,   chocolate  +  toffee
+816,   chocolate  +  yogur
+817,   chocolate con leche  +  nata  +  mantequilla
+818,   pan de especias  +  naranja confitada  +  jengibre  +  nibs  +  lima
+819,   sandía  +  menta
+820,   azúcar  +  lima  +  petazetas
+821,   yogur  +  aceite de oliva virgen  +  azúcar mascabado  +  azúcar demerara
+822,   pasta de cacao  +  azúcar
+823,   café  +  mascarpone  +  cacao  +  amaretto  +  masa de teja
+824,   grosella  +  azúcar
+825,   frambuesa  +  azúcar  +  piña
+826,  grappa + lima + mangostán
+827,  azúcar + limón + tequila + cointreau + sal
+828, fresita + lima kaffir + azúcar + té matcha + azúcar demerara + aguardiente de frambuesa
+829, té de rosas + miel de romero + melocotón + rosas + jengibre + agua de rosas
+830,  melocotón + cerveza
+831, jugo de trufa negra + champaña
+832, piña verde de pino + azúcar
+833, azúcar + aceituna negra + piña liofilizada
+834,  alcachofa + azúcar + sal
+835,  patata + aceituna negra + aceite de oliva virgen extra + ácido cítrico
+836,  alcachofa + café + sal
+837,  pan + piñón tostado + sal
+838,  corteza de cerdo + yogur + especias Córdoba fatéma Hal
+839, mantequilla + cacahuete tostado + pan + miel de romero + sal + azúcar
+840, avellana tostada + azúcar + sal
+841, mango + azúcar + pistacho verde + pistacho tostado + piel de yuzu deshidratada
+842, parmesano + pan
+843, frambuesa + romero + tomillo + hinojo + jengibre
+844,  azúcar + aceituna negra + piña liofilizada + hinojo
+845, azúcar + maíz frito + lima + sal
+846, gamba + melón cantaloupe + sal
+847, flor de calabacín + azúcar + tamarindo + azafrán + sal
+848, oreja de conejo + tomillo + romero + ajo + sal
+849, piel de espardenya + aceite de oliva
+850, flor de hinojo + témpura + sal
+851, piel de limón semiconfitada + témpura + regaliz + limón + sal
+852, espárrago verde espigado + piel de naranja semiconfitada + témpura + sal
+853, mandarina
+854,  ruibarbo + azúcar demerara + pimienta negra
+855, foie-gras de pato + sal + azúcar mascabado + pimienta negra
+856, almendra tierna + azúcar + sal + ácido cítrico + esencia de almendra amarga
+857, cereza + grasa de jamón ibérico
+858, atún + grasa de jamón ibérico + aceite de oliva + sal
+859,  pan + jamón ibérico + aceite de oliva virgen extra
+860, sardina + escabeche + sal
+861,  mango + aceituna negra + sal + azúcar
+862, seso de conejo + té matcha + azúcar demerara + piel de yuzu deshidratada + huevo + aceite de oliva + ácido cítrico + pistacho
+863,  piel de pollo + jugo de pollo + pan + limón + azahar + cilantro + tomillo + romero + pimienta negra + ajo + aceite de oliva virgen extra + sal
+864,  shiso morado + piel de yuzu deshidratada + wasabi + lima + mora silvestre + yogur  + sal
+865,  piña verde de pino + aceite de girasol + piñón tierno + azúcar + sal
+866,  trufa de verano + aceite de trufa blanca + azúcar + sal
+867,  sepia + bazo de sepia + tinta de sepia + especias Ouarzazate fatéma Hal + aceite de oliva + sal
+868,  azúcar + coco + menta + tamarindo + curry de Madrás
+869,  salmonete + guindilla + sal + azúcar + aceite de girasol
+870,  sake + dashi + hueva de trucha
+871,  salmonete + flor de hinojo + guindilla + azafrán + piel de yuzu deshidratada + aceite de oliva + sal
+872,  guisante + menta + aceite de girasol + grasa de jamón ibérico + flor de guisante + sal
+873,  melón cantaloupe + menta + fruta de la pasión
+874,  lenteja + almendra tierna + azúcar + foie-gras de pato + pimienta negra + sal
+875,  anchoa + panceta ibérica salada + alcaparra en vinagre + pepino en flor + aceite de oliva virgen extra + vinagre balsámico + azúcar + pimienta negra
+876,  piña verde de pino + aceite de girasol + piñón tierno + piñón crudo + aceite de oliva + piñón frito + azúcar + sal
+877,  garbanzo + yogur + menta + aceite de oliva virgen extra + pimienta negra
+878,  zanahoria + coco + almendra amarga + curry de Madrás
+879,  pomelo rosa + estragón + sésamo negro + aceite de girasol + sal
+880, higo chumbo + nopal + higo coll de dama + vinagre balsámico + aceite de oliva virgen extra
+881,  jugo de trufa negra + yogur + aceite de avellana + pimienta negra
+882,  yamatoimo + senderuela + flor de saúco + melisa + sal
+883,  leche + nata + jugo de trufa + aceite de avellana + sal
+884,  azúcar + trufa de verano + aceite de trufa blanca + limón + nata + mantequilla + pimienta negra + sal
+885,  nopal + higo chumbo + azúcar + lima + limón + naranja + pomelo rosa + cuscús de cebada verde + yogur + especias Jamaa el Fna fatéma Hal + pimienta negra + aceite de oliva virgen extra + aceite de argana + sal
+886, almendra cristal + almendra frita + aceite de oliva + almendra amarga  + azúcar + yogur en polvo + ácido cítrico + flor de acacia + aceite de almendra + sal
+887,  buey de mar + aguacate + aceite de pipa de calabaza + yogur + pimienta negra + aceite de oliva virgen extra + sal
+888,  leche + nata + maíz cocido + toffee + maíz frito + mantequilla + pimienta negra + sal
+889,  morralet + mandarina + tinta de calamar + bazo de sepia + aceite de oliva + cebolla + ajo + sal
+890,  diente de león silvestre + hueva de mújol + limón + nata + mantequilla + azúcar + aceite de oliva virgen extra
+891,  pasta fresca de levadura + nata + yema de huevo + mantequilla + lima + naranja + limón + canela + azúcar + sal
+892,  alcachofa + mandarina + vinagre de jerez + aceite de pipa de calabaza
+893,  calabaza + azúcar + aceite de pipa de calabaza + naranja + anís + pipa de calabaza + albahaca + tamarindo + pimienta negra + sal
+894,  koyadofu + morilla + pollo + cebolla + ajo + aceite de oliva + nata + panceta ibérica salada + jugo de trufa negra
+895,  mejillón de roca + mantequilla + huevo + pistacho tierno + limón + lima + especias Ouarzazate fatéma Hal + pimienta negra + sal
+896, almendra frita + almendra tierna + almendra cristal + flor de saúco + aceite de almendra + aceite de oliva + sal
+897,  foie-gras de pato + cuscús de cebada verde + piel de yuzu deshidratada + pimienta negra + aceite de argana + especias Imilchil fatéma Hal + sal
+898,  ostra + yogur + limón + flor de saúco
+899,  melón cantaloupe + azúcar + estragón + pimienta negra + aceite de oliva virgen extra
+900, espárrago blanco + grasa de jamón ibérico + limón + aceite de oliva + aceite de oliva virgen extra + huevo + nuez tostada
+901,  leche + nata + albahaca fresca + queso Idiazábal ahumado + nuez tostada + piel de limón semiconfitada + sal
+902,  pimiento de Gernika + jamón ibérico + ajo + aceite de oliva virgen extra + pan + pimienta negra + sal
+903,  guisante + menta + aceite de oliva virgen extra + sal + jamón ibérico + ajo
+904,  melón cantaloupe + nardo + fruta de la pasión + azúcar + perifollo + estragón + albahaca + aceite de oliva virgen extra + sal
+905,  caldo de ave y ternera + salsa de soja + jugo de pollo + jengibre + ajo + aceite de oliva + aceite de sésamo + sal
+906, centolla + palomitas
+907, cigala + alcaparra en sal + aceite de oliva virgen extra + vinagre de jerez + cebolla morada + clara de huevo + pepinillo en vinagre + yema de huevo + cebollino fresco
+908,  espárrago blanco + toffee + estragón + limón + aceite de oliva + aceite de oliva virgen extra + yogur + sal
+909, patata + aceite de oliva + yogur + aceituna negra + estragón + café + ácido cítrico + sal
+910,  médula de atún + dashi + caviar osietra
+911,  cigala + té matcha + piel de limón semiconfitada + albahaca fresca + lima + sésamo negro + sésamo blanco japonés + aceite de oliva + sal
+912,  salmón + azúcar + lima + limón + mandarina + naranja + lima kaffir + pomelo rosa + estragón + hinojo + albahaca + aceite de girasol + sal
+913,  atún + aceite de atún en conserva + huevo + tomate + estragón + perifollo + hinojo + albahaca + almendra tierna
+914,  espardenya + mentaiko + aceite de girasol + ruibarbo + salsa de soja + vinagre de arroz + aceite de sésamo + azúcar + sésamo blanco japonés
+915,  buey de mar + jugo de pollo + pimienta rosa + regaliz + cardamomo verde + azúcar mascabado + sandía + yogur + cacahuete + curry de Madrás + ácido cítrico + sal + aceite de oliva virgen extra
+916,  buey de mar + panceta ibérica salada + jugo de pollo + mango + jengibre + ajo + anís estrellado + pimienta de Sechuán + aceite de oliva + aceite de sésamo + salsa de soja + shitake + cebolla tierna + guindilla + aceite de girasol + vinagre de arroz + cilantro
+917,  seso de conejo + trufa de verano + aceite de trufa blanca + tuétano de ternera + panceta ibérica salada + consomé de ave y ternera + fondo de ternera + mantequilla + vinagre de jerez + lechuga + nuez tierna
+918,  tórtola + chocolate + cacao + fondo de tórtola + foie-gras de pato + px + estragón + aceituna negra + aceite de oliva + café
+919,  cordero + fondo de cordero + cacahuete germinado + cacahuete + melisa + curry de Madrás + jengibre + coco en polvo + tamarindo + jengibre glaseado + aceite de oliva
+920,  parmesano + limón + vinagre balsámico + pimienta negra
+921,  leche + coco + vinagre balsámico
+922,  leche + nata + yogur + azúcar + flor de romero
+923,  pomelo rosa + bulbo de hinojo + miel de romero + sésamo negro + aceite de girasol + sal + albahaca fresca
+924,  pomelo rosa + azúcar + coco + menta
+925,  mango + azúcar + pimienta rosa + mostaza en grano + anís estrellado + sésamo blanco japonés + vainilla + aceite de girasol + limón + sal
+926,  huevo de codorniz + nata + azúcar + toffee + sal
+927, mangostán + wasabi + agua de rosas + rúcula + aceite de oliva + sal
+928, estragón + lichi + agua de azahar + café + albahaca + pimienta rosa + azúcar
+929, agua de rosas + rosas + azúcar + aceite de girasol + piel de limón semiconfitada + lichi + guindilla + limón + wasabi + jengibre + lima + albahaca fresca
+930,  agua de rosas + clara de huevo + limón + fresita + licor de frambuesa + azúcar demerara + canela + jengibre + tomillo + hinojo
+931,  piña + cacao + azúcar mascabado + lima + vinagre balsámico
+932,  arroz + azúcar + limón + azafrán + leche + mantequilla + nata + naranja + café
+933,  tomate + azúcar + frambuesa + miel de romero + vinagre de jerez + vainilla + piel de naranja semiconfitada + especias Ras el Hanout fatéma Hal + lima + azúcar demerara
+934,  pomelo blanco + pomelo rosa + café + coco + almendra amarga + cacao + haba tonka + azúcar
+935,  leche + lima + cacao + mantequilla + azúcar + café + pasta de guirlache
+936,  melocotón + chocolate + chocolate con leche + avellana + yogur en polvo + cacao + azúcar demerara
+937,  lima + mora silvestre + shiso morado + wasabi + piel de yuzu deshidratada + azúcar
+938,  miel de romero + mandarina + wasabi + menta + hinojo + perifollo + lima + campari + vainilla + jengibre + flor de romero
+939,  albaricoque + amaretto + lima + almendra amarga + yogur en polvo + almendra + azúcar demerara + carbón de azúcar
+940,  piña + limón + anís + hinojo fresco + mantequilla + azúcar
+941,  mora silvestre + azúcar + chocolate blanco + cacao + café + azúcar demerara + yogur griego + hierba luisa + yogur
+942,  leche + vainilla + miel de romero + mango + jengibre glaseado + hierba luisa + albahaca + menta + estragón + romero + piel de limón semiconfitada + piel de naranja semiconfitada + lima
+943,  leche + azúcar + lima + yogur en polvo + yogur griego + hierba luisa fresca + melocotón de viña + pistacho tierno
+944,  chocolate blanco + yogur en polvo
+945,  leche + yema de huevo + azúcar + vainilla + naranja + limón + cacao
+946,  chocolate + cacao + azúcar
+947,  masa de pizza + azúcar + anís
+948,  azúcar + lima + soda en polvo
+949,  chocolate + caramelo Halls
+950,  chocolate blanco + yogur + café
+951,  chocolate + cacao + nibs + azúcar
+952,  piñón + mantequilla + clara de huevo + limón + piel de limón semiconfitada + azúcar
+953,  miel de romero + limón
+954,  px + cereza
+955,  yogur + mango + pimienta negra
+956,  limón + tequila + cointreau + lima + azúcar demerara
+957,  frambuesa + huevo + té matcha + jengibre + azúcar
+958,  cardamomo verde + leche + canela + azafrán + huevo + piel de limón semiconfitada + azúcar
+959,  fruta de la pasión + menta + café + azúcar
+960,  chocolate + leche + nata + avellana + vainilla + cacao + azúcar + sal
+961,  chocolate + piña + coco
+962,  chocolate blanco + vainilla + avellana + leche + yema de huevo + sal
+963,  café + nata + cacao + azúcar
+964,  agua VOSS  +  vainilla
+965, pomelo blanco +  azúcar   +  ron blanco +  ron negro   +  albahaca   +  co2
+966,  piña   +  enebro   +  ginebra
+967,  lima   +  azúcar   +  cachaça   +  estragón
+968,  miel de romero   +  jarabe de granada   +  pimienta de Sechuán   +  esencia de mástic   +  estragón
+969,  kiwano   +  azúcar   +  lima   +  nuez moscada
+970,  ron blanco +  ron negro   +  piña   +  coco   +  azúcar
+971,  pan   +  cep   +  ajo   +  laurel   +  aceite de girasol   +  pimienta negra   +  sal
+971a,  pan   +  roquefort   +  aceite de oliva virgen extra
+971b,  pan   +  trufa de verano   +  aceite de trufa blanca   +  cebollino   +  sal
+971c,  pan   +  pimienta negra   +  aceite de trufa blanca   +  grasa de jamón ibérico
+972,  eucalipto +  aceite de girasol   +  grosella   +  sal
+973,  remolacha   +  azúcar   +  vinagre en polvo   +  pimienta negra
+974,  nuez   +  huevo   +  aceite de nuez   +  aceite de girasol   +  nata   +  limón
+975,  corteza de cerdo   +  jarabe de granada   +  mentol
+976,  manzana  +  azúcar   +  ácido cítrico   +  sal   +  flor de apio
+977,  guanábana +  azúcar   +  café   +  lima
+978,  macarrón de harina de arroz   +  grasa de jamón ibérico   +  aceite de oliva   +  parmesano   +  limón
+979,  arroz   +  alga nori +  aceite de sésamo +  glutamato monosódico +  sésamo blanco japonés   +  piel de yuzu deshidratada   +  shiso morado   +  sal   +  aceite de oliva
+980,  remolacha   +  almendra amarga   +  azúcar   +  yogur en polvo   +  pistacho tostado   +  ácido cítrico
+981,  kadaif   +  vinagre de jerez   +  aceite de oliva virgen extra  +  germinado de rábano   +  sal
+982,  leche   +  sechuan button
+983,  humo   +  jengibre   +  coco   +  sal
+984,  humo   +  jengibre   +  coco   +  azafrán tostado
+985,  té matcha   +  azúcar   +  alga kombu en vinagre   +  sansho   +  piel de yuzu deshidratada
+986,  azúcar   +  palomitas   +  sal
+987,  pepino en flor   +  estragón fresco   +  vinagre de jerez   +  mostaza   +  agua de pepinillo en conserva
+988,  almendra tierna   +  almendra amarga   +  mostaza de Dijon   +  aceite de almendra   +  estragón +  sal
+989,  avellana tostada   +  sal   +  piel de avellana
+990,  huevo de codorniz   +  té Earl grey   +  limón   +  pimienta negra   +  agua de azahar   +  sal
+991,  mejillón de roca   +  escabeche de mejillón en conserva  +  pimienta negra   +  albahaca
+992,  erizo   +  alga kombu   +  vinagre de arroz
+993,  almendra cristal   +  témpura   +  aceite de oliva virgen extra  +  almendra amarga   +  lima
+994,  hoja de lima kaffir   +  lima   +  azúcar   +  jengibre   +  cilantro   +  pasta de curry rojo
+995,  salsa de soja   +  katsuobushi   +  alga kombu   +  lima
+996,  fresita   +  azúcar   +  té matcha   +  sansho   +  sal
+997,  masa de pizza    +  almendra tierna   +  almendra amarga   +  leche   +  almendra cruda   +  nata   +  estragón    +  aceite de almendra   +  mostaza de Dijon   +  sal
+998,  piña verde de pino   +  azúcar   +  aceite de girasol   +  piñón tierno +  sal
+999,  mandarina   +  campari   +  albahaca   +  azúcar   +  semilla de albahaca
+1000,  té Earl grey   +  limón   +  azúcar
+1001,  cep   +  flor de romero   +  aceite de girasol   +  ajo   +  laurel   +  pimienta negra +  aceite de oliva +  sal
+1002,  flor de saúco   +  azúcar mascabado +  sal
+1003,  coco   +  vinagre balsámico
+1004,  fruta de la pasión   +  azúcar   +  bourbon    +  menta
+1005,  pistacho verde   +  sal
+1006,  tamarillo   +  azúcar
+1007,  alquequenje   +  azúcar
+1008,  remolacha   +  azúcar   +  yogur  +  grosella    +  pimienta negra   +  sal
+1009,  parmesano   +  manzana   +  azúcar   +  nuez  +  frambuesa liofilizada
+1010,  pepino   +  menta +  aceite de girasol   +  pepino en flor   +  aceite de oliva virgen extra   +  vinagre balsámico  +  pimienta negra   +  leche fermentada +  sal
+1011,  mozzarella de búfala   +  nata   +  leche   +  anchoa   +  jugo de trufa negra   +  trufa negra en conserva   +  aceite de oliva   +  albahaca
+1012,  maíz cocido    +  jugo de trufa negra   +  foie-gras de pato   +  ácido cítrico
+1013,  almendra   +  almendra tierna   +  ajo   +  aceite de oliva virgen extra  +  vinagre balsámico  +  sal
+1014,  coco   +  salicornia fresca   +  jengibre   +  lima   +  menta   +  curry de Madrás   +  azúcar mascabado
+1015,  navajas +  aceite de oliva virgen extra   +  katsuobushi  +  alga kombu   +  lima   +  salsa de soja   +  jengibre  +  wasabi   +  piel de yuzu deshidratada   +  sésamo blanco japonés   +  sésamo negro   +  shiso morado germinado
+1016,  calabaza   +  azúcar   +  naranja   +  naranja sanguina   +  mandarina   +  especias Córdoba fatéma Hal  +  aceite de pipa de calabaza   +  sal   +  vinagre balsámico
+1017,  patata  +  mantequilla   +  nata   +  agua de mar   +  sal   +  pimienta negra   +  aceite de oliva virgen extra
+1018,  limón   +  azúcar    +  mantequilla   +  aceite de oliva virgen extra   +  sal
+1019,  espárrago verde silvestre   +  mandarina   +  mantequilla   +  azúcar    +  trufa negra   +  aceite de oliva   +  yogur   +  sal
+1020,  espárrago blanco   +  limón   +  aceite de oliva +  aceite de oliva virgen extra   +  almendra amarga   +  leche   +  estragón   +  aceite de girasol   +  mostaza de Dijon +  sal
+1021,  espárrago blanco   +  yema de huevo   +  trufa de verano   +  aceite de trufa blanca +  jamón ibérico   +  grasa de jamón ibérico   +  nata   +  pimienta negra
+1022,  morilla   +  romero   +  tomillo   +  laurel   +  flor de saúco   +  vinagre de jerez   +  pollo   +  cebolla   +  aceite de oliva   +  piña verde de pino  +  aceite de girasol  +  flor de ajo silvestre   +  pimienta negra  +  sal
+1023,  hígado de rape   +  mandarina   +  mantequilla   +  azúcar    +  katsuobushi   +  alga kombu   +  lima   +  salsa de soja   +  shiso morado   +  wasabi   +  cebollino   +  sésamo blanco japonés
+1024,  masa de pizza   +  papada ibérica adobada al pimentón  +  aceite de oliva virgen extra
+1025,  pomelo vietnamita   +  pomelo rosa   +  naranja sanguina   +  mandarina +  caldo de carne y ave   +  hoja de lima kaffir +  cilantro   +  jengibre   +  ajo   +  shitake   +  pasta de curry rojo   +  coco   +  menta   +  albahaca +  sal
+1026,  maíz cocido   +  palomitas   +  aceite de girasol   +  humo   +  mantequilla   +  sal
+1027,  mozzarella de búfala  +  aceite de avellana   +  pimienta negra
+1028,  navajas   +  salicornia fresca   +  alga dulse   +  sal   +  mentol   +  leche    +  azúcar   +  limón    +  aceite de almendra
+1029,  almendruco   +  aceite de oliva   +  almendra en piel   +  almendra cristal   +  almendra cruda     +  melón cantaloupe   +  haba tonka   +  aceite de almendra   +  flor de tomillo   +  flor de mimosa   +  sal   +  flor de romero
+1030,  alga kombu en vinagre   +  vinagre de arroz   +  jengibre   +  wasabi   +  sésamo blanco japonés  +  sésamo negro   +  alga kombu +  salsa de soja   +  azúcar   +  lapas   +  salicornia fresca   +  yuzu   +  aceite de sésamo
+1031,  caracol +  caracolines   +  romero   +  tomillo   +  hinojo   +  pimienta negra   +  aceite de avellana   +  avellana   +  aceite de oliva +  sal
+1032,  aceituna verde manzanilla   +  naranja   +  azahar   +  aceite de girasol +  aceite de oliva   +  aceite de oliva virgen extra   +  tomillo   +  romero   +  laurel   +  ajo   +  hinojo   +  flor de retama   +  pimienta negra
+1033,  aceituna verde   +  naranja sanguina   +  azahar  +  aceite de oliva virgen extra  +  sal
+1034,  escupiña   +  eucalipto  +  aceite de girasol  +  aceite de oliva   +  arándano
+1035,  caldo de carne y ave   +  hoja de lima kaffir   +  cilantro  +  jengibre   +  ajo   +  shitake   +  pasta de curry rojo   +  pepino en flor   +  kumquat   +  albahaca   +  menta
+1036,  suero de yogur   +  mandarina  +  aceite de pipa de calabaza  +  parmesano   +  nata +  pimienta negra   +  caldo de carne y ave   +  arroz +  mantequilla  +  albahaca
+1037,  pasta fresca de trigo   +  caldo de carne y ave   +  morilla  +  pollo   +  cebolla   +  aceite de oliva   +  mangostán   +  flor de saúco +  sal
+1038,  tripa de bacalao   +  caldo de carne y ave   +  hoja de lima kaffir   +  cilantro   +  jengibre   +  ajo   +  shitake   +  pasta de curry rojo   +  menta   +  albahaca   +  macarrón de harina de arroz  +  cidronela   +  coco   +  tamarindo   +  curry de Madrás
+1039,  sardina +  aceite de oliva   +  aceite de oliva virgen extra   +  lulo   +  hígado de sardina   +  sal   +  aceite de girasol   +  carbón
+1040,  médula de atún   +  salsa de soja   +  sandía   +  wasabi   +  sésamo negro   +  sésamo blanco japonés  +  aceite de sésamo   +  shiso morado   +  piel de yuzu
+1041,  gamba   +  lima   +  flor de hinojo fresco
+1042,  cigala   +  jengibre rosa   +  wasabi +  salsa de soja   +  vinagre de arroz   +  aceite de sésamo   +  lima   +  aceite de oliva virgen extra
+1043,  bogavante   +  zumo de yuzu   +  jengibre   +  semilla de albahaca
+1044,  panceta ibérica entreverada ahumada +  ostra  +  pistacho verde   +  flor de borraja   +  ácido cítrico
+1045,  calamar   +  leche   +  nata +  humo   +  arroz venere  +  diente de león   +  alcaparra en vinagre   +  vinagre balsámico  +  aceite de oliva +  sal
+1046,  espardenya   +  suero de yogur   +  grasa de jamón ibérico   +  ácido cítrico
+1047,  tórtola   +  salsa de tórtola   +  saúco   +  baya de saúco   +  ostra   +  panceta ibérica entreverada ahumada  +  pan   +  cacao
+1048,  cabrito   +  fondo de cabrito   +  leche +  especias Córdoba fatéma Hal   +  especias Ouarzazate fatéma Hal +  cuscús de cebada verde  +  azafrán +  diente de león +  aceite de oliva  +  aceite de argana   +  canela
+1049,  molleja de conejo   +  fondo de conejo   +  regaliz   +  alquequenje   +  aceite de oliva   +  sechuan button   +  pimienta negra
+1050,  cabrito   +  fondo de cabrito   +  leche   +  especias Córdoba fatéma Hal   +  cilantro  +  estragón   +  albahaca   +  menta   +  sésamo blanco japonés   +  miel de romero   +  comino   +  pimienta negra
+1051,  agua VOSS   +  vodka   +  melocotón de viña
+1052,  tamarillo   +  eucalipto +  aceite de girasol   +  azúcar   +  melocotón   +  vodka
+1053,  miel de romero   +  jarabe de granada   +  esencia de mástic   +  flor de hinojo
+1054,  kiwano   +  azúcar   +  lima   +  nuez moscada
+1055,  limón   +  azúcar   +  mantequilla   +  nuez   +  aceite de nuez   +  esencia de almendra amarga +  café    +  sal
+1056,  aceite de pipa de calabaza  +  kumquat   +  menta   +  azúcar en roca integral   +  sal
+1057,  naranja   +  azúcar   +  miel de romero   +  pimienta de Sechuán   +  mástic   +  sechuan button
+1058,  almendra   +  yogur en polvo    +  azúcar   +  zanahoria   +  té matcha   +  mandarina   +  aspérula   +  almendra tierna   +  canela
+1059,  limón   +  agua de rosas   +  bizcocho   +  yogur griego   +  azúcar demerara   +  té matcha   +  hinojo   +  albahaca   +  tomillo   +  romero   +  retama   +  borraja   +  shiso morado   +  café   +  regaliz
+1060,  remolacha   +  fresa   +  piel de naranja semiconfitada  +  yogur en polvo   +  azúcar  +  vinagre balsámico
+1061,  fresa   +  yogur en polvo   +  bizcocho   +  pomelo rosa   +  jarabe de granada +  hierba luisa   +  cardamomo   +  anís Sambuca   +  miel de romero
+1062,  fresa    +  queso Philadelphia   +  yogur griego   +  miel de romero   +  amaretto   +  albahaca
+1063,  piña   +  cacao +  azúcar +  chocolate   +  enebro   +  leche   +  nata   +  yema de huevo   +  toffee   +  bizcocho +  café
+1064,  coco   +  harina de trigo   +  mantequilla   +  azúcar demerara   +  frambuesa liofilizada   +  lima   +  sésamo negro   +  aceite de girasol
+1065,  guanábana   +  menta   +  limón   +  azúcar   +  mantequilla   +  semilla de albahaca   +  café   +  flor de albahaca
+1066,  azafrán +  pistacho verde   +  lima  +  albaricoque   +  vainilla   +  azúcar demerara   +  clara de huevo   +  almendra amarga   +  germinado de rúcula
+1067,  limón +  azúcar   +  mora silvestre   +  wasabi fresco   +  yogur griego   +  sansho   +  piel de yuzu deshidratada   +  shiso morado
+1068,  chocolate blanco   +  mango    +  aceituna negra   +  streusel de yogur   +  semilla de albahaca   +  fruta de la pasión   +  yogur en polvo    +  sal   +  albahaca
+1069,  naranja   +  chocolate   +  leche   +  nata   +  jengibre   +  frambuesa liofilizada   +  nibs   +  hierba luisa   +  yogur griego   +  azúcar demerara +  ácido cítrico
+1070,  masa bretona   +  canela   +  especias Ras el Hanout fatéma Hal  +  higo  +  vinagre de jerez   +  nata   +  miel de romero   +  menta   +  naranja
+1071,  pistacho verde   +  bizcocho de pistacho   +  pistacho tostado   +  azúcar
+1072,  sésamo negro   +  aceite de girasol   +  chocolate   +  lima   +  mantequilla   +  huevo   +  piel de limón semiconfitada   +  cacao   +  yogur griego
+1073,  guanábana   +  harina de trigo   +  mantequilla   +  azúcar   +  yogur en polvo
+1074,  agua de rosas   +  lima   +  manteca de cacao     +  agua de azahar   +  naranja   +  azúcar
+1075,  naranja   +  esencia de naranja   +  esencia de azahar
+1076,  pan   +  chocolate
+1077,  yogur en polvo   +  papel de arroz   +  frambuesa liofilizada   +  hierba luisa +  azúcar
+1078,  almendra   +  azúcar   +  clara de huevo   +  crema doble   +  ácido cítrico
+1079,  masa de pizza   +  chocolate   +  aceite de oliva virgen extra   +  sal
+1080,  masa de pizza   +  piel de naranja semiconfitada  +  agua de azahar   +  azúcar   +  sésamo blanco japonés
+1081,  naranja sanguina   +  vodka Absolut Mandrin   +  azúcar
+1082,  baileys   +  chocolate   +  nata
+1083,  fresa   +  clara de huevo   +  nata
+1084,  regaliz
+1085,  remolacha   +  zanahoria   +  azúcar
+1086,  chocolate   +  leche   +  nata   +  eucalipto   +  yema de huevo   +  azúcar
+1087,  guanábana    +  semilla de albahaca   +  café
+1088,  café   +  fruta de la pasión   +  azúcar  +  menta
+1089,  fruta de la pasión   +  clara de huevo   +  azúcar
+1090, limón + tequila + cointreau + sal
+1091, fresa + lima + cachaça + frambuesa + albahaca
+1092, melocotón + sangría  +  menta + canela
+1092a, sandía + ginebra + enebro + limón
+1093, sangría blanca + melón + lima + fresita + frambuesa + mango + manzana + fruta de la pasión + hierba luisa + albahaca + menta + menta piperita
+1094, kumquat + vermouth rojo + canela + limón
+1095, aceituna verde + aceite de oliva virgen extra + limón + naranja + tomillo + romero + pimienta negra
+1096, sandía + mentol + menta piperita + cinco pimientas
+1097, melón + menta + albahaca + cinco pimientas + almendra tierna
+1098, melocotón + aceite de almendruco de ciruela pasa + madera de barrica de whiskey tipo Tennessee
+1099, fruto seco + azúcar + miel + pimienta + pimienta de Sechuán + anís estrellado + cilantro
+1100, queso Reypenaer + palomita + nuez moscada
+1101, leche + piñón + parmesano
+1102, 3D + crema doble + albahaca limonera + especias Ras el Hanout + fatéma hal
+1103, avellana + aceite de almendruco de ciruela pasa + ácido cítrico
+1104, mango + aceite de oliva + aceituna negra
+1105, zanahoria + jengibre + hierba luisa + regaliz
+1106, parmesano + fresita + limón + mantequilla
+1107, aceituna negra + crema doble
+1108, piel de lenguado + aceite de oliva + ajo + perejil
+1109, pie de cerdo + grasa de jamón ibérico + panceta ibérica entreverada ahumada + tomillo + pimienta negra
+1110, cereza + yogur + almendra amarga + ginebra
+1111, harina de malta + canela isomalt + glucosa + espéculo + anís + pimienta negra
+1112, aceite de oliva virgen extra + isomalt + glucosa + sal
+1113, quinoa + saúco + almendra amarga + yogur + ácido cítrico
+1114, remolacha + keffir + crema doble + albahaca + caramelo Fisherman's Friend
+1115, fruta de la pasión + gorgonzola
+1116, roquefort  + guanábana
+1117, isomalt + aceite de calabaza
+1118, pepino + azúcar + cilantro + albahaca + curry rojo + curry de Madrás + sésamo + tamarindo + coco
+1119, cilantro
+1120, pistacho
+1121, ostra + jamón ahumado + plata
+1122, flor de mandarino + mandarina
+1123, salicornia + panceta ibérica entreverada ahumada + ostra + azafrán
+1124, ventresca de caballa + chuen kai + limón + huevo entero + sésamo blanco japonés + vinagre de arroz
+1125, brioche + mozzarella + falso tartufo
+1125a, brioche + tuétano de ternera + caviar
+1125b, brioche + mozzarella + rosas
+1126, melón + jamón + pimienta negra
+1127, mozzarella + nata
+1128, harina de malta + mantequilla + erizo + lima + sal
+1129, almeja + pomelo rosa + té Earl grey + alga oboro kombu + sésamo blanco + sésamo negro
+1130, piña verde de pino + piñón + regaliz + café + shiso verde + albahaca + borraja + flor de borraja
+1131, consomé + trufa negra + foie-gras de pato + maíz + melocotón rojo + naranja + almendra frita + quinoa inflada + pan de especias + nuez
+1132, almendra + almendra cristal + saúco + limón + nata + aceite de almendruco de ciruela pasa + flor de acacia
+1133, pistacho + consomé + jugo de trufa negra + mandarina
+1134, zanahoria + avellana + pomelo rosa + mató + especias Córdoba fatéma Hal + azafrán + cilantro + hinojo
+1135, tucuppí + fruta de la pasión + guindilla + cilantro + lima
+1136, almendra + almendra verde + avellana + almendra amarga + almendra cristal + nuez + piñón + sal
+1137, fruta de la pasión + aceite de oliva virgen extra + aceituna verde
+1138, zanahoria + hinojo + nuez de macadamia  + estragón + crema doble
+1139, sésamo blanco + soja + isomalt  + wasabi  + sésamo negro + sésamo tostado + miso blanco + zumo de mandarina
+1140, alga dulse + erizo + semilla de albahaca + lima
+1141, alcachofa + ajo + yogur de cabra + mató + atún en conserva + uña de gato + nuez tierna + minipepino en flor + pan + nuez de macadamia + hueva de atún +  pa-ha + aceite de oliva virgen extra + ficoide glaciale + verdolaga + flor de bergamota
+1142, tucuppí + cartílago de pollo + quinoa + tamarindo + estragón + cilantro + perifollo + keffir
+1143, yogur + almendra tierna + sechuan button + pepino + aceite de almendra + limón + regaliz + yuzu
+1144, caldo de pollo + cidronela + hoja de lima kaffir + cilantro + jengibre + lima  + cigala + curry rojo + pomelo + coco + albahaca + menta + sal
+1145, yogur de cabra + alcaparra +ficoide glaciale + mantequilla + vinagre de Jerez + pimienta negra
+1146, guisante + jamón ibérico + menta + eucalipto
+1147, cañaillas + arroz + kikurage + mostaza + aceite de oliva virgen + shiraita kombu + albahaca + azúcar + vinagre de Jerez
+1148, mejillón + shiraita kombu + vinagre de arroz + alga dulse + judía de mar + wakame + tosaka roja + tosaka verde + salicornia + uva de mar + albahaca + perifollo + estragón + menta
+1149, piñón tierno + aceite de piñón + piña verde de pino
+1150, espárrago blanco + aceite de oliva + leche + limón + yema de huevo + piel de kuzu + pimienta negra + sal
+1151, tamarillo + almendra + mangostán + eucalipto + albahaca + almendra amarga
+1152, haba tierna + jamón ibérico + menta + flor de haba
+1153, nuez + yogur + estragón + manzana + menta + sal
+1154, nuez tierna + nuez + té ahumado + wasabi  + miel
+1155, nuez + mantequilla avellana + capullo de margarita en vinagre + menta + sal
+1156, katsuobushi + alga kombu + sésamo blanco + shiso morado + yuzu + senderuela + sésamo tostado
+1157, tomate rojo + mejillón + erizo + alga nori + limón + azúcar + tomate verde + menta chocolatera + almendra tierna + aceite de oliva virgen extra
+1158, escupiña + sandía + yuzu + alga kombu + azafrán + aceite de oliva
+1159, trufa de verano + arroz venere + regaliz + cep + cacahuete + sésamo negro + remolacha + miso + patata + germinado de col lombarda
+1160, hígado de rape + katsuobushi +alga kombu + lima + salsa de soja + sésamo tostado + vinagre de arroz + yuzu + kumquat + sésamo blanco
+1161, chipirón + judía blanca + almendra tierna + hinojo + mostaza + almendra amarga + capullo de Margarita
+1162, maíz + pollo + cilantro + guindilla + coquina
+1163, panceta ibérica entreverada ahumada + nata + anchoa + albahaca + aceituna
+1164, soja + miso + raifort + shiso verde + vinagre de arroz + aceite de oliva virgen extra + yema de huevo + sésamo blanco
+1165, falso tartufo + cerdo ibérico + aceituna verde
+1166, parmesano + cebolla + café + yema de huevo + grasa de jamón ibérico + limón
+1167, perrechico + salicornia + keffir + piñón
+1168, cep + avellana + uña de gato + sal + pimienta negra
+1169, tomate + kumquat + estragón + aceite de almendra + mástic
+1170, nécora + aceite de oliva + vinagre de Jerez +caracolines + amaranto + hinojo + albahaca + menta + estragón + perifollo + pimienta negra
+1171, ventresca de caballa + pollo + aceite de oliva + cebolla + semilla de albahaca + vinagre de jerez + cebollino + perifollo + estragón + pimienta negra
+1172, ostra + panceta ibérica + piña verde de pino + germinado de borraja + lima kaffir
+1173, cigala + quinoa + quinoa germinada + cebolla tierna + tomate + lima  + keffir + guindilla + cilantro
+1174, bogavante + granadilla + cardamomo + curry de Madrás + lima
+1175, rapet + yema de huevo + limón + capullo de Margarita + vinagre + mantequilla avellana + aceite de piñón + aceite de oliva
+1176, lenguado + amaranto + leche + especias Córdoba fatéma hal + ajo + aceite de oliva virgen extra + ajo chino + cilantro
+1177, tórtola + médula de atún + enoki + panceta ibérica salada + alga nori + salicornia
+1178, pollo + tandoori +  leche fermentada + especias Córdoba fatéma Hal + panceta ibérica entreverada ahumada + pimienta negra + ostra + almendra tierna + germinado borraja
+1179, seso de cordero + erizo + caldo de verdura + uva de mar + pimienta negra + uva de mar
+1180, costillar de cerdo ibérico + cacahuete + curry rojo + jengibre + espaguetis de kuzu + curry de Madrás + sésamo blanco + pasta de tamarindo + cidronela + lima kaffir + coco + cilantro + albahaca + menta + sal
+1181, col roja + mostaza + estragón + jamón ibérico + enebro + canela + cardamomo
+1182, madera de barrica de whiskey tipo Tennessee
+1183, melocotón rojo + licor de melocotón
+1184, mozzarella de búfala
+1184a, mozzarella de búfala + melocotón + pera + manzana + miel de piña de abeto + hinojo + albahaca
+1185, fruta de la pasión + coco + menta + chocolate
+1186, granadilla + toffee + fruta de la pasión +cardamomo
+1187, melocotón + yogur griego + yogur + café + almendra amarga + hierba luisa + amaretto + limón + sechuan button + albahaca + tomillo limonero
+1188, mango + flor de saúco + azafrán + chocolate blanco + fruta de la pasión + mantequilla + coco + pan de especias con miel + plátano + tomillo limonero + aceite de pipa de calabaza
+1189, fécula de patata + azúcar + ginebra + mentol + frambuesa + fresa + sandía + amaretto + cereza + pomelo + grosella + baya de saúco + germinado de remolacha + germinado de shiso morado
+1190, clara de huevo en polvo + concentrado de fresa + queso Philadelphia + yogur griego + miel de romero + huevo entero + harina de trigo + azúcar + rosa + queso fresco + fresa + lichi + parmesano + amaretto
+1191, nata + vainilla + castaña en almíbar + café + licor de café + yema de huevo + clara de huevo + lima  + menta + coco
+1192, guisante + leche + lima  + azúcar + plátano + piña + anís seco + yogur griego + hinojo + yogur en polvo + fruta de la pasión
+1193, coco + cilantro + albahaca + jengibre + hoja de lima kaffir + cidronela + lima  + clara de huevo + sésamo blanco japonés + azúcar mascabado + pomelo thai + tamarindo + curry de Madrás + germinado de cilantro
+1194, higo + rosas + chocolate blanco + pan de especias con miel + jengibre + lavanda + fruta de la pasión + yogur griego
+1195, leche + huevo + azúcar + romero + canela + manzana Granny Smith + miel de romero + clara de huevo + mató + limón
+1196, chocolate + praliné de avellana + frambuesa + eucalipto + masa kadaif + canela + manteca de cacao
+1197, albaricoque + chocolate blanco + manteca de cacao + chocolate con leche + fruta de la pasión + yogur + feuillantine + praliné de avellana + limón + jengibre + menta pippermint + hierba luisa + albahaca + azafrán
+1198, chocolate + praliné de avellana + cacao + pera + café + fruta de la pasión + avellana + aceite de oliva + sal
+1199, clara de huevo + café + regaliz + canela + yema de huevo + leche + azúcar + frambuesa + pan de especias con miel + masa kadaif + chocolate + yogur griego
+1200, piña + hinojo + anís estrellado
+1201, flor de saúco + cereza + yogur
+1202, limón + ron blanco + café + caramelo japonés
+1203, harina de arroz glutinoso + azúcar + café + fécula de patata + guanábana + fruta de la pasión
+1203a, harina de arroz glutinoso + azúcar + fruta de la pasión + fécula de patata + nata + albahaca +regaliz
+1203b, harina de arroz glutinoso + azúcar + fécula de patata + yogur + yogur griego + ácido cítrico + té matcha + frambuesa + romero
+1204, clara de huevo + azúcar + café + chocolate
+1205, miel de romero + clara de huevo + miel de romero ahumada + limón
+1206, huevo entero + miel de romero + castaña + praliné de avellana + vainilla + aceite de oliva
+1207, fruta de la pasión liofilizada + azúcar moreno
+1208, menta chocolatera + leche + azúcar + chocolate + manteca de cacao
+1209, fruta de la pasión + chocolate + praliné de avellana + azúcar
+1209a, azúcar + yogur + chocolate blanco + nuez de macadamia
+1210, fresa + azúcar + limón + chocolate + manteca de cacao + petazetas + aceite esencial de eucalipto
+1211, frambuesa + leche + chocolate con leche + fruta de la pasión + chocolate + manteca de cacao + chocolate blanco
+1212, chocolate + frambuesa
+1213, frambuesa + chocolate
+1213a, fruta de la pasión + chocolate blanco
+1214, frambuesa + chocolate
+1214a, albaricoque + chocolate blanco + menta
+1214b, melocotón + hierba luisa + chocolate con leche
+1214c, fresa + chocolate blanco + aceite esencial de rosas + yogur + ácido cítrico
+1215,  mango + bombón + nuez + miel de romero + azúcar + pimienta negra
+1216,  azúcar + limquat + ginebra + haba tonka + soda
+1217,  mandarina + fresa + azúcar + licor de mandarina + campari + soda
+1218,  cereza + kirsch + flor de saúco + pistacho
+1219,  piña + coco + ron blanco
+1220,  pipa de calabaza + pipa de girasol + sésamo negro + sésamo blanco + ahumado + sal
+1221,  lechuga de mar + mantequilla + sésamo blanco + alga nori + aceite de sésamo + sal
+1222,  flor de hibisco + grosella negra + azúcar + eucalipto
+1223,  mango + azúcar + pimienta de Sechuán + flor de tagete
+1224,  azúcar + fruta de la pasión + parmesano
+1225,  piña verde de pino + azúcar + piñón + mantequilla
+1226,  arroz + alga nori + aceite de sésamo + sésamo blanco + tinta de sepia + ajo + cebolla + vino blanco + guindilla + gamba roja + pimentón ahumado + pimentón dulce + wasabi
+1227,  parmesano
+1228,  piña + anís estrellado
+1229,  avellana + mojama + hueva de atún + aceite de oliva virgen extra
+1230,  ventresca de salmón + yuzu
+1231,  guanábana + azúcar
+1232,  gruyère
+1233,  pistacho + ahumado + sal
+1234,  coco + almendra amarga + ahumado
+1235,  hoja de lima kaffir + cacahuete + menta + curry rojo + lima kaffir
+1236,  nuez + ahumado + sal
+1237,  plátano + sésamo blanco + azúcar + sal + curry de Madrás
+1238,  parmesano + fresa
+1239,  tomate + pan + ajo + aceite de oliva virgen extra + sal + pimienta negra + flor de ajo + flor de albahaca + azúcar
+1240,  piña verde de pino + azúcar + pimienta de Sechuán
+1241,  piña + parmesano
+1242,  fruta de la pasión + azúcar + campari
+1243,  jengibre + vinagre de arroz + naranja + cidronela  + lima + pomelo rosa + azúcar + galanga + sal + kumquat + aceite de oliva virgen extra
+1244,  aceite de oliva virgen extra + azúcar + sal
+1245,  aceite de oliva virgen extra + anchoa
+1246,  mandarina + flor de mandarino + aceite de oliva
+1247,  jamón ibérico + cebolla + mantequilla + nata + pan + sal
+1248,  témpura + wasabi + azúcar + lima + cachaça + aguacate + cilantro + menta piperita + sal
+1249,  buey de mar + sal + huevo + curry + flor de begonia
+1250,  azúcar + gorgonzola + nata + manzana + grappa + nuez + aceite de nuez + sal
+1251,  piña verde de pino + azúcar + piñón + sal + mantequilla + piñón tierno
+1252,  percebe + caviar
+1253,  bressanne + panceta ibérica entreverada ahumada + kirsch + nata + gruyère + pimienta negra
+1254,  brioche + albahaca + cilantro + leche + jengibre + galanga + cidronela + curry rojo + lima + lima kaffir + hoja de lima kaffir + coco + cacahuete + aceite de cacahuete + sal + buey de mar + lechuga de mar + pollo + ajo + tomate + azúcar de palma + pimienta de Sechuán + salsa de soja + aceite de sésamo + vinagre de arroz + cebolla tierna + sésamo blanco
+1255,  parmesano + pasta fresca + sal + albahaca + caldo de pollo + leche + nata
+1256,  chufa + trufa negra
+1257,  caballa + aceite de oliva virgen extra + yema de huevo + uña de gato en conserva + vinagre de jerez + flor de ajo + sal
+1258,  limón + azúcar + pepino + ginebra Hendrick’s + tónica Fever-Tree + sal + rosa
+1259,  nata + yema de huevo + vinagre de vino blanco + estragón + chalota + mantequilla + pimienta negra + perifollo + miel de abeto + sal
+1260,  anchoa + arrope + px añejo + px Alvear + moscatel dulce + mandarina + flor de mandarino + aceite de oliva + kumquat + almendra + albahaca + cardamomo verde + brioche + cardamomo verde + almendra amarga
+1261,  pomelo rosa + albahaca + cilantro + leche + galanga + jengibre + cidronela + curry rojo + lima + lima kaffir + hoja de lima kaffir + coco + cacahuete + aceite de cacahuete + sal + gamba roja + chicharrón + tomate + ajo + azúcar moreno + salsa de soja + vinagre de arroz + aceite de sésamo + azúcar de palma + salsa de pescado japonesa + pasta de tamarindo
+1262,  leche fermentada + pepino + menta + vinagre de jerez + aceite de oliva virgen extra + pimienta negra
+1263,  espárrago blanco + sal + aceite de oliva + vinagre de jerez + vinagre de arroz + jengibre + naranja + limón + almendra + aceite de almendra + azúcar + mantequilla + yema de huevo + hueva de atún
+1264,  almendra + aceite de almendra + sal + flor de tomate + hoja de tomatera + almendruco + flor de saúco + tomate raff + bergamota + pimienta negra + pasta de tamarindo + flor de saúco + vinagre balsámico + aceite de almendra amarga de ciruela
+1265,  alga laurencia + vinagre de arroz + azúcar + piña verde de pino + mangostán + ruibarbo + almendra + almendra tierna
+1266, alcachofa + aceite de oliva virgen extra + grosella negra + azúcar + eucalipto + huevo + pimienta negra
+1267,  anchoa + alcachofa + aceite de oliva virgen extra + vinagre de jerez
+1268,  jugo de ternera + albahaca + leche + nata + ackee + pepino + vinagre de jerez + hinojo + aceite de trufa blanca
+1269,  granadilla + cidronela + naranja + lima + naranja sanguina + nata + coco + chili rojo + cebolla + ajo + galanga + albahaca + cilantro + menta + aceite de sésamo + apio
+1270,  aceite de pipa de calabaza + pasta fresca + aceite de oliva virgen extra + sal + calabaza + kumquat + pipa de calabaza + pistilo de minicalabaza
+1271,  pimiento de Padrón + leche + nata + gamba + huevo + pimienta negra
+1272,  vinagre de vino blanco + ventresca de salmón + aceite de oliva virgen extra + ruibarbo + azúcar + vinagre de arroz + naranja + cidronela + lima + pomelo rosa + galanga + jengibre + alcachofa + vinagre de jerez + ajo + aceituna muerta de Aragón + leche fermentada + uña de gato en conserva + pan + pepino + hinojo + manzana + alcaparrón + germinado de borraja + shiso morado + germinado de guisante + capullo de margarita en vinagre + alcaparra en vinagre + sal gris de Guérande
+1273,  aceite de oliva + sal + pistacho tierno + pistacho + miel + eucalipto + haba tonka + flor de hinojo + sechuan button + flor de tomillo + flor de hisopo + flor de clavel ideal + flor de violeta blanca + flor de salvia + piña + flor de geranio limón + flor de tagete + flor de begonia + flor de albahaca + flor de menta piperita + flor de borraja + flor de romero
+1274,  pollo + trufa negra + sal + nata + hinojo + pistacho + cacahuete + aceite de cacahuete + avellana + aceite de avellana + piñón silvestre + aceite de piñón + mandarina + hinojo
+1275,  almendra + azúcar + longan + sake + almendra tierna + ácido cítrico
+1276,  aceite de almendra + almendra tierna + aceite de almendra amarga de ciruela + almendra + pasta fresca + aceite de oliva virgen extra + anchoa + trufa negra + cereza + cilantro
+1277,  aceite de oliva virgen extra + pasta fresca + sal + mojama + almendra + aceite de almendra + hueva de atún + limón
+1278,  corteza de pan + yema de huevo + alga laurencia + caldo de pollo + vinagre de arroz + azúcar + aceite de oliva virgen extra
+1279,  berenjena + aceite de oliva virgen extra + mojama + hueva de atún + anchoa + miel + almendra
+1280,  rebozuelo + ajo + aceite de oliva virgen extra + caracol + hinojo + pimienta negra + mantequilla + huevo de caracol + cebollino + flor de tomillo + flor de romero + estragón + perifollo
+1281,  cordero + ajo + tomillo + cebolla + naranja + aceite de argana + azafrán + almendra tierna + almendra + aceite de almendra + mandarina + flor de mandarino + crema doble + especias Ouarzazate + cilantro
+1282,  erizo + lichi en conserva + lima + apio + aceite de semilla de hinojo
+1283,  mejillón + panceta ibérica ahumada + patata + azúcar + manzana + pimienta negra + crema doble
+1284,  aceite de pipa de calabaza + aceite de avellana + arroz + sal + vinagre de jerez + cuscús de cebada verde + especias Ouarzazate + aceite de nuez de argana + pepino + hinojo + sésamo negro + aceite de sésamo + sésamo blanco + pimiento de Padrón + ahumado + berenjena + albahaca + cacahuete + aceite de cacahuete + aceite de almendra + aceite de almendra amarga de ciruela + almendra tierna + piñón + aceite de piñón + fruta de la pasión + granadilla + tomate + pipa de calabaza + aceite de semilla de hinojo + aceite de nuez + cilantro  + sal
+1285,  calabacín + yogur + curry de Madrás + cacahuete + aceite de cacahuete + mandarina + ácido cítrico
+1286,  caldo de pollo + trufa negra + nata + berberecho + maíz cocido en conserva + fruta de la pasión
+1287,  melón cantaloupe + jamón ibérico + trufa de verano + aceite de trufa blanca + aceite de avellana
+1288,  jamón ibérico + tomate cherry + aceite de oliva virgen extra + pan + sal
+1289,  tomate verde + caqui + sésamo blanco + aceite de sésamo + melisa + limón + azúcar + sal
+1290,  piña verde de pino + aceite de girasol + fruto tierno de ciprés + perrechico + yema de huevo + sal + azúcar + flor de ajo + pimienta negra
+1291,  codorniz + ajo + zanahoria + cebolla + laurel + tomillo + romero seco + pimienta negra + aceite de oliva + vinagre de jerez + ostra + vinagre de arroz + azúcar + alga tina
+1292,  longueirón + limón + coco + jengibre
+1293,  alga dulse + vinagre de arroz + azúcar + alga tina + alga nodu + alga crispus + lechuga de mar + alga carpus + alga lacina + hinojo marino + alga laurencia + alga meloalga + alga codium + alga roja + shiraita kombu + alga uva de mar + sandía + aceite de Sacha Inchi + salicornia + ficoide glaciale + cordifole + germinado de borraja
+1294,  espardenya + salsa de soja + sésamo blanco + aceite de sésamo + yuzu + sal de shiso + dashi
+1295,  buey de mar + especias Ouarzazate + limón + naranja + cilantro + aceite de semilla de cilantro + cuscús de cebada verde + almendra + mandarina + flor de mandarino + agua de azahar + lechuga de mar + aceite de nuez de argana + cilantro + crema doble
+1296,  pollo + sal + vinagre de arroz + azúcar + lechuga de mar + té Earl grey + cebolla + tomillo + pimienta negra
+1297,  codorniz + sésamo negro + cebolla + jengibre + galanga + cidronela + ajo + aceite de sésamo + naranja + lima kaffir + miel de romero + vinagre de arroz + salsa de soja + katsuobushi + azúcar + alga nori + mentaiko
+1298,  tuétano de ternera + vino tinto + azúcar + chalota + pan + cebollino + crema doble + sal + pimienta negra
+1299,  tuétano de ternera + panceta ibérica salada + grasa de jamón ibérico + grosella + ginebra + pasta fresca de malta + aceite de oliva virgen extra + aceite de trufa blanca
+1300,  jugo de conejo + hígado de conejo + ajo + laurel seco + romero + aceite de oliva virgen extra + pimienta negra + seso de conejo + molleja de conejo + caracol + pimienta negra + riñón de conejo + huevo de caracol + flor de ajo + flor de tomillo + capullo de margarita en vinagre + uña de gato encurtida
+1301,  cordero + ajo + tomillo + cebolla + zanahoria + apio + laurel + pimienta negra + seso de cordero + menta piperita + vinagre de jerez + azúcar + sal + salsa Worcester + mostaza + almendra tierna + capullo de margarita en vinagre
+1302,  cereza + azúcar + queso de oveja
+1303,  zanahoria + fruta de la pasión + yema de huevo + azúcar + coco + eucalipto + haba tonka + aceite de semilla de hinojo
+1304,  pimiento del piquillo en conserva + plátano + yogur griego + estragón + mantequilla + pasta philo
+1305,  nata + vainilla + azúcar + avellana + whiskey ahumado + pomelo rosa + yema de huevo
+1306,  azúcar + tomate + albahaca + cidronela + yema de huevo + ruibarbo + pistacho + sal
+1307,  trufa negra + almendra + almendra amarga + azúcar + yogur + almendra tierna + chirimoya + flor de romero
+1308,  gorgonzola + nata + semilla de hinojo + chirimoya + nuez tierna + aceite de nuez
+1309,  chocolate + cacao + naranja + harina + mantequilla + azúcar moreno + sal + frambuesa + menta chocolatera + azúcar
+1310,  chocolate + té matcha + menta + feuillantine + praliné de avellana + mandarina + cacao + yogur + flor de romero + azúcar + mantequilla + harina
+1311,  leche + nata + azúcar + nuez moscada + mango + pan de especias con miel + canela + coco + jengibre + yogur griego + limón + sal ahumada
+1312,  leche + nata + azúcar + madera de barrica de whiskey tipo Tennessee + coco + sal + avellana + mantequilla + café + yogur griego + miel + flor de romero + chocolate + menta + almendra + clara de huevo
+1313,  huevo + harina + px + leche fermentada + naranja + azúcar + toffe de especias Córdoba + café + albaricoque confitado + albaricoque + albahaca
+1314,  coco + nata + azúcar + frambuesa + toffee de frambuesa + licor de anís + aguardiente de frambuesa + almendra amarga + almendra + sal + hierba luisa + te chai + flor de saúco + yogur griego + miel + clara de huevo + azúcar
+1315,  mango + azúcar + pimienta negra + hierba luisa + coco + regaliz + chocolate blanco + nata + mantequilla + petazetas + fruta de la pasión + yogur griego + almendra + azúcar + harina
+1316,  azúcar + plátano + yogur + huevo + harina + licor de anís + lima + menta + germinado de cilantro
+1317,  coco + azúcar + zanahoria + sésamo negro + limón + jengibre + menta + yogur griego
+1318,  yema de huevo + azúcar + lavanda + melocotón blanco + canela + toffee de pimienta de Sechuán + melocotón de viña
+1319,  fruta de la pasión + sésamo negro + leche + nata + feuillantine + praliné de avellana + yogur griego + chocolate + menta chocolatera + almendra + azúcar + clara de huevo
+1320,  huevo + harina + flor de saúco + azúcar + leche + sésamo negro + aceite de girasol + lichi en conserva + rosas + violeta escarchada + yuzu
+1321,  frambuesa + hierba luisa + azúcar + haba tonka + mantequilla + cacao + chocolate + harina + toffee de haba tonka
+1322,  pistacho + azúcar + te chai + té matcha + pomelo rosa + huevo + limón + mantequilla + violeta escarchada + yuzu
+1323,  lima + azúcar + amaretto + lavanda + canela + melocotón de viña + manzana + hoja de lima kaffir + cilantro + albahaca + bergamota + cidronela + jengibre
+1324,  azúcar + frambuesa + fruta de la pasión + té matcha + menta + canela + mantequilla + azúcar moreno + cacao + chocolate
+1325,  chocolate + naranja confitada + miel de romero + avellana + feuillantine
+1326,  frambuesa + chocolate blanco + crema doble + toffee de frambuesa + clara de huevo
+1327,  fresa + chocolate
+1328,  mandarina + azúcar + licor de mandarina + cacao + chocolate + huevo + maizena
+1329,  yema de huevo + azúcar + limón + mantequilla + violeta + croissant + toffee de frambuesa + licor de anís + aguardiente de frambuesa
+1330,  piña + coco + azúcar + ron blanco + café + nata + leche + limón + cacao
+1331,  leche + azúcar + yema de huevo + chocolate + brioche + harina de malta + sal + menta
+1332,  leche + chocolate + mantequilla + mango + azúcar + pimienta negra + cacao + limón + frambuesa + hierba luisa + mantequilla + harina + huevo
+1333,  chocolate + eucalipto + aceite de cilantro + chocolate
+1334,  sésamo negro + azúcar + praliné de avellana + feuillantine + fruta de la pasión
+1335,  fruta de la pasión + chocolate + cacao
+1336,  flor de saúco + azúcar + ginebra + limón + martini seco + amaretto + melocotón tierno + almendra tierna
+1337,  azúcar + guisante + vodka + lima
+1338,  hibisco + azúcar + tequila + triple seco
+1339,  vodka + triple seco + lima + azúcar + grosella negra
+1340,  azúcar + coco + ron negro + ron blanco + vodka + nata
+1341,  quinoa + alga nori + azúcar + sal de shiso
+1342,  maíz en conserva + mantequilla + azúcar + cacao + sal gris de Guérande
+1343,  jengibre + mango + azúcar
+1344,  piña + anís estrellado
+1345,  arroz + parmesano + clara de huevo + sésamo blanco
+1346,  arroz + parmesano + azúcar + orégano seco
+1347,  arroz + parmesano + azúcar + flor de albahaca + lima
+1348,  harina de maíz + sal + plátano
+1349,  naranja + azafrán + pomelo rosa + sésamo negro + aceite de sésamo + sal
+1350,  remolacha + yogur + vinagre
+1351,  aceituna negra + corteza de cerdo + azúcar
+1352,  nuez + cacao
+1353,  manteca de cacao + grosella negra + yogur + pistacho + sal
+1354,  mandarina + flor de mandarino + aceite de oliva + cacahuete + aceite de cacahuete + mantequilla + curry de Madrás + sal
+1355,  pan + aceituna negra + sobrasada ibérica
+1356,  témpura + aceituna negra + comino + hueva de atún + limón
+1357,  pistacho tierno + témpura
+1358,  mantequilla + orégano seco + pasta philo + queso de cabra + flor de tagete + sal de trufa blanca
+1359,  chufa
+1360,  pistacho + yogur + nata + yuzu + sal
+1361,  sésamo negro + sal + miso amarillo + azúcar + huevo + harina
+1362,  pistacho tierno + cáscara de pistacho verde + azúcar + roquefort + sal gris de Guérande
+1363,  almendra tierna + aceite de tierra + sal
+1364,  sechuan button + flor de tomillo + flor de salvia piña + flor de tagete + flor de violeta + flor de begonia + flor de albahaca morada + azúcar + flor de brécol + flor fresca de borraja
+1365,  zanahoria + azúcar + estragón + fruta de la pasión
+1366,  wasabi + frambuesa + vinagre de frambuesa + manitol
+1367,  ostra + yogur + arrope de px + px + témpura + flor de saúco + limón
+1368,  panceta ibérica entreverada ahumada + judía de Santa Pau + jamón ibérico + nata + ajo negro fermentado + pimentón dulce
+1369,  mejillón de roca + limón verde + ácido cítrico + naranja + aceite de semilla de hinojo
+1370,  piña verde de pino + azúcar + mantequilla + piñón + sal
+1371,  sandía + mora silvestre + shiso rojo + yuzu
+1372,  médula de atún + huevo + sal + caviar + fingerlime
+1373,  erizo + témpura + mandarina verde + sal
+1374,  dashi + tinta de calamar + aceite de oliva virgen extra + miso negro
+1375,  anchoa + jamón ibérico + pan + yogur + nata + leche + flor de albahaca morada
+1376,  aceituna verde + menta + aceite de oliva virgen extra + tomate + pan + albahaca + parmesano
+1377,  piña verde de pino + azúcar + nata + piñón tierno + sal
+1378,  cajú + anacardo + azúcar + cilantro + yogur griego + levadura + sechuan button + lima kaffir + azúcar efervescente
+1379,  tónica Fever-Tree + azúcar + limón + fresa + menta piperita + haba tonka + ginebra
+1380,  gorgonzola + leche + manzana + apio + nuez + aceite de nuez + yogur griego
+1381,  almendra + lardo curado de cerdo ibérico + vinagre balsámico + hinojo + semilla de pimienta sansho encurtida + rosas + higo + flor de hinojo + sal gris de Guérande + aceite de almendra amarga
+1382,  cep + aceite de oliva + sal + aceite de tierra + piñón + minipatata + flor de romero
+1383,  perrechico + pasta fresca + alga codium + nuez de macadamia
+1384, flor de saúco + azúcar + hueva de mújol + alcachofa tierna + guisante + sal + aceite de almendra + hoja de begonia
+1385,  polenta de maíz + parmesano + mantequilla + aceite de oliva virgen extra + nata + azafrán + leche + café + aceite de avellana tostada + alcaparra en vinagre
+1386,  espárrago blanco + sal + regaliz + maíz en conserva + mantequilla + yema de huevo + vinagre de Jerez
+1387,  jugo de pollo + cidronela + hoja de lima kaffir + cilantro + jengibre + lima + lima kaffir + curry rojo + pomelo rosa + sésamo blanco + coco + guindilla + albahaca + curry de Madrás + aceite de sésamo
+1388,  enoki + aceite de avellana + coquina + alga bifurcata
+1389,  almendra cristal + aceite de almendra + almendra + almendruco + cereza + mostaza de Dijon + sal  + aceite de almendra amarga de ciruela
+1390,  pimiento de Padrón + regaliz + sal gris de Guérande
+1391,  aceite de oliva + tomillo seco + romero seco + caracol + hinojo + pimienta negra + flor de romero + flor de tomillo + huevo de caracol
+1392,  nuez tierna + aceite de nuez + hierba luisa + aceite virgen de nuez tostado + queso de cabra + ratafía + clavo + café + flor de albahaca + semilla de flor de hinojo + flor de hierba luisa + flor de tomillo + sal
+1393,  bacalao + ajo + aceite de oliva + sal + tupinambo + aceite de oliva virgen extra + trufa de verano + pimentón dulce
+1394,  almendra + alga laurencia + aceite de almendra + vinagre de Jerez + lechecilla de caballa + aceite de sésamo + yema de huevo + salsa de soja + sal de shiso
+1395,  percebe + melocotón de viña + alga codium + caviar + alga laurencia
+1396,  pollo + cebolla + cuitlacoche en conserva + pasote + cilantro + plátano + minimazorca de maíz + queso Oaxaca + lima
+1397,  maíz tierno + parmesano + maíz en conserva + mantequilla + aguacate + guindilla + cilantro + lima
+1398,  ajo + arrope de px + salsa de soja + ajo tierno + ajo negro fermentado + coco + mástic
+1399,  urola + pimiento de Padrón + tinta de calamar + pimienta negra + laurel + aceite de oliva virgen extra + pimienta de Tasmania
+1400,  guanábana + enebro + anguila ahumada + foie-gras de pato + sal  + pimienta negra + azúcar demerara
+1401,  aceite de nuez + flor de saúco + azúcar + cigala + flor de hinojo + limón
+1402,  ventresca de caballa + mirin + azúcar + salsa de soja + cidronela + jengibre + lima + lima kaffir + curry rojo + shiso morado + vinagre de arroz + aceituna negra + sésamo negro + aceite de sésamo + pan + cereza + sal de shiso rojo + aceite de carbón
+1403,  espardenya + hueva de kálix + jengibre + salsa de soja + vinagre de arroz + azúcar + lechuga de mar + salicornia + sal de shiso + sésamo blanco + sal
+1404,  tuétano de ternera + pepino + jengibre + anguila ahumada + azafrán + hoja de capuchina + mostaza de Dijon + aceite de almendra amarga de ciruela + flor de capuchina + lima + sal gris de Guérande + pimienta negra
+1405,  cordero + rabo de cordero + jengibre + cidronela + ajo + tomate + cilantro + azúcar mascabado + pimienta de Sechuán + vinagre de arroz + yogur + leche de oveja + cilantro + pimienta negra + capullo de hemerocallis
+1406,  jugo de liebre + manzana + grosella negra + trufa negra + sal
+1407,  seso de conejo + mantequilla + yogur + nata + salsa Perrin’s
+1408,  jugo de tórtola + tórtola + pulpa de cacao + colmenilla china + bambú + jengibre + wasabi + eucalipto + nata + azafrán + hoja de ostra + cacao + azúcar
+1409,  café + miel de romero + bourbon + vainilla + plátano + mantequilla + leche + nata + madera de barrica de whiskey tipo Tennessee + azúcar mascabado + avellana + clara de huevo + yogur griego
+1410,  azúcar + kirsch + frambuesa + queso cañarejal + aceite de semilla de hinojo
+1411,  melocotón rojo + almendra tierna + azúcar + fruto tierno de ciprés
+1412,  salsa de soja + azúcar mascabado + jengibre + mandarina + tomate + hojaldre + kumquat + albahaca
+1413,  yema de huevo + yuzu
+1414,  miel de romero + yogur griego + eucalipto + nata + sésamo blanco + berenjena + café + menta + naranja + regaliz + vinagre balsámico
+1415,  azúcar + mora + licor de mora + caramelo Fisherman's Friend
+1416,  leche + nata + azúcar + lima + jengibre + sésamo negro + aceite de sésamo + cacao + huevo + chocolate + yogur griego + harina
+1417,  aceituna negra + mango + miel de romero + té negro ahumado + chocolate blanco + nata + clara de huevo + naranja + nuez + lima kaffir
+1418,  azúcar + leche + fruta de la pasión + sésamo negro + coco + praliné de avellana + café + chocolate
+1419,  guisante + azúcar + leche + coco + guisante frito sabor wasabi + yogur griego + limón + plátano + menta piperita
+1420,  leche + plátano + café + fruta de la pasión + toffee de vainilla + mantequilla + miel de romero + romero + clara de huevo + maíz en conserva + pan de especias + menta piperita
+1421,  coco + mantequilla + azúcar demerara + harina + almendra + yogur + miel de romero + sal + limón + huevo + chocolate + albahaca + baya de saúco + cacao
+1422,  leche + nata + amaretto + almendra amarga + almendra + mantequilla + azúcar + harina + cacao + chocolate + cereza + cerveza negra + regaliz + huevo
+1423,  frambuesa + lichi en conserva + limón + rosas + yogur griego + vainilla + chocolate blanco + tomate + aceite de oliva virgen extra + pistacho
+1424,  toffee de vainilla + pera + hierba luisa + cacao + chocolate + nuez frita + mantequilla + yogur griego + levadura + trufa de verano + aceite de trufa blanca + limón + azúcar + huevo
+1425,  grosella negra + caramelo + yogur griego + chocolate + almendra + azúcar demerara + chocolate blanco + huevo + harina + licor de arándano + regaliz + mantequilla
+1426,  melocotón blanco + melocotón de viña + azúcar + azafrán + yogur griego + arrope de px + almendra amarga + yogur + amaretto + flor de salvia + maizena + huevo
+1427,  leche + nata + azúcar + chocolate + clara de huevo + cacao + mantequilla + azúcar demerara + almendra + praliné de avellana + yogur griego + espéculo + fruta de la pasión + hinojo + harina
+1428,  chocolate + nata + quinoa + cacao + azúcar demerara + mantequilla + almendra + pistacho verde + cilantro + shiso morado + baya de saúco + menta + lima + yogur + harina
+1429,  leche + nata + jengibre + azúcar + naranja + frambuesa + fruta de la pasión + huevo + azúcar + aceite de sésamo + harina + sésamo negro + chocolate + yogur griego + wasabi + campari
+1430,  clara de huevo + regaliz + remolacha + yogur + melocotón rojo + hierba luisa + mantequilla + azúcar moreno + cacao + chocolate con leche + sal + nata + lima + yogur griego + harina
+1431,  azúcar demerara + nata + avellana + chocolate + mantequilla avellana + huevo + corteza de cerdo + café + pera + limón + aceite de trufa blanca + yogur griego + toffee + cacao
+1432,  manzana + huevo + nata + licor de manzana + regaliz + almendra + azúcar + yogur griego + grosella negra + mantequilla avellana + eucalipto + harina
+1433,  azúcar + fresa + pimienta negra + yogur griego + miel de romero + sal + cacao + tomate + aceite de oliva virgen extra + huevo + harina + almendra amarga + almendra + vinagre de jerez + albahaca + amaretto
+1434,  mango + azúcar + lima + leche + coco + flor de saúco + huevo + harina + regaliz + ron negro + yogur griego + menta chocolatera
+1435,  coco + nata + leche + yema de huevo + vainilla + mantequilla + azúcar moreno + cacao + chocolate + sal + limón + calabaza + menta piperita + jengibre + arrope de px + harina
+1436,  chocolate + nata + leche + yema de huevo + huevo + azúcar + harina + feuillantine + praliné de avellana + campari + frambuesa + yogur + cacao + cardamomo verde + menta
+1437,  yogur griego + azafrán + leche + nata + huevo + chocolate + chocolate con leche + azúcar + miel de romero + manzana + limón + nuez de macadamia + flor de madreselva
+1438,  almendra amarga + almendra + clara de huevo + albaricoque + canela + yogur griego + pipa de calabaza + azúcar + azúcar efervescente + amaretto + limón + huevo + harina
+1439,  chocolate blanco + nata + yogur griego + mantequilla + eucalipto + huevo + maizena + limón + piñón + azúcar + café + flor de begonia
+1440,  mandarina + azúcar + limón + pistacho + huevo + harina + cacao + sésamo blanco + cardamomo verde + yogur griego + cilantro
+1441,  coco + huevo + azúcar + harina + nata + pan de especias con miel + miel de romero + romero + albaricoque + arrope + menta piperita + menta + uva moscatel + acedera
+1442,  manzana + azúcar + limón + canela + mantequilla avellana + huevo + harina + almendra + yogur griego + miel de romero + arándano + flor de geranio limón + sésamo negro
+1443,  coco + nata + chocolate + leche + azúcar + yema de huevo + curry de Madrás + mantequilla + cacao + miel de romero + plátano + menta piperita + café
+1444,  arándano + azúcar + chocolate + nata + mantequilla + leche + violeta + almendra + azúcar mascabado + harina + chocolate blanco + yogur griego + menta chocolatera + grosella negra
+1445,  naranja sanguina + limón + azúcar mascabado + yogur + pimienta de Jamaica + remolacha + almendra + huevo + harina + flor de tagete + estebia
+1446,  chocolate blanco + manteca de cacao + yogur + fruta de la pasión
+1447, mandarina + aguardiente de frambuesa + azúcar + huevo + maizena + rosas + chocolate + flor de albahaca morada
+1448,  coco + nata + chocolate + coco fresco tierno
+1449,  mandarina + azúcar + té matcha + menta + mantequilla + huevo
+1450,  menta piperita + azúcar
+1451,  azúcar + grosella negra + azúcar efervescente
+1452,  leche + huevo + vainilla + cacao + chocolate + azúcar + harina + miel de romero + pimienta de Sechuán
+1453,  fruta de la pasión + azúcar efervescente + clara de huevo
+1454,  vinagre de jerez + azúcar + yogur + ácido cítrico + fresa
+1455,  azúcar + flor de hinojo
+1456,  almendra amarga + almendra + clara de huevo + fresa + azúcar
+1457,  vainilla + mango + leche + pan de especias con miel + manteca de cacao
+1458,  haba tonka + cacao + azúcar
+1459,  coco + feuillantine + praliné de avellana + grosella negra + nata + manteca de cacao
+1460,  piña + clara de huevo + coco + cacao
+1461,  grosella negra + chocolate + cacao
+1462,	azúcar + mezcla de hierbas estomacales + lulo + martini extra dry + ginebra
+1463,	azúcar + yuzu + sake + tónica Fever-Tree
+1464,	yogur + limón + orujo de hierbas + ginebra + grosella negra + eucalipto + azúcar
+1465,	mandarina + flor de mandarina + rosas + canela
+1466,	cereza + kirsch + azúcar + nata + nibs de cacao
+1467,	albahaca + mango + azúcar
+1468,	fruta de la pasión + yogur griego + avellana + azafrán + azúcar + flor de madreselva
+1469,	albahaca + parmesano + piñón + tomate + mantequilla + aceite de oliva virgen extra + sal
+1470,	minimandarina + sal + azúcar
+1471,	higo + trufa negra + aceite de maíz + sal
+1472,	sésamo negro + mantequilla + sal + azúcar + alga nori
+1473,	amaranto + azúcar + piel de avellana tostada + aceite virgen de avellana tostada + sal
+1474,	coco + curry de Madrás
+1475,	shiso rojo + vinagre de arroz + azúcar + sal
+1476,	piñón + chocolate 99% + sal
+1477,	remolacha + yogur + rosas + sal
+1478,	remolacha + yogur
+1479,	dashi + salsa de soja + pasta de gamba + tofu chino fermentado + cilantro + pimienta de Sechuán + canela + pasta philo + sésamo blanco + aceite de sésamo + lima
+1480,	ciruela pasa + aceite de sésamo + salsa de soja + vinagre de arroz + pasta de curry rojo + miso amarillo + cardamomo + pimienta de Sechuán + anís estrellado + canela + pepino + azúcar + vinagre de arroz + corteza de cerdo + pasta brick + cebollino fresco + germinado de cilantro
+1481,	remolacha + coco + naranja + vinagre en polvo + sal
+1482,	crema doble + queso gorgonzola + fresa + enebro + ginebra + sal gris de Guérande
+1483,	queso munster + manitol
+1484,	mantequilla + bacon ahumado + yema de huevo + parmesano + nata + pimienta negra + crema doble
+1485,	perrechico + nata + aceite de tierra + hoja de capuchina + mostaza de Dijon + sal
+1486,	ciruela morada + alga nori + almendra tierna + aceite virgen de almendra amarga de ciruela + miel de romero + sal de shiso rojo + sal + almendra amarga + yogur + azúcar + almendruco + ciruela morada + alga nori + vinagre de umeboshi
+1487,	perifollo
+1488,	coco + menta + aceite de cacahuete + curry de Madrás + sal + coco + aceite de carbón + sal
+1489,	vinagre de vino tinto + chalota + hoja de ostra
+1490,	nuez + mantequilla + miso amarillo + aceite de nuez + tofu chino fermentado + vainilla + sal + espárrago blanco + flor de tagete + nuez + mantequilla + miso amarillo + aceite de nuez + dashi + yuzu + rábano + flor de tagete + aceite de almendra amarga de ciruela + sal de umeboshi + cereza
+1491,	longueirón + salsa de soja + dashi + lima + jengibre + alga codium + alga laurencia + aceite de sésamo
+1492,	albahaca + nuez + parmesano + piñón + aceite de oliva virgen extra + ajo + nata + limón + tinta de calamar + sepieta + flor de albahaca + menta
+1493,	coquina + aceite de oliva virgen extra + parmesano + perejil + pimienta negra + limón
+1494,	mozzarella de búfala + leche + fresita de bosque + albahaca + miel de madroño + eucalipto
+1495,	mandarina + flor de mandarino + pipa de calabaza + aceite de pipa de calabaza + sal
+1496,	almendra + almendra amarga + azúcar + yogur + almendruco + sal + aceite de almendra amarga de ciruela
+1497,	dashi + yuzu + rábano + raifort + mostaza de Dijon + té Rooibos + aceite de almendra amarga de ciruela + sal de umeboshi + flor de violeta + lima + wasabi + sechuan button
+1498,	shiso rojo + azúcar + aceite de cacahuete tostado + vinagre de umeboshi + quinoa + cacahuete + crema doble + curry de Madrás + sal de shiso
+1499,	nuez + pato + curaçao + canela + cebolla + ajo + grasa de foie-gras de pato + albaricoque + flor de agastache albaricoque + cacao + enebro + cardamomo verde + azúcar de palma + naranja
+1500,	jugo de carne + tendón de ternera + tuétano de ternera + caldo de pollo + consomé + estragón + menta piperita + vinagre de jerez + salsa Worcester + azúcar + cebollino + pimienta negra + sal de Guérande
+1501,	té con jazmín + flor de mandarino + mandarina + agua de azahar + rosas + flor de saúco + azúcar + flor de begonia blanca + cajú + manteca de cacao + guindilla + eucalipto + jazmín + mástic + fingerlime + amaranto + hoja de capuchina + germinado de amaranto + germinado de albahaca + germinado de perifollo
+1502,	tomate + pimienta negra + albahaca + mango + azúcar + aceite de oliva virgen extra + aceituna muerta de Aragón + ajo negro fermentado + vinagre balsámico
+1503,	yema de huevo + dashi + salsa de soja + wasabi + aceite de sésamo + sésamo blanco + yuzu + sal de shiso
+1504,	flor de saúco + nuez de macadamia + pulpa de cacao + hoja de capuchina + jengibre + azúcar + vinagre balsámico
+1505,	maíz en conserva + hierba luisa + cilantro + caldo de pollo + jugo de pollo + cuitlacoche en conserva + pasote + mole rojo + germinado de cilantro + lima
+1506,	azúcar + lulo + albahaca + trufa negra + aceite de maíz + yogur griego + grasa de foie-gras de pato + cacao + sal gris de Guérande + pimienta negra
+1507,	aceite de piñón + piña verde de pino + piñón tierno + caviar de esturión
+1508,	nuez + fruta de la pasión + miniendivia + aceite de nuez + roquefort + crema doble + nuez tierna + estragón + sal gris de Guérande
+1509,	anchoa + trufa negra + mangostán + menta piperita + mostaza tradicional
+1510,	coco fresco tierno + coco + caviar de esturión
+1511,	mejillón + alga laurencia + ciruela morada + aceite de almendra amarga de ciruela
+1512,	nuez de Brasil + trufa negra + grosella negra + sal gris de Guérande
+1513,	minialcachofa + trufa negra + alcachofa + aceite de oliva virgen extra + trufa de verano + anchoa + hueva de caracol + pimienta negra
+1514,	yema de huevo + jengibre + dashi + yuzu + yogur + té verity + sal de shiso rojo + hueva de kálix + aceite de sésamo
+1515,	nabo daikon + dashi + clara de huevo + hueva de kálix + erizo + hoja de ostra + yuzu + fingerlime + flor de borraja
+1516,	menta + jamón ibérico + guisante + cebolla + ajo tierno + aceite de oliva virgen extra + grasa de jamón ibérico + butifarra negra + licor de anís + canela + pimienta negra + flor de guisante + eucalipto
+1517,	pipa de girasol + aceite de Sacha Inchi + yogur + nata + alga nemallium + sandía + aguacate
+1518,	ajo negro fermentado + almendra tierna + calamondín + mantequilla + ficoide glaciale + flor de ajo + sal + ajo negro fermentado + almendra tierna + jugo de pollo + piñón + azúcar + melocotón + yogur + canela + flor de ajo + flor de agastache albaricoque
+1519,	shiso rojo + vinagre de arroz + hígado de rape + pimienta negra + ciruela morada + alga nori + sal de umeboshi + aceite de almendra amarga de ciruela + sal
+1520,	jugo de liebre + tripa de bacalao + anguila ahumada + azafrán + panceta ibérica salada + pitahaya blanca + aceite de tierra + guindilla + germinado de borraja
+1521,	percebe + consomé + trufa negra + grasa de foie-gras de pato + alga bifurcata + ficoide glaciale
+1522,	anémona de mar + ostra + rosas + eneldo + calamondín + seso de conejo + guindilla + aceite de Sacha Inchi + sal + pimienta negra
+1523,	holoturia + espardenya + jugo de cerdo + sésamo blanco + grasa de jamón ibérico + alga meloalga + alga nemallium
+1524,	anguila ahumada + amaranto + pepino + lima + jengibre + negrito + minipepino en flor + flor de borraja + hoja de ostra + sal gris de Guérande + aceite de tierra
+1525,	nuez de macadamia + flor de saúco + cidra-poma + negrito + mantequilla avellana + yuzu
+1526,	enoki + aceite de avellana + pollo + jengibre + tomate + azúcar de palma + pimienta de Sechuán + salsa de soja + cidronela + aceite de sésamo + vinagre de arroz + panceta ibérica salada + yuzu + abalone + sake + germinado de cilantro + aceite de oliva virgen extra + alga codium
+1527,	azúcar + cacao + jugo de liebre + grasa de foie-gras de pato + sal + flor de romero + flor de tomillo + brandy
+1528,	shitake + cidronela + jengibre + pimienta de Sechuán + cilantro + salsa de soja + grasa de jamón ibérico + castañuela de cerdo ibérico + ajo + salsa de judía negra fermentada + cactus echevaría + lima
+1529,	jamón ibérico + rabo de cochinillo + jengibre + tofu chino fermentado + ajo + aceite de oliva + tofu fresco + melón Cantaloupe + aceite esencial de jazmín + flor fresca de miniclavel + germinado de cilantro + sal
+1530,	pomelo rosa + limón + estragón + manzana Granny Smith + crema doble + miel de abeto
+1531,	bolas de ciprés verde + azúcar + grosella negra + mozzarella + sal + café
+1532,	piña verde de pino + azúcar + jazmín + eucalipto + flor de saúco + sechuan button + miel de girasol + flor de begonia blanca + flor de cabeza de dragón + flor de albahaca + flor de borraja + ácido cítrico + manitol + miel de madroño
+1533,	leche + trufa negra + azúcar + chocolate 99% + manteca de cacao + cacao
+1534,	manzana Granny Smith + aguardiente de manzana
+1535,	leche + azúcar + chocolate + chocolate 99% + frambuesa + remolacha + clara de huevo + rosas + naranja + mantequilla + grosella negra + almendra + arroz inflado + harina de almendra + yogur griego + sal + azúcar
+1536,	albahaca + chocolate + azúcar + cereza + pan de especias con miel + regaliz + almendra + huevo + harina + azúcar mascabado + cacao + miel + yogur griego + sal + amarena + mantequilla
+1537,	mantequilla + azúcar + huevo + vainilla + nata + harina + almendra + lulo + miel de romero + arrope de px + cacao + chocolate + azúcar moreno + praliné de avellana + yogur griego + flor de romero
+1538,	vainilla + chocolate + mantequilla + huevo + nibs + azúcar + café + bourbon + canela + almendra + frambuesa + nata
+1539,	albahaca + yogur + yogur griego + azúcar + ácido cítrico + almendra + limón + rosas + clara de huevo + harina + almendra amarga + almendra + lichi en conserva + té matcha + café
+1540,	piña verde de pino + miel + azúcar + clara de huevo + regaliz + azúcar demerara + piñón + harina + limón + yogur griego + aceite de piñón + sal + mantequilla
+1541,	mantequilla + azúcar demerara + almendra + cacao + miel de romero + clara de huevo + pan de especias con miel + azúcar + vino generoso seco del Priorato + bronce + caramelo + nuez de macadamia + limón + yogur griego
+1542,	albaricoque + almendra amarga + azúcar + yogur + toffee + amaretto + menta + café + limón + feuillantine + praliné de avellana + jengibre + almendra tierna + flor de agastache albaricoque
+1543,	leche + chocolate + azúcar + clara de huevo + cacao + mantequilla + azúcar demerara + harina + almendra + lima + azúcar mascabado + grosella negra + menta + yogur griego + germinado de cilantro + lima + té matcha
+1544,	pulpa de cacao + yogur griego + huevo + azúcar + harina + nata + flor de saúco + toffee de café + canela + caramelo + nuez de macadamia + haba tonka
+1545,	yogur griego + melocotón de viña + hierba luisa + lima + sandía + toffee de regaliz + azúcar + huevo + harina + nata + almendra + mantequilla + tomate + aceite de oliva virgen extra + sal + licor de melocotón
+1546,	mandarina + limón + azúcar + toffee de cardamomo + chocolate + mantequilla + yema de huevo + yuzu + nata + leche + cacao + sésamo negro + aceite de sésamo + clara de huevo + plata + yogur griego
+1547,	azúcar + clara de huevo + regaliz + limón + yogur
+1548,	yogur griego + cardamomo verde + azúcar + fresa + manitol
+1549,	pan de especias con miel + azúcar + praliné de avellana + frambuesa
+1550,	miel + melocotón de viña + clara de huevo + cacao
+1551,	fresa + nata + azúcar + chocolate + cacao + eucalipto + menta
+1552,	jengibre + azúcar + frambuesa
+1553,	limquat + enebro + caramelo + yogur griego + ginebra + clara de huevo
+1554,	grosella negra + mantequilla + almendra + sal + menta + frambuesa + clara de huevo + nata + azúcar + pimienta de Sechuán
+1555,	mantequilla avellana + harina + azúcar + almendra + clara de huevo + amaretto + mango + flor de romero + limón
+1556,	flor de saúco + miel de romero + flor de tagete + azúcar
+1557,	chocolate + chocolate + nibs + chocolate + grosella negra + chocolate con leche + fruta de la pasión + chocolate con leche + canela + caramelo + chocolate blanco + fresa + yogur + chocolate blanco + té matcha + menta
+1558,	avellana + chocolate + sal
+1559,	miel + chocolate + cacao
+1560,	cacahuete + azúcar + chocolate + pistacho verde + azúcar + chocolate con leche
+1561, caña de azúcar + ron añejo + menta + cachaça + lima + azúcar demerara + ácido cítrico
+1562, triple seco + tequila + cactus maji + ácido cítrico + limón + sal
+1563, ginebra + piña verde de pino + yogur + miel de abeto + germinado de pino
+1564, campari + vermouth + mandarina + flor de mandarino
+1565, grosella negra + eucalipto + uva + grappa
+1566,vino dulce de monastrell + granada
+1567,horchata + whiskey ahumado + cacao
+1568,azúcar + flor de saúco + sal + nuez de macadamia + champaña
+1569,azúcar + limón + clara de huevo + ginebra
+1570,gorgonzola + leche + nuez moscada
+1571,azúcar + maíz + sal
+1572,cacahuete + manitol + sal
+1573,aceite de sésamo + sésamo negro + maltodextrina
+1574,flor de hibisco + azúcar
+1575,parmesano + café + yuzu + aceite de oliva
+1576,frambuesa + wasabi
+1577,vainilla + azúcar + sal
+1578,maíz + azúcar + whiskey ahumado
+1579,salsa de soja + sal de shiso rojo + sésamo blanco + sésamo negro + yuzu
+1580,azúcar + frambuesa + estragón
+1581,cereza +  sal de shiso rojo + aceite virgen de almendra amarga de ciruela + miel de romero + vinagre de flor de cereza + sal
+1582,nuez de macadamia + azúcar + sal
+1583,patata + salsa kimchee + salsa de soja + aceite de sésamo + témpura + jengibre
+1584,miel de girasol + jazmín
+1585,guanábana + alcaparra + sal + café
+1586,fruta de la pasión + azúcar + grosella negra + bourbon
+1587,carissa + hoja de sechuan button
+1588,frambuesa + azúcar + alga nori + sésamo blanco +azúcar + salsa kimchee + salsa de soja + aceite de sésamo
+1589,té matcha + azúcar + fingerlime
+1590,frambuesa + vinagre de frambuesa
+1591,coco
+1592,lenteja + aceite de tierra + mantequilla + pasta de sésamo negro + pasta de sésamo blanco + curry + flor de romero + vinagre de jerez
+1593,soja + dashi + salsa de soja + miso amarillo + miso negro
+1594,mantequilla + pasta philo + ciruela + nuez de macadamia + flor de osmanthus + sal de shiso rojo + vinagre de flor de cereza + aceite virgen de almendra amarga de ciruela + aceite de almendra + sal + aceite de oliva virgen extra
+1595,seso de cordero + leche + harina + huevo + pimienta negra + limón
+1596,azúcar + jengibre + jamón ibérico + jugo de cerdo + grasa de jamón ibérico + yuzu + pimienta de Sechuán + anís estrellado + germinado de cilantro
+1597,trufa negra + higo + armañac + pimienta negra recién molida + trufa de verano
+1598,gamba
+1599,tuétano de ternera + ostra + mostaza + salsa HP + tabasco + chalota + cebollino + hoja de ostra + pimienta negra
+1600,té Earl grey + camarón + anémona de mar + caviar de esturión + alga
+1601,hueva de kálix + huevo + yuzu
+1602,zamburiña + limón + melón Cantaloupe + flor de jazmín
+1603,dashi + soja + chirla + miso rojo + sake + salsa de soja
+1604,coco fresco tierno + coco + calamar + jengibre + cidronela + cebolla + curry rojo + limón + pimiento de Padrón + lima + germinado de cilantro + tamarindo
+1605,almendra + aceite de almendra + tomate + coco fresco tierno + aceite ahumado + sal de shiso rojo + aceite virgen de almendra amarga de ciruela + vinagre de arroz + almendra tierna + vinagre de jerez + pimienta negra + albaricoque
+1606,trufa negra + huevo + pistacho + aceite de pistacho + coco fresco tierno + pimienta negra + aceite ahumado + pistacho tierno
+1607,tomate + grosella roja + albahaca + almendra amarga + azúcar + yogur + crema doble + pimienta negra + aceite de oliva virgen extra
+1608,almendra + café + anguila ahumada + alcaparra en sal + chirimoya + aceite de almendra + aceite virgen de almendra amarga de ciruela
+1609,tofu sedoso + nata + salsa de soja + dashi + sudachi + sake + nato tostado + miso negro
+1610,coco + yuzu + ajo negro fermentado + aceite de mástic + azúcar + albahaca
+1611,paloma torcaz + jugo de paloma + azúcar + chocolate 99% + cacao + armañac + jengibre + enebro + sal + pimienta negra + limón
+1612,hueva de salmón + hueva de trucha + aceite de avellana + sal + oro + crema doble + limón + pimienta negra
+1613,flor de osmanthus + limón + lechuga + vinagre de jerez + botarga + aceite de nuez de argana + piñón + caqui + crema doble + pimienta negra + sal
+1614,flor de osmanthus + tomate + lechuga + vinagre de jerez + aceite de nuez de argana + grosella roja + grosella blanca + crema doble + pimienta negra + botarga
+1615,calabaza + clara de huevo + trufa negra + trufa de verano + almendra tierna + manzana Granny Smith + clara de huevo + nuez + mantequilla + miso amarillo + aceite de nuez
+1616,avellana + guindilla + champiñón + aceite de avellana + grosella roja + cactus echevaría + alga meloalga + pimienta negra
+1617,crema doble + yema de huevo + oronja + flor de romero + pimienta negra
+1618,mango + azúcar + guindilla + jengibre + salsa de soja + hígado de rape + uva + sake + ahumado + sal gris de Guérande + yuzu
+1619,anémona de mar + té Earl grey + alga codium + limón + caviar de esturión
+1620,rosa + alcachofa + agua de rosas + eneldo + guindilla + pimienta negra + vinage de jerez + aceite de oliva virgen extra + sal
+1621,mandarina + flor de mandarino + aceituna verde + aceite de oliva virgen extra + albahaca-limón + vinagre de jerez + pimienta negra + sal
+1622,vermouth + aceituna verde + hinojo + salsa kimchee + salsa de soja + aceite de sésamo + berberecho + bulbo de hinojo + yuzu + pimienta negra + sal
+1623,vinagre balsámico + parmesano + albahaca + oro + café + grasa de parmesano
+1624,flor de osmanthus + patata + sal + aceite de oliva virgen extra + aceite de maíz + jamón ibérico cocido + alga laurencia + berro + pimienta negra
+1625,yogur + jengibre + aceite de piñón + hueva de trucha + yuzu + oro
+1626,soja + nata + leche + germinado de soja + salsa de soja + aceite de soja + nato + tofu sedoso + tofu chino fermentado + miso negro + miso amarillo
+1627,caldo de pollo + citronela + jengibre + calabaza cabello de ángel + vinagre de arroz
+1628,aceite de piña verde de pino + azúcar + piñón + aceite de piñón + sal
+1629,espardenya + aceite de oliva virgen extra
+1630,col lombarda + salsa kimchee + salsa de soja + aceite de sésamo + frambuesa + aguacate + mostaza + estragón
+1631,flor de osmanthus + aceite de tierra + yogur + llenega + pimienta negra
+1632,endivia + jamón ibérico + grasa de jamón ibérico + yema de huevo + acedera + pimienta negra + aceite de nuez
+1633,tuétano de ternera + yogur + maíz en conserva + interior germinado de maíz + erizo + pimienta negra
+1634,pollo + vino chino + salsa de soja + salsa de ostra + curry rojo + ajo + jengibre + aceite de cacahuete + yuzu + germinado de borraja + vinagre de arroz
+1635,oreja de conejo + jugo de conejo + caracol + ajo + tomillo + romero + laurel + pimienta negra + seso de conejo + lengua de conejo + riñón de conejo + hueva de caracol
+1636,jugo de cabrito + jamón ibérico + grasa de jamón ibérico + manzanilla seca + manzanilla de Sanlúcar + riñón de cabrito + pimienta negra + acedera + vinagre de jerez
+1637,jugo de liebre + consomé de liebre + erizo
+1638,jugo de liebre + seso de liebre + flor de blue ocean + pimienta negra
+1639,costilla de liebre + hígado de liebre +  jugo de liebre + trufa negra + foie-gras de pato + coñac + pimienta negra
+1640,jugo de liebre + grasa de foie-gras de pato + grosella roja + grosella negra + arándano + cacao + pimienta negra
+1641,ternilla de ternera + jugo de carne + albahaca + aceite de ajo y jengibre + enoki + dashi + yuzu + salsa de soja + jengibre + cebolla tierna + cilantro + germinado de borraja + germinado de cilantro + flor de blue ocean + anís estrellado + pimienta de Sechuán + vinagre de arroz
+1642,pechuga de paloma torcaz + jugo de paloma torcaz + guanábana + oro + pimienta negra
+1643,manzana Granny Smith+ clara de huevo + tordo + jugo de tordo + panceta ibérica + ostra + pimienta negra
+1644,fruta de la pasión + tucuppí
+1645,fresa + clara de huevo + azúcar + harina + vinagre balsámico + campari + crema doble
+1646,parmesano + grasa de parmesano + boniato + mantequilla + azúcar + limón + pimienta negra
+1647,menta + azúcar + té matcha
+1648,fruta de la pasión + clara de huevo + azúcar + bourbon + praliné de avellana
+1649,yogur + clara de huevo en polvo + nata
+1650,té matcha + azúcar + mandarina + jarabe de tierra + sésamo negro + mandarina + mandarina verde
+1651,limón + azúcar + chocolate + chocolate con leche + mantequilla + clara de huevo + cacao
+1652,cereza + kirsch + chocolate 99%
+1653,piña + azúcar + obulato + toffee de kirsch + tamarindo + anís estrellado
+1654,lichi en conserva + plata + azúcar + naranja verde + caramelo + pimienta de Sechuán
+1655,grosella negra + yogur + nata + kirsch + azúcar + ácido cítrico + nata
+1656,fruta de la pasión + azúcar + ron blanco + toffee de ron negro + crema doble + menta + sésamo negro + chocolate 99% + azúcar moreno +  harina + mantequilla + cacao + chocolate
+1657,campari + praliné de avellana + frambuesa + azúcar + manitol + pimienta negra
+1658,fresita de bosque + fresa + chocolate 99% + azúcar + limón + aguardiente de frambuesa + yogur + cacao + pimienta rosa
+1659,coco + chocolate 99% + azúcar + grosella negra + nata + fresa + campari + haba tonka + crema doble + menta
+1660,mandarina + praliné de avellana + mantequilla avellana + flor de mandarino + azúcar + harina + clara de huevo + aceite virgen de almendra amarga de ciruela
+1661,manzana Granny Smith + clara de huevo + azúcar + limón + lima + yuzu + mandarina + limquat + sudachi + mano de buda + cidra + minimandarina + pomelo rosa + flor de mandarino + azúcar + harina + clara de huevo + kumquat + triple seco + pomelo thai + fingerlime + sésamo negro + chocolate blanco + azúcar + té matcha
+1662,chocolate blanco + salsa de soja
+1663,piña + chocolate + oro
+1664,limón + chocolate + cacao
+1665, piel de limón + chocolate + cacao
+1666,naranja sanguina + aceite esencial de pino + azúcar + vodka
+1667,fresa + campari
+1668,yema de huevo + azúcar + yuzu + ron añejo
+1669,menta + lima + cachaça + azúcar demerara
+1670 ,coco + piña + azúcar + ron añejo
+1671,manzana + ron blanco + menta + azúcar demerara + ácido cítrico
+1672,fruta de la pasión + azúcar + rosas + kirsch
+1673,flor de begonia + fresita + amaretto + campari + aguardiente de frambuesa + ácido cítrico + agua
+1674,tomate verde + limón + vodka + apio + tabasco + frambuesa
+1675,almendra + limón + clara de huevo + vodka + amaretto + haba tonka + soda + amarena
+1676,pipa de girasol + témpura
+1677,maíz + sal + azúcar
+1678,bacalao + miel
+1679,gambas + pan de gamba
+1680, calabaza + pipa de calabaza + sal
+1681,arroz + maíz morado + tapioca + salsa kimchee
+1682,maíz + manzana + clara de huevo + sal
+1683,yogur + oro + clara de huevo + vinagre balsámico
+1684,hibisco + azúcar + cacahuete + guindilla + sal
+1685,shiso morado + azúcar + vinagre de arroz + cacahuete + aceite de almendra amarga de ciruela
+1686,pistacho + yuzu + ahumado + aceite de pistacho + sal + grosella negra + azúcar
+1687,guindilla + cacahuete + miel + lima + curry de Madrás
+1688,azúcar + aceite de oliva virgen extra + sal
+1689,azúcar + jengibre + lima
+1690,parmesano
+1691,nata + parmesano + pimienta negra + piñón
+1692,pistacho + manitol +  sal
+1693,avellana + isomalt + aceite de avellana + sal
+1694, shiso morado + azúcar + salsa de soja + sésamo blanco + sésamo negro + yuzu + vinagre de arroz
+1695,azúcar + alga nori + sésamo negro + limón sanguino + salsa de soja + sal de shiso
+1696,avellana + frambuesa
+1697,avellana + ron añejo + azúcar + sal + aceite de avellana
+1698,guindilla + garbanzo + sal + gamba + azúcar
+1699,garbanzo + minicamarón + aceite de oliva + harina de maíz + caña de azúcar + lima + jengibre + hierba luisa + sal
+1700,yude azuki + manitol + jengibre + guindilla + salsa de soja + yuzu + miso amarillo + té matcha + sal de shiso + aceite de sésamo
+1701,mandarina + flor de mandarino + almendra + almendruco + aceite de almendra + miel de romero + azafrán + especias Ras el Hanout + aceite de nuez de argana + aceite de almendra amarga de ciruela + sal
+1702, flor de almendro + azúcar + miel + amarena + aceite de almendra amarga de ciruela + kirsch
+1703, almendra tierna + vinagre de vino blanco + sal + aceite de almendra amarga
+1704,nuez tierna + nuez + aceite de nuez + ratafía + sal
+1705,limón + tomate + apio + salsa Worcester + tabasco + sal + pimienta negra
+1706,miel de diente de león + cogollo de ficoide glaciale + agua + sal + jazmín
+1707,melón Cantaloupe + rosas + jamón ibérico
+1708,tuétano de ternera + jugo de carne + fresa blanca + pimienta negra + sal
+1709,higado de rape + dashi + coco + jengibre + salsa de soja + sal de shiso + sésamo blanco + sésamo negro + yuzu + ahumado + wasabi
+1710,minicodorniz + zanahoria + vinagre de jerez + aceite de oliva virgen extra + ajo + cebolla + pimienta negra + tomillo + laurel + guindilla + comino + pimentón dulce
+1711,salsa de soja + manitol + yuzu + azúcar + miso amarillo + wasabi + oro
+1712,dashi + chirla + miso rojo + salsa de soja + tofu
+1713,jugo de carne + tuétano de ternera + vino tinto + chalota + ostra + pimienta negra + azúcar
+1714,dashi + mirin + sake + huevo + salsa de soja
+1715,langostino + sal
+1716,alga dulse + limón
+1717, leche + salsa de soja + ventresca de atún + wasabi + yuzu + sal de shiso +  yema de huevo + salsa de soja + albahaca + ventresca de salmón + wasabi + sal
+1718, tuétano de ternera + jugo de carne + manzana + clara de huevo + sal + pimienta negra + manzana + erizo + wasabi + yuzu + clara de huevo
+1719,salsa de soja + médula de atún + ventresca de atún + wasabi
+1720,caldo de pollo + jengibre + cidronela + cilantro + hoja de lima kaffir + seso de gamba + lima
+1721,aceite de oliva virgen extra + ajo + romero + tomillo + laurel + limón + aceituna verde + flor de hinojo
+1722,agua + naranja sanguina + hibisco + azúcar + mezcla de especias indias + aceite de almendra amarga de ciruela + aceite de almendra
+1723, tomate + pimiento rojo + pepino + ajo + cebolla tierna + vinagre de jerez + almendra + aceite de oliva virgen extra + sal
+1724, mozzarella + albahaca + aceite de oliva virgen extra
+1725,ajo negro fermentado + coco + sake
+1726,parmesano + fresa + albahaca + vinagre balsámico
+1727,umeboshi + miel de romero + wasabi + aceite de almendra amarga de ciruela
+1728,agua + salsa de soja + vinagre de arroz + wasabi
+1729,piñón tierno + piña verde de pino + ostra + piñón tierno + piña verde de pino + caviar
+1730, piñón + aceite de piñón
+1731, piña verde de pino + ostra + caviar + anchoa
+1732, panceta ibérica salada + jamón ibérico cocido + pistacho + aceite de pistacho
+1733, leche + seso de cordero + pistacho tierno + aceite de pistacho + botarga + aguacate + sal
+1734,aguacate + seso de conejo + pimienta negra + nuez tierna + aceite de nuez + fruta de la pasión + leche
+1735,calabaza cabello de ángel + jamón ibérico + jugo de cerdo + fingersalt
+1736,calabaza + almendra + vinagre de jerez + aceite de oliva virgen extra + ajo + cebolla + pimienta negra + tomillo + laurel + aceite de almendra amarga de ciruela
+1737, espárrago blanco + aceite de oliva virgen extra + limón + azúcar + nata + mantequilla + yema de huevo + vinagre de jerez
+1738,almendra + fingersalt + fresa blanca
+1739,tomate + miel de romero + manitol+ aceite de oliva virgen extra + mostaza + salsa Worcester + tabasco + yema de huevo + chalota + albahaca + sal
+1740, manzana + clara de huevo + queso de cabra + albahaca + tomate + aceite de oliva virgen extra + pimienta negra
+1741, foie-gras de pato + azúcar + sal + pimenta negra
+1742, caviar + avellana + sésamo negro + mantequilla
+1743,tucuppí + coco + maíz en conserva +  mazorca de maíz cocido + lima
+1744,pato azulón + jugo de pato + px + grasa de foie-gras de pato + pimienta negra + canela + aceite de piñón + piñón
+1745,anchoa + boquerón + plata + botarga + aceite de oliva virgen extra + vinagre de jerez
+1746,piel de pollo + esternón de pollo + ajo + jengibre + tofu chino fermentado + limón + germinado de borraja + cilantro
+1747,piña verde de pino + trufa negra + miel de abeto
+1748,trufa negra + sal
+1749, trufa negra + azúcar + grasa de foie-gras de pato + sal
+1750,trufa negra + grasa de foie-gras de pato + sal
+1751,grasa de foie-gras de pato + trufa negra + endivia
+1752,endivia + nuez tierna + aceite de nuez + sal
+1753,trufa blanca
+1754,brioche + saint-félicien + trufa blanca
+1755,caviar + trufa blanca + oronja + trufa blanca
+1756,oronja + aceite de oliva virgen extra
+1757,perrechico + azúcar + yogur + nata + flor de saúco + nuez de macadamia + sal
+1758, manzana + perrechico + clara de huevo + yogur +nata + sal + yema de huevo + perrechico + mostaza + salsa barbacoa + tabasco + cebollino + albahaca + sal
+1759,perrechico + ostra + mostaza + salsa Worcester + tabasco + yema de huevo + cebollino + chalota
+1760,lechecilla de caballa + espárrago triguero + grasa de foie-gras de pato + trufa negra
+1761,llengüeta + sal + aceite de oliva virgen extra
+1762,huevo + erizo + salsa de soja + sake + azúcar
+1763,aleta de salmón + médula de salmón + salmón ahumado + mostaza antigua + alcaparra en vinagre + cebollino + pepinillo en vinagre + hueva de salmón
+1764, anémona de mar + yuzu + aceite de sésamo + wasabi
+1765,zamburiña + anémona de mar + salicornia
+1766,chirla + guindilla + chalota + lima + cilantro + sal
+1767,chirla + lulo + cilantro + lima + guindilla
+1768,calamar + aguacate + lima + chile + cebolla tierna + cilantro + pimienta negra + aceite de oliva virgen extra + maíz + sal
+1769,bogavante + agua + aceite de oliva virgen extra + grosella + lima + cilantro + cebolla tierna + maíz+ sal gris de Guérande
+1770, almeja + maíz en conserva + chalota + lima + cilantro + cactus kalanchoe + guindilla
+1771, azúcar + maíz + mole rojo + lima aguacate + cilantro
+1772, hueva de bogavante + trompeta de la muerte + anacardo
+1773, seso de bogavante + tuétano de ternera + caldo de pollo + jengibre + cilantro + pimienta de Sechuán + anís estrellado + salsa de soja + shitake + pimiento de Padrón + kumquat + vinagre de arroz+ aceite de sésamo + sal
+1774, pulpito + aceite de piñón + espardenya + hueva de kálix
+1775, calamar + caldo de pollo + jengibre + cilantro + pimienta de Sechuán + anís estrellado + salsa de soja + sésamo blanco + sichimi togarashi
+1776, pulpito + laurel+ pimentón dulce + aceite de oliva virgen extra + sal
+1777, espardenya + aceite de oliva virgen extra
+1778, espardenya + hueva de kálix + yuzu
+1779, jugo de cerdo + aceite de cacahuete + ajo + jengibre + cidronela + pasta de curry amarillo + cilantro + pandang + leche + azúcar + gamba + hoja de lima kaffir + caldo de pollo
+1780, té Earl grey + alga dulse + limón + anémona de mar + percebe
+1781, ostra + trompeta de la muerte + tuétano de ternera + pimienta negra
+1782, angula + anguila ahumada + ajo
+1783, lorito + hueva de kálix+ aceite de oliva virgen extra + lorito + aceite de oliva virgen extra + patata + tomate + cebolla + hueva de kálix + pimienta negra
+1784, jugo de lamprea + piel de anguila ahumada
+1785, minicodorniz + farsa de foie-gras de pato + trufa negra + ajo negro fermentado + ostra + avellana + aceite de avellana + isomalt+ cacao + pimienta negra
+1786, tuétano de ternera + caviar + remolacha
+1787, conejo de monte + vinagre de jerez + cebolla + ajo + tomillo romero + zanahoria + pimienta negra + aceite de oliva + seso de conejo + senderuela + cebollino + fingersalt + perifollo + estragón
+1788,tordo + jengibre + azúcar + panceta ibérica salada + guindilla + tordo + jugo de tordo + anís estrellado + pimienta de Sechuán + aceite de sésamo + salsa de soja + cilantro + sésamo blanco
+1789,becada + jugo de becada + panceta ibérica entreverada ahumada
+1790, ostra + becada + jugo de becada + tuétano de ternera + chalota + vinagre de cabernet sauvignon + sal + pimienta negra
+1791,mora + eucalipto + cardamomo verde + jugo de tórtola
+1792, tórtola + jugo de tórtola + mora + cardamomo negro + grasa de foie-gras de pato + cacao + pimienta negra
+1793, huevo + miel de romero + harina + jugo de liebre + foie-gras de pato + tomillo + romero + laurel + pimenta negra + sal + jengibre + enebro + limón + naranja
+1794,jugo de liebre + chocolate 99% + cacao
+1795, liebre + jugo de liebre + tuétano de ternera + cebolla + tomate + ajo + panceta ibérica salada + zanahoria + apio + tierra + remolacha + jengibre + cidronela + enebro + tomillo + pimienta negra
+1796,fresita + consomé de liebre + pimienta negra
+1797,frambuesa + consomé de liebre + clara de huevo + cacao
+1798, jugo de liebre + foie-gras de pato + manteca de cacao
+1799,manzana + clara de huevo + jugo de liebre + foie-gras de pato + pimenta negra + azúcar + cacao
+1800, gorgonzola + nata + chocolate 99%
+1801, nuez tierna + azúcar + aceite de nuez
+1802,saint-félicien + kirsch+ mango + azúcar + oro
+1803,manzana + clara de huevo + yogur + miel de romero + flor de romero
+1804,gruyère + kirsch + grosella negra + eucalipto
+1805,yogur + clara de huevo + sésamo negro + azúcar + mantequilla + miso amarillo + sal de shiso + yuzu
+1806,lulo + whiskey ahumado + azúcar demerara + nata de leche de oveja
+1807, trufa blanca + manzana + miel de romero + sal + caña de azúcar
+1808,calabaza cabello de ángel + vainilla + caqui + azúcar + limón + yuzu + nata de leche de oveja + naranja
+1809, pandang + leche + azúcar + cidronela + jengibre + yema de huevo + coco fresco tierno + pasta de curry amarillo
+1810,tomate + grosella + eucalipto + coco + coco fresco tierno + aceite de almendra amarga de ciruela
+1811,té matcha + chocolate blanco + sake + frambuesa
+1812, azúcar + mandarina + flor de mandarina + eucalipto + rosas + flor de: romero, tagete, begonia, pensamiento, agastache albaricoque, aliso, rúcula, salvia, borraja, clavel ideal, salvia cassís, albahaca morada y sechuan button
+1813, azúcar + licor de anís + piñón
+1814,azúcar + licor de anís + cep + sal+ ajo + laurel + pimienta negra
+1815, trufa negra + castaña + azúcar + manitol + armañac
+1816, lima + té Earl grey
+1817,almendra cristal + almendra + flor de saúco + nectarina + aceite de almendra amarga de ciruela + miel de abeto
+1818,yuzu + aceite de sésamo + azúcar + sésamo blanco + yude azuki + sichimi togarashi + agua
+1819, ron añejo + caña de azúcar + café + naranja + limón
+1820, coco + chocolate 99%
+1821, botarga + azúcar
+1822, yuzu + manzana + clara de huevo + azúcar
+1823, sake + flor de saúco
+1824, azúcar + yogur + café + pistacho
+1825, fresa + vinagre balsámico + azúcar
+1826, naranja + arrope + mandarina + flor de mandarina + agua con gas + azúcar + vodka + aceite de almendra amarga de ciruela
+1827, manzana + moscatel + aguardiente de manzana + limón + azúcar + miel deshidratada granulada + flor de hinojo + lima + licor de manzana
+1828, yogur + mandarina + flor de mandarina + licor de anís + flor de hinojo + manitol + peladillas de piñón + azúcar
+1829,lima + leche + nata + coco + yogur + pasta de tamarindo + clara de huevo + coco fresco tierno + flor de albahaca morada + curry de Madrás
+1830, yogur + nata + agua + frambuesa + aguardiente de frambuesa + remolacha + clara de huevo + pimienta rosa
+1831, sake + amarena + cereza + nata + manitol + mandarina + flor de mandarina + sésamo negro + azúcar + harina de malta + mantequilla + flor de microtagete
+1832, café+ licor de café+ azúcar + fruta de la pasión + nata + cacao + chocolate + oro + menta
+1833, té matcha + azúcar + chocolate blanco + sake + chocolate 99% + nata + yuzu + limón
+1834, concentrado de fresa + harina de malta + azúcar + px 30 años + praliné de avellana + yogur
+1835, yogur + clara de huevo + cardamomo negro + agua + limón + ginebra + cardamomo verde + hierba luisa + licor de manzana + flor de hinojo + frambuesa + aguardiente de frambuesa + azúcar
+1836,fresa + yogur + clara de huevo + azúcar + nata + lima + pimienta negra
+1837, naranja sanguina + aceite de pipa de calabaza + pipa de calabaza + sal + azúcar + licor de anís
+1838, amarena + chocolate + almendra
+1839, coco + chocolate + cacao
+1840, mandarina + chocolate 99%
+1841, chocolate blanco + sésamo blanco + grosella negra + cacao
+1842, chocolate blanco + maíz
+1843, sésamo negro + azúcar + chocolate blanco
+1844, frambuesa + praliné de avellana + chocolate 99%
+1845, chocolate 99% + miel de romero + menta piperita + mentol
+1846, almendra cruda + leche de almendra tostada + azúcar + aceite virgen de almendra amarga de ciruela + amaretto + pulpa de melocotón de viña  + licor de melocotón + vainilla + frambuesa + yogur  + yema de huevo + leche + frambuesa liofilizada + hoja de melocotón + fondant + glucosa + isomalt + obulato  + nata  + pulpa de melocotón blanco  + melocotón de viña + kuzu
