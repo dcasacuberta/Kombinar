@@ -466,11 +466,7 @@ Número receta, ingredientes
 464,   hojaldre  +  parmesano  +  limón
 465,   palomitas  +  sal
 466,   chips de verdura  +  sal
-467,   chufa  +  agua  +  mandarina
-467a,   consomé  +  anís estrellado  +  sal
-467b,   almendra tostada  +  agua  +  sal
-467c,   espárrago verde  +  sal
-467d,   jugo de trufa negra  +  sal
+467,   chufa  +  agua  +  mandarina +consomé  +  anís estrellado  +  sal +almendra tostada  +  agua  +  sal+ espárrago verde  +  sal +jugo de trufa negra  +  sal
 468,   espárrago verde  +  jugo de trufa negra  +  sal
 469,   yogur  +  remolacha  +  frambuesa  +  pimienta
 470,   fresa  +  parmesano  +  sal  +  pimienta  +  aceite de oliva virgen
@@ -755,9 +751,7 @@ Número receta, ingredientes
 749,   remolacha  +  zanahoria  +  hinojo  +  frambuesa
 750,   brick  +  parmesano  +  limón  +  pimienta negra
 751,   llengüeta  +  sal
-752,   coco  +  jengibre  +  albahaca  +  hierba luisa  +  lima  +  tamarindo  +  curry  +  aceite de girasol
-752a,   soja  +  wasabi  +  alga nori  +  jengibre rosa  +  sésamo  +  aceite de jengibre
-752b,   maíz  +  cilantro  +  guindilla  +  aceite de girasol
+752,   coco  +  jengibre  +  albahaca  +  hierba luisa  +  lima  +  tamarindo  +  curry  +  aceite de girasol+soja  +  wasabi  +  alga nori  +  jengibre rosa  +  sésamo  +  aceite de jengibre +maíz  +  cilantro  +  guindilla  +  aceite de girasol
 753,   albahaca  +  tomate  +  consomé  +  pomelo rosa  +  panceta ibérica
 754,   jamón  +  parmesano  +  albahaca  +  pimiento  +  cebolla  +  zanahoria  +  nabo  +  apio  +  espárrago blanco  +  panceta ibérica
 755,   foie-gras de pato  +  consomé  +  tamarindo
@@ -976,10 +970,7 @@ Número receta, ingredientes
 968,  miel de romero   +  jarabe de granada   +  pimienta de Sechuán   +  esencia de mástic   +  estragón
 969,  kiwano   +  azúcar   +  lima   +  nuez moscada
 970,  ron blanco +  ron negro   +  piña   +  coco   +  azúcar
-971,  pan   +  cep   +  ajo   +  laurel   +  aceite de girasol   +  pimienta negra   +  sal
-971a,  pan   +  roquefort   +  aceite de oliva virgen extra
-971b,  pan   +  trufa de verano   +  aceite de trufa blanca   +  cebollino   +  sal
-971c,  pan   +  pimienta negra   +  aceite de trufa blanca   +  grasa de jamón ibérico
+971,  pan   +  cep   +  ajo   +  laurel   +  aceite de girasol   +  pimienta negra   +  sal +  roquefort   +  aceite de oliva virgen extra +  trufa de verano   +  aceite de trufa blanca   +  cebollino +  pimienta negra   +  aceite de trufa blanca   +  grasa de jamón ibérico
 972,  eucalipto +  aceite de girasol   +  grosella   +  sal
 973,  remolacha   +  azúcar   +  vinagre en polvo   +  pimienta negra
 974,  nuez   +  huevo   +  aceite de nuez   +  aceite de girasol   +  nata   +  limón
@@ -1100,8 +1091,7 @@ Número receta, ingredientes
 1089,  fruta de la pasión   +  clara de huevo   +  azúcar
 1090, limón + tequila + cointreau + sal
 1091, fresa + lima + cachaça + frambuesa + albahaca
-1092, melocotón + sangría  +  menta + canela
-1092a, sandía + ginebra + enebro + limón
+1092, melocotón + sangría  +  menta + canela +sandía + ginebra + enebro + limón
 1093, sangría blanca + melón + lima + fresita + frambuesa + mango + manzana + fruta de la pasión + hierba luisa + albahaca + menta + menta piperita
 1094, kumquat + vermouth rojo + canela + limón
 1095, aceituna verde + aceite de oliva virgen extra + limón + naranja + tomillo + romero + pimienta negra
@@ -1134,9 +1124,7 @@ Número receta, ingredientes
 1122, flor de mandarino + mandarina
 1123, salicornia + panceta ibérica entreverada ahumada + ostra + azafrán
 1124, ventresca de caballa + chuen kai + limón + huevo entero + sésamo blanco japonés + vinagre de arroz
-1125, brioche + mozzarella + falso tartufo
-1125a, brioche + tuétano de ternera + caviar
-1125b, brioche + mozzarella + rosas
+1125, brioche + mozzarella + falso tartufo + tuétano de ternera + caviar + mozzarella + rosas
 1126, melón + jamón + pimienta negra
 1127, mozzarella + nata
 1128, harina de malta + mantequilla + erizo + lima + sal
@@ -1195,8 +1183,7 @@ Número receta, ingredientes
 1181, col roja + mostaza + estragón + jamón ibérico + enebro + canela + cardamomo
 1182, madera de barrica de whiskey tipo Tennessee
 1183, melocotón rojo + licor de melocotón
-1184, mozzarella de búfala
-1184a, mozzarella de búfala + melocotón + pera + manzana + miel de piña de abeto + hinojo + albahaca
+1184, mozzarella de búfala + melocotón + pera + manzana + miel de piña de abeto + hinojo + albahaca
 1185, fruta de la pasión + coco + menta + chocolate
 1186, granadilla + toffee + fruta de la pasión +cardamomo
 1187, melocotón + yogur griego + yogur + café + almendra amarga + hierba luisa + amaretto + limón + sechuan button + albahaca + tomillo limonero
@@ -1216,24 +1203,17 @@ Número receta, ingredientes
 1201, flor de saúco + cereza + yogur
 1202, limón + ron blanco + café + caramelo japonés
 1203, harina de arroz glutinoso + azúcar + café + fécula de patata + guanábana + fruta de la pasión
-1203a, harina de arroz glutinoso + azúcar + fruta de la pasión + fécula de patata + nata + albahaca +regaliz
-1203b, harina de arroz glutinoso + azúcar + fécula de patata + yogur + yogur griego + ácido cítrico + té matcha + frambuesa + romero
 1204, clara de huevo + azúcar + café + chocolate
 1205, miel de romero + clara de huevo + miel de romero ahumada + limón
 1206, huevo entero + miel de romero + castaña + praliné de avellana + vainilla + aceite de oliva
 1207, fruta de la pasión liofilizada + azúcar moreno
 1208, menta chocolatera + leche + azúcar + chocolate + manteca de cacao
-1209, fruta de la pasión + chocolate + praliné de avellana + azúcar
-1209a, azúcar + yogur + chocolate blanco + nuez de macadamia
+1209, fruta de la pasión + chocolate + praliné de avellana + azúcar+azúcar + yogur + chocolate blanco + nuez de macadamia
 1210, fresa + azúcar + limón + chocolate + manteca de cacao + petazetas + aceite esencial de eucalipto
 1211, frambuesa + leche + chocolate con leche + fruta de la pasión + chocolate + manteca de cacao + chocolate blanco
 1212, chocolate + frambuesa
-1213, frambuesa + chocolate
-1213a, fruta de la pasión + chocolate blanco
-1214, frambuesa + chocolate
-1214a, albaricoque + chocolate blanco + menta
-1214b, melocotón + hierba luisa + chocolate con leche
-1214c, fresa + chocolate blanco + aceite esencial de rosas + yogur + ácido cítrico
+1213, frambuesa + chocolate +fruta de la pasión + chocolate blanco
+1214, frambuesa + chocolate lbaricoque + chocolate blanco + menta +melocotón + hierba luisa + chocolate con leche+ fresa + chocolate blanco + aceite esencial de rosas + yogur + ácido cítrico
 1215,  mango + bombón + nuez + miel de romero + azúcar + pimienta negra
 1216,  azúcar + limquat + ginebra + haba tonka + soda
 1217,  mandarina + fresa + azúcar + licor de mandarina + campari + soda
